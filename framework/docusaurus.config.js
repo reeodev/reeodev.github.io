@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Reeodev',
   tagline: 'Open, click and use. EZ.',
-  url: 'https://dreamy-bardeen-752a98.netlify.app',
+  url: 'https://reeodev.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'reemo studio', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/reelogo.ico',
+  organizationName: 'reeodev', 
+  projectName: 'reeodev.github.io', // Usually your repo name.
 
   presets: [
     [
@@ -28,7 +28,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/reeodev/reeodev.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +58,7 @@ const config = {
           //   label: 'Tools',
           //   position: 'left'},
           {
-            href: 'https://github.com/r48n34',
+            href: 'https://github.com/reeodev',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,7 +86,7 @@ const config = {
             title: 'More',
             items: [
               //{ label: 'Blog',to: '/blog' },
-              { label: 'GitHub',href: 'https://github.com/r48n34', },
+              { label: 'GitHub',href: 'https://github.com/reeodev', },
             ],
           },
         ],
