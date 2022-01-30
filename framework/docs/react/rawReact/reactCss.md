@@ -55,3 +55,6 @@ These websites can be references for your design ideas
 ## Multimedia
 ### - react-youtube
 [https://www.npmjs.com/package/react-youtube](https://www.npmjs.com/package/react-youtube)  
+
+### - react-lite-yt-embed 
+[https://github.com/kylemocode/react-lite-yt-embed](https://github.com/kylemocode/react-lite-yt-embed)   
