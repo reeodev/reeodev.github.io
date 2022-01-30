@@ -8,10 +8,10 @@ These websites can be references for your design ideas
 
 ## General framework
 
-### NativeBase
+### - NativeBase
 [https://www.nativebase.io/](https://www.nativebase.io/)
  
 
-### react-native-paper
+### - react-native-paper
 [https://github.com/callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 

@@ -7,11 +7,11 @@ sidebar_position: 2
 These websites can be references for your design ideas 
 
 ## From
-### react-hook-form
+### - react-hook-form
 [https://github.com/react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
 
 
 ## Status
-### stats.js
+### - stats.js
 [http://mrdoob.github.io/stats.js/](http://mrdoob.github.io/stats.js/)
 
