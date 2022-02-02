@@ -11,16 +11,19 @@ These websites can be references for your design ideas
 [https://mui.com/zh/](https://mui.com/zh/)
  
 ### - React Bootstrap
-[https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)
+[https://react-bootstrap.github.io/](https://react-bootstrap.github.io/)  
 
 ### - Tailwind CSS
-[https://tailwindcss.com/](https://tailwindcss.com/)
+[https://tailwindcss.com/](https://tailwindcss.com/)  
 
 ### - daisyUI
-[https://daisyui.com/](https://daisyui.com/)
+[https://daisyui.com/](https://daisyui.com/)  
 
 ### - React Toolbox
-[http://react-toolbox.io/#/](http://react-toolbox.io/#/)
+[http://react-toolbox.io/#/](http://react-toolbox.io/#/)  
+
+### - Primer React
+[https://primer.style/react/](https://primer.style/react/)  
 
 
 ## Icons  
@@ -30,7 +33,10 @@ These websites can be references for your design ideas
 
 ## Animations 
 ### - react-swipeable-views
-[https://github.com/oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
+[https://github.com/oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)  
+
+### - react-three-fiber
+[https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)  
 
 ## Alert pop up
 ### - sweetalert2-react-content
@@ -48,9 +54,12 @@ These websites can be references for your design ideas
 ### - react-chartjs-2  
 [https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)  
 
-## Drawing / Board 
+## Drawing / Board / Text editor 
 ### - tldraw  
-[https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)  
+[https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)   
+
+### - quilljs  
+[https://quilljs.com/](https://quilljs.com/)    
 
 ## Multimedia
 ### - react-youtube
@@ -58,3 +67,6 @@ These websites can be references for your design ideas
 
 ### - react-lite-yt-embed 
 [https://github.com/kylemocode/react-lite-yt-embed](https://github.com/kylemocode/react-lite-yt-embed)   
+
+### - lite-youtube-embed 
+[https://github.com/paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed)   
