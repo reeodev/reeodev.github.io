@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/reelogo.ico',
   organizationName: 'reeodev', 
   projectName: 'reeodev.github.io', // Usually your repo name.
-
   presets: [
     [
       'classic',
@@ -53,10 +52,11 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
-          // {
-          //   to: '/my-react-page',
-          //   label: 'Tools',
-          //   position: 'left'},
+          {
+            to: '/ToolsInterface',
+            label: 'Tools',
+            position: 'left'
+          },
           {
             href: 'https://github.com/reeodev',
             label: 'GitHub',

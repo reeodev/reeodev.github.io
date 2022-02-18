@@ -172,17 +172,16 @@ export default function Home() {
 
         <br/>
 
-        <div style={{ display: "flex", justifyContent: "center", textAlign:"center"}}>
+        <div style={{ display: "flex", justifyContent: "center", textAlign:"center", padding:"30px"}}>
           <div>
 
-            <h1>Start now</h1>
+            <h1 style={{ fontSize:"60px" }}>Start now!</h1>
             <div className={styles.buttons}>
               <Link className="button button--secondary button--lg" to="/docs/intro">
                 Getting started
               </Link>
             </div>
           </div>
-
         </div>
 
         <br/>
