@@ -25,7 +25,7 @@ const dataArrStudent = [
 
 function SingleBox({ data, bgColor }){
     return (
-        <Card sx={{ width: 150, height: 150 , backgroundColor: bgColor , color:'white', display:'flex', alignItems:'center', justifyContent:"center" }} style={{ textAlign:"center" }}>
+        <Card sx={{ '&:hover':{ opacity: [0.8, 0.8, 0.7] }, width: 150, height: 150 , backgroundColor: bgColor , color:'white', display:'flex', alignItems:'center', justifyContent:"center" }} style={{ textAlign:"center" }}>
             <CardContent>
                 { data.icon }
                 <Typography Typography variant="subtitle1">
