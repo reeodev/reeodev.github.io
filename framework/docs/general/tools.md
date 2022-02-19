@@ -11,6 +11,11 @@ These websites can be references for your design ideas
 - Turn your code into awesome pictures.      
 [https://www.codepng.app/](https://www.codepng.app/)
 
+### - Lottiefiles  
+- Lightweight, scalable animations for your docs and pitches.    
+[https://lottiefiles.com/](https://lottiefiles.com/)  
+
+
 ## Deployment
 ### - Netlify Drop
 - Drag and drop a folder with your site’s HTML, CSS, and JS files. We’ll publish them live and give you a link to share it.       

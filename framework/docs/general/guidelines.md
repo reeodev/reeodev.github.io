@@ -7,17 +7,22 @@ sidebar_position: 4
 These websites can be references for your design ideas 
 
 ## Behance  
-[https://www.behance.net/search/projects?field=web%20design](https://www.behance.net/search/projects?field=web%20design)
-![Docusaurus logo](/img/behance.jpg)
+[https://www.behance.net/search/projects?field=web%20design](https://www.behance.net/search/projects?field=web%20design)  
 
 ## UXEngineer
-[https://uxengineer.com/](https://uxengineer.com/)
-![Docusaurus logo](/img/deviantart.jpg)
+[https://uxengineer.com/](https://uxengineer.com/)  
 
 ## UI Garage
-[https://uigarage.net/](https://uigarage.net/)
-![Docusaurus logo](/img/dribbble.jpg)
+[https://uigarage.net/](https://uigarage.net/)  
 
 ## Ant Design
-[https://ant.design/](https://ant.design/)
-![Docusaurus logo](/img/dribbble.jpg)
+[https://ant.design/](https://ant.design/)   
+
+## Nielsen Norman Group
+[https://www.nngroup.com/articles/](https://www.nngroup.com/articles/)    
+
+## Google Fonts Knowledge   
+[https://fonts.google.com/knowledge](https://fonts.google.com/knowledge)   
+
+## Learn UI Design Blog     
+[https://learnui.design/blog/](https://learnui.design/blog/)    

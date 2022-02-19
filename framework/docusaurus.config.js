@@ -25,9 +25,6 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/reeodev/reeodev.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,6 +55,11 @@ const config = {
             position: 'left'
           },
           {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
             href: 'https://github.com/reeodev',
             label: 'GitHub',
             position: 'right',
@@ -85,7 +87,7 @@ const config = {
           {
             title: 'More',
             items: [
-              //{ label: 'Blog',to: '/blog' },
+              { label: 'Blog',to: '/blog' },
               { label: 'GitHub',href: 'https://github.com/reeodev', },
             ],
           },
