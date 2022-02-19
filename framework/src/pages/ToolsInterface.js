@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Layout from '@theme/Layout';
 
 import Grid from '@mui/material/Grid';
@@ -40,16 +40,10 @@ function SingleCard({ data }){
 }
 
 const dataArr = [
-    { title: "Design hub", subTitle: "Collections tools wow.", link: "/DesignHub"}
+    { title: "Design hub", subTitle: "Collections tools wow.", link: "/"}
 ]
 
 export default function ToolsInterface() {
-
-    const [toggle, setToggle] = useState(false)
-
-    useEffect( () => {
-        console.log("object");
-    },[])
 
     return (
         <Layout>

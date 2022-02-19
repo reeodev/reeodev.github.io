@@ -5,6 +5,8 @@ authors: [reemo]
 tags: [EE4213, design]
 ---
 
+import CamputRedesign from '@site/src/pages/CamputRedesign'
+
 ## Good design : Moneyback (Watson group membership applications)
 ![apps photo](./chrome_D6sCO9xUzP.png)  
 
@@ -57,9 +59,8 @@ In terms of constraints and affordance, we may observe that several options may 
 ![aims nav photo](./chrome_kqMq6w8Bqj.png)     
 
 ### Mapping & Visibility
+![aims nav2 photo](./chrome_CMz1OWte6T.png)    
 For the mapping principle, humans' reading priority is from the top to bottom, left to right in majority countries and language systems. Hence, to catch users' eyes, they should put the important and common items from top to bottom and make it simple to find. In pages like “Student Services” or “Staff Services”, no patterns or certain order can be found from the pages. As a result, the visibility of each page is not ideal. Users need to involve an amount of time to find the target href. Both mapping and visibility is below expectations. To improve the system, I might suggest using the below design.  
-
-![aims nav2 photo](./chrome_CMz1OWte6T.png)  
 
 ![aims design photo](./chrome_gDgHzr5DyJ.png)  
 
@@ -88,6 +89,68 @@ For the mapping principle, humans' reading priority is from the top to bottom, l
 </tr>
 </tbody>
 ```
+<CamputRedesign/>
+
+### Functional code
+```jsx
+import React from 'react';
+import Grid from '@mui/material/Grid';
+import Box from '@mui/material/Box';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Typography from '@mui/material/Typography';
+import Container from '@mui/material/Container';
+import { FaCrosshairs, FaHammer, FaLandmark, FaLock, FaHome, FaUserPlus } from "react-icons/fa";
+
+const iconSize = 50
+const dataArrJob = [
+    { title: "Student Helper & Internship", icon: <FaCrosshairs size={iconSize}/> },
+    { title: "Commencement Job ", icon: <FaHammer size={iconSize}/> },
+    { title: "JobPlus Vacancies", icon: <FaLandmark size={iconSize}/> },
+]
+
+const dataArrStudent = [
+    { title: "Locker", icon: <FaLock size={iconSize}/> },
+    { title: "Residence", icon: <FaHome size={iconSize}/> },
+    { title: "Student Volunteers", icon: <FaUserPlus size={iconSize}/> },
+]
+
+function SingleBox({ data, bgColor }){
+    return (
+        <Card sx={{ width: 150, height: 150 , backgroundColor: bgColor , color:'white', display:'flex', alignItems:'center', justifyContent:"center" }} style={{ textAlign:"center" }}>
+            <CardContent>
+                { data.icon }
+                <Typography Typography variant="subtitle1">
+                    { data.title }
+                </Typography>
+            </CardContent>
+        </Card>
+    )
+}
+
+function RowList({ title, data, bgColor }){
+    return (
+        <>
+        <h2>{ title }</h2> 
+        <Box sx={{ flexGrow: 1 }}>
+            <Grid container spacing={2}>
+                { data.map ( v => (<Grid item md={3} xs={3}> <SingleBox data={v} bgColor={bgColor} />  </Grid>) ) }
+            </Grid>
+        </Box>
+        </>
+    )
+}
+
+export default function CamputRedesign() {
+    return (
+        <Container maxWidth="xg" style={{ marginTop: "30px" }}>
+            <RowList title="Jobs related" data={dataArrJob} bgColor="#A50C5F"/> <br/>
+            <RowList title="Student Services" data={dataArrStudent} bgColor="#6385C5"/><br/>     
+        </Container>
+    );
+}
+```
+
 
 By using a different design, we may find the target icons are more visible. The importance of using several color boxes and icons may make the interaction patterns more recognizable within box position. Humans tend to recognize graphics and colors rather than plain text. Using the sensations of visuals, we can establish the feedback by certain box reactions and click effects.  
 
