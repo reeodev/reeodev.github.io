@@ -19,3 +19,21 @@ These websites can be references for your design ideas
 
 ### xstate.js
 [https://xstate.js.org/](https://xstate.js.org/)
+
+
+
+# Framework
+
+## General framework
+
+### Next.js
+[https://nextjs.org/](https://nextjs.org/)
+
+### Gatsby
+[https://www.gatsbyjs.com/](https://www.gatsbyjs.com/)
+
+### Vite
+[https://vitejs.dev/](https://vitejs.dev/)
+
+### Remix
+[https://remix.run/](https://remix.run/)

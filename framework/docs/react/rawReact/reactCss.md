@@ -83,7 +83,10 @@ These websites can be references for your design ideas
 
 ## Data visualization  
 ### - react-chartjs-2  
-[https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)  
+[https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)   
+
+### - react-data-table-component  
+[https://github.com/jbetancur/react-data-table-component](https://github.com/jbetancur/react-data-table-component)  
 
 
 
@@ -117,3 +120,11 @@ These websites can be references for your design ideas
 
 ### - lite-youtube-embed 
 [https://github.com/paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed)   
+
+
+## Map
+### - Pigeon Maps
+[https://pigeon-maps.js.org/](https://pigeon-maps.js.org/)  
+
+### - React Leaflet
+[https://react-leaflet.js.org/](https://react-leaflet.js.org/)   
