@@ -28,6 +28,9 @@ These websites can be references for your design ideas
 ### - Primer React
 [https://primer.style/react/](https://primer.style/react/)  
 
+### - Mantine
+[https://mantine.dev/](https://mantine.dev/)  
+
 
 
 ## Icons  

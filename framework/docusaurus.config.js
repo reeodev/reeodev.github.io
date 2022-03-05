@@ -14,6 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/reelogo.ico',
   organizationName: 'reeodev', 
+  plugins: [require.resolve('docusaurus-lunr-search')],
   projectName: 'reeodev.github.io', // Usually your repo name.
   presets: [
     [

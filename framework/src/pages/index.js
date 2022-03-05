@@ -5,10 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 import styles from './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
+// import HomepageFeatures from '../components/HomepageFeatures';
 
 import TypeIt from "typeit-react";
-import { Fade, Reveal } from "react-awesome-reveal";
+import { Fade } from "react-awesome-reveal";
 
 import LeftSvg from "../../static/img/undraw_folder_re_j0i0.svg"
 import BtttomOneSvg from "../../static/img/undraw_on_the_office_re_cxds.svg"
@@ -185,15 +185,6 @@ export default function Home() {
         </div>
 
         <br/>
-
-
-        {/* <div style={{ position:'relative' }}>
-          <div className={styles.customShape16} >
-              <svg data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                  <path d="M0,0V7.23C0,65.52,268.63,112.77,600,112.77S1200,65.52,1200,7.23V0Z" className={styles.shapeFill}></path>
-              </svg>
-          </div>
-        </div> */}
 
     </Layout>
   );

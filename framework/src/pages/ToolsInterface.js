@@ -47,7 +47,6 @@ export default function ToolsInterface() {
 
     return (
         <Layout>
-            {/* <h1 className={ `test ${toggle ? 'active':''}` } onClick={() => setToggle( !toggle )}>My React page</h1> <p>This is a React page</p> */}
             <Container maxWidth="lg" style={{ marginTop: "30px" }}>
             <h1>Tools</h1> 
 
