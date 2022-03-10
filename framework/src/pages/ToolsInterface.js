@@ -57,9 +57,9 @@ export default function ToolsInterface() {
                         <SingleCard data={dataArr[0]}/>
                     </Grid>
 
-                    <Grid item md={6} xs={12}>
+                    {/* <Grid item md={6} xs={12}>
                         <SingleCard data={dataArr[0]}/>
-                    </Grid>
+                    </Grid> */}
 
                 </Grid>
             </Box>
