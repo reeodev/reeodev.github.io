@@ -40,6 +40,7 @@ const sidebars = {
       label: 'Javascript',
       items: [
         "javascript/javascript_utili",
+        "javascript/javascript_tools",
        ],
     },
     {
@@ -83,6 +84,7 @@ const sidebars = {
           label: 'React Native',
           items: [
             "react/native/reactNativeCss",
+            "react/native/utility",
           ],
         },
       ],
