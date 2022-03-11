@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/reelogo.ico',
   organizationName: 'reeodev', 
   projectName: 'reeodev.github.io', // Usually your repo name.
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   presets: [
     [
       'classic',

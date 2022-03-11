@@ -40,7 +40,7 @@ function SingleCard({ data }){
 }
 
 const dataArr = [
-    { title: "Design hub", subTitle: "Collections tools wow.", link: "/"}
+    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://reemostudio.games/#/PlayFlow"}
 ]
 
 export default function ToolsInterface() {
