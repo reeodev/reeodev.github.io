@@ -2,16 +2,15 @@ import Layout from '@theme/Layout';
 import React, { useEffect, useState } from 'react';
 import { CirclePicker, SketchPicker } from 'react-color';
 
-import { successCopySwal } from '../components/swalPopUtilis';
-import { getStoreObject, setObject } from "../components/betterLocalStore"
+import { getStoreObject, setObject } from "../components/colorHub/utilis/betterLocalStore"
+
+import ColorDisplay from '../components/colorHub/comp/ColorDisplay';
+import SearchBox from '../components/colorHub/comp/SearchBox';
 
 import Grid from '@mui/material/Grid';
 import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
-import Input from '@mui/material/Input';
-import InputAdornment from '@mui/material/InputAdornment';
-import SearchIcon from '@mui/icons-material/Search';
 
 const colorArrDefault = [
     { title:"Blue mood", colorArr: ["#5389C0", "#8EC0F5", "#FFFFFF", "#E0BFCC" ], label:["game"] },
@@ -20,17 +19,18 @@ const colorArrDefault = [
 ]
 
 function ColorHub() {
-    const [ colorArr, SetcolorArr ] = useState(colorArrDefault); // display color array
+    const [ colorArr, setcolorArr ] = useState(colorArrDefault); // display color array
     const [ initLoading, setInitLoading ] = useState(true);// page first loading
-    const [ pickedcolorArr, SetPickedcolorArr ] = useState([]);// color picker bottom color display history
-    const [ currPickcolor, SetCurrPickcolor ] = useState("#000000"); // color picker top value changer
-    const [ searchString, SetSearchString ] = useState(""); // input box searching string
+    const [ pickedcolorArr, setPickedcolorArr ] = useState([]);// color picker bottom color display history
+    const [ currPickcolor, setCurrPickcolor ] = useState("#000000"); // color picker top value changer
+    const [ searchString, setSearchString ] = useState(""); // input box searching string
+    
 
     useEffect( () => {
 
         if(initLoading){
             let storeData = getStoreObject("pickedColorArr") || [];
-            SetPickedcolorArr(storeData);
+            setPickedcolorArr(storeData);
             setInitLoading(false);
             return;
         }
@@ -41,22 +41,12 @@ function ColorHub() {
 
     useEffect( () => {
         const finalArr = colorArrDefault.filter( (v) => v.title.toLowerCase().includes(searchString.toLowerCase()) )
-        SetcolorArr(finalArr);
+        setcolorArr(finalArr);
     },[searchString])
 
-    function copyLeftColorToClipboard(content){
-        try{
-
-            navigator.clipboard.writeText(content);
-    
-            if(pickedcolorArr.indexOf(content) === -1){
-                SetPickedcolorArr([...pickedcolorArr, content]);
-            }
-    
-            successCopySwal(true);
-        }
-        catch(err){
-            successCopySwal(false);
+    function addPickedColorArr(content){
+        if(pickedcolorArr.indexOf(content) === -1){
+            setPickedcolorArr([...pickedcolorArr, content]);
         }
     }
 
@@ -67,10 +57,8 @@ function ColorHub() {
             <br/>
             <h1>Great color combinations</h1>
             <div style={{ backgroundColor:"rgb(92,210,239)", width:"150px", height:"6px", marginBottom:"3px"}}></div>
-            <Input 
-                startAdornment={ <InputAdornment position="start"> <SearchIcon /> </InputAdornment> }
-                onChange={ (e) => SetSearchString(e.currentTarget.value) }
-            />
+
+            <SearchBox setString={setSearchString}/>
 
                 <Grid container spacing={2}>
 
@@ -80,15 +68,7 @@ function ColorHub() {
                             <Grid item md={6} mt={2} key={"c" + i}>
                             <h3 style={{ color: "#626262" }}>{v.title}</h3>
                             <div style={{ backgroundColor:"#C4C4C4", padding:"1rem", borderRadius:"0.5rem" }}>
-                            <CirclePicker
-                                colors={v.colorArr} 
-                                circleSize={48}
-                                circleSpacing={16}
-                                width={"100%"}
-                                onChangeComplete={ (color) => {
-                                    copyLeftColorToClipboard(color.hex);
-                                }}
-                            />
+                                <ColorDisplay colorArr={v.colorArr} insideText={""} setPickedcolorArr={addPickedColorArr}/>
                             </div>
                             </Grid>
                         ))}
@@ -100,22 +80,15 @@ function ColorHub() {
                         <SketchPicker
                             width={"100%"}
                             color={currPickcolor} 
-                            onChange={ (color) => SetCurrPickcolor(color.hex) }
+                            onChange={ (color) => setCurrPickcolor(color.hex) }
                             presetColors={pickedcolorArr}
                         />
                         </Box>
                         <Box sx={{ backgroundColor:"#C4C4C4", padding:"1rem", borderRadius:"0.5rem", marginTop:"1rem" }}>
-                            <h3>Copy value</h3>
-                            <CirclePicker
-                                colors={pickedcolorArr} 
-                                circleSize={48}
-                                circleSpacing={16}
-                                width={"100%"}
-                                onChangeComplete={ (color) => copyLeftColorToClipboard(color.hex) }
-                            />
+                            <ColorDisplay colorArr={pickedcolorArr} insideText={"Copy value"} setPickedcolorArr={addPickedColorArr}/>
                         </Box>
                         <Box sx={{ display: "flex", justifyContent:"right", marginTop:"1rem"}}>
-                            <Button variant="contained" onClick={ () => SetPickedcolorArr([]) } >Clear history</Button>
+                            <Button variant="contained" onClick={ () => setPickedcolorArr([]) } >Clear history</Button>
                         </Box>
                     </Grid>
                         

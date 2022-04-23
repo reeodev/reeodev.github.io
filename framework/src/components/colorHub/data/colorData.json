@@ -1,0 +1,5 @@
+[
+    { "title":"Blue mood", "colorArr": ["#5389C0", "#8EC0F5", "#FFFFFF", "#E0BFCC" ], "label":["game"] },
+    { "title":"Genki", "colorArr": ["#FFFFFF", "#FA8072"], "label":["web"] },
+    { "title":"Nayutan Style", "colorArr": ["#FF5355", "#46CAF1", "#36C38B", "#454746"], "label":["web"] }
+]
