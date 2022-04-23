@@ -40,7 +40,8 @@ function SingleCard({ data }){
 }
 
 const dataArr = [
-    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://reemostudio.games/#/PlayFlow"}
+    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://reemostudio.games/#/PlayFlow"},
+    { title: "Color hub", subTitle: "Collections color utilis.", link: "https://reeodev.github.io/ColorHub"},
 ]
 
 export default function ToolsInterface() {
@@ -57,9 +58,9 @@ export default function ToolsInterface() {
                         <SingleCard data={dataArr[0]}/>
                     </Grid>
 
-                    {/* <Grid item md={6} xs={12}>
-                        <SingleCard data={dataArr[0]}/>
-                    </Grid> */}
+                    <Grid item md={6} xs={12}>
+                        <SingleCard data={dataArr[1]}/>
+                    </Grid>
 
                 </Grid>
             </Box>
