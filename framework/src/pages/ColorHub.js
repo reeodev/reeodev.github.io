@@ -45,13 +45,19 @@ function ColorHub() {
     },[searchString])
 
     function copyLeftColorToClipboard(content){
-        navigator.clipboard.writeText(content);
+        try{
 
-        if(pickedcolorArr.indexOf(content) === -1){
-            SetPickedcolorArr([...pickedcolorArr, content]);
+            navigator.clipboard.writeText(content);
+    
+            if(pickedcolorArr.indexOf(content) === -1){
+                SetPickedcolorArr([...pickedcolorArr, content]);
+            }
+    
+            successCopySwal(true);
         }
-
-        successCopySwal(true);
+        catch(err){
+            successCopySwal(false);
+        }
     }
 
     return (
@@ -78,7 +84,7 @@ function ColorHub() {
                                 colors={v.colorArr} 
                                 circleSize={48}
                                 circleSpacing={16}
-                                width={"300px"}
+                                width={"100%"}
                                 onChangeComplete={ (color) => {
                                     copyLeftColorToClipboard(color.hex);
                                 }}
@@ -92,11 +98,21 @@ function ColorHub() {
                     <Grid item md={4} order={{ xs: 1, lg: 2, xl: 2 }}>
                         <Box sx={{ display: "flex", justifyContent:"right", marginTop:"1rem"}}>
                         <SketchPicker
-                            width={390}
-                            color={ currPickcolor } 
+                            width={"100%"}
+                            color={currPickcolor} 
                             onChange={ (color) => SetCurrPickcolor(color.hex) }
                             presetColors={pickedcolorArr}
                         />
+                        </Box>
+                        <Box sx={{ backgroundColor:"#C4C4C4", padding:"1rem", borderRadius:"0.5rem", marginTop:"1rem" }}>
+                            <h3>Copy value</h3>
+                            <CirclePicker
+                                colors={pickedcolorArr} 
+                                circleSize={48}
+                                circleSpacing={16}
+                                width={"100%"}
+                                onChangeComplete={ (color) => copyLeftColorToClipboard(color.hex) }
+                            />
                         </Box>
                         <Box sx={{ display: "flex", justifyContent:"right", marginTop:"1rem"}}>
                             <Button variant="contained" onClick={ () => SetPickedcolorArr([]) } >Clear history</Button>
