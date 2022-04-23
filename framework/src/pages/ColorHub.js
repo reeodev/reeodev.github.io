@@ -1,10 +1,17 @@
-import React, { useEffect, useState } from 'react';
 import Layout from '@theme/Layout';
+import React, { useEffect, useState } from 'react';
 import { CirclePicker, SketchPicker } from 'react-color';
-import { successCopySwal } from '../components/swalPopUtilis';
-import Grid from '@mui/material/Grid';
 
+import { successCopySwal } from '../components/swalPopUtilis';
+import { getStoreObject, setObject } from "../components/betterLocalStore"
+
+import Grid from '@mui/material/Grid';
+import Button from '@mui/material/Button';
+import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
+import Input from '@mui/material/Input';
+import InputAdornment from '@mui/material/InputAdornment';
+import SearchIcon from '@mui/icons-material/Search';
 
 const colorArrDefault = [
     { title:"Blue mood", colorArr: ["#5389C0", "#8EC0F5", "#FFFFFF", "#E0BFCC" ], label:["game"] },
@@ -13,19 +20,38 @@ const colorArrDefault = [
 ]
 
 function ColorHub() {
-    const [ colorArr, SetcolorArr ] = useState(colorArrDefault);
-    const [ pickedcolorArr, SetPickedcolorArr ] = useState([]);
-    const [ currPickcolor, SetCurrPickcolor ] = useState("#000000");
+    const [ colorArr, SetcolorArr ] = useState(colorArrDefault); // display color array
+    const [ initLoading, setInitLoading ] = useState(true);// page first loading
+    const [ pickedcolorArr, SetPickedcolorArr ] = useState([]);// color picker bottom color display history
+    const [ currPickcolor, SetCurrPickcolor ] = useState("#000000"); // color picker top value changer
+    const [ searchString, SetSearchString ] = useState(""); // input box searching string
 
-    function cpoyColorToClipboard(content){
+    useEffect( () => {
+
+        if(initLoading){
+            let storeData = getStoreObject("pickedColorArr") || [];
+            SetPickedcolorArr(storeData);
+            setInitLoading(false);
+            return;
+        }
+
+        setObject("pickedColorArr", pickedcolorArr, true);
+
+    },[pickedcolorArr])
+
+    useEffect( () => {
+        const finalArr = colorArrDefault.filter( (v) => v.title.toLowerCase().includes(searchString.toLowerCase()) )
+        SetcolorArr(finalArr);
+    },[searchString])
+
+    function copyLeftColorToClipboard(content){
         navigator.clipboard.writeText(content);
 
         if(pickedcolorArr.indexOf(content) === -1){
             SetPickedcolorArr([...pickedcolorArr, content]);
         }
 
-        successCopySwal();
-
+        successCopySwal(true);
     }
 
     return (
@@ -35,6 +61,10 @@ function ColorHub() {
             <br/>
             <h1>Great color combinations</h1>
             <div style={{ backgroundColor:"rgb(92,210,239)", width:"150px", height:"6px", marginBottom:"3px"}}></div>
+            <Input 
+                startAdornment={ <InputAdornment position="start"> <SearchIcon /> </InputAdornment> }
+                onChange={ (e) => SetSearchString(e.currentTarget.value) }
+            />
 
                 <Grid container spacing={2}>
 
@@ -50,7 +80,7 @@ function ColorHub() {
                                 circleSpacing={16}
                                 width={"300px"}
                                 onChangeComplete={ (color) => {
-                                    cpoyColorToClipboard(color.hex);
+                                    copyLeftColorToClipboard(color.hex);
                                 }}
                             />
                             </div>
@@ -60,17 +90,22 @@ function ColorHub() {
                     </Grid>
 
                     <Grid item md={4} order={{ xs: 1, lg: 2, xl: 2 }}>
+                        <Box sx={{ display: "flex", justifyContent:"right", marginTop:"1rem"}}>
                         <SketchPicker
-                            width={400}
+                            width={390}
                             color={ currPickcolor } 
                             onChange={ (color) => SetCurrPickcolor(color.hex) }
                             presetColors={pickedcolorArr}
                         />
+                        </Box>
+                        <Box sx={{ display: "flex", justifyContent:"right", marginTop:"1rem"}}>
+                            <Button variant="contained" onClick={ () => SetPickedcolorArr([]) } >Clear history</Button>
+                        </Box>
                     </Grid>
                         
                 </Grid>
 
-                <br/><br/>
+                <br/>
 
         </Container>
         </Layout>

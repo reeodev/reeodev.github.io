@@ -3,12 +3,13 @@ import withReactContent from 'sweetalert2-react-content'
 
 const MySwal = withReactContent(Swal)
 
-function successCopySwal(){
+function successCopySwal(success = true){
+
     MySwal.fire({
       position: 'top-end',
-      icon: 'success',
+      icon: success ? 'success' : 'error',
       backdrop: false,
-      title: 'Success to copy!',
+      title: success ? 'Success to copy.' : 'Falied to copy.',
       showConfirmButton: false,
       timer: 1500
     });
