@@ -11,15 +11,13 @@ import Grid from '@mui/material/Grid';
 import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
+import CircularProgress from '@mui/material/CircularProgress';
 
-const colorArrDefault = [
-    { title:"Blue mood", colorArr: ["#5389C0", "#8EC0F5", "#FFFFFF", "#E0BFCC" ], label:["game"] },
-    { title:"Genki", colorArr: ["#FFFFFF", "#FA8072"], label:["web"] },
-    { title:"Nayutan Style", colorArr: ["#FF5355", "#46CAF1", "#36C38B", "#454746"], label:["web"] },
-]
+import axios from "axios"
+import colorArrDefault from "../components/colorHub/data/colorData.json"
 
 function ColorHub() {
-    const [ colorArr, setcolorArr ] = useState(colorArrDefault); // display color array
+    const [ colorArr, setcolorArr ] = useState([]); // display color array
     const [ initLoading, setInitLoading ] = useState(true);// page first loading
     const [ pickedcolorArr, setPickedcolorArr ] = useState([]);// color picker bottom color display history
     const [ currPickcolor, setCurrPickcolor ] = useState("#000000"); // color picker top value changer
@@ -28,14 +26,27 @@ function ColorHub() {
 
     useEffect( () => {
 
-        if(initLoading){
-            let storeData = getStoreObject("pickedColorArr") || [];
-            setPickedcolorArr(storeData);
-            setInitLoading(false);
-            return;
-        }
+        ( async () =>{
 
-        setObject("pickedColorArr", pickedcolorArr, true);
+            if(initLoading){
+                let storeData = getStoreObject("pickedColorArr") || [];
+                setPickedcolorArr(storeData);
+
+                try{
+                    let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io/framework/src/components/colorHub/data/colorData.json")
+                    setcolorArr(colorData.data);
+                }
+                catch{
+                    setcolorArr(colorArrDefault);
+                }
+
+                setInitLoading(false);
+                return;
+            }
+    
+            setObject("pickedColorArr", pickedcolorArr, true);
+
+        })()
 
     },[pickedcolorArr])
 
@@ -63,15 +74,19 @@ function ColorHub() {
                 <Grid container spacing={2}>
 
                     <Grid item md={8}>
+
                         <Grid container spacing={2} order={{ xs: 2, lg: 1, xl: 1 }}>
-                        {colorArr.map( (v,i) => (
-                            <Grid item md={6} mt={2} key={"c" + i}>
-                            <h3 style={{ color: "#626262" }}>{v.title}</h3>
-                            <div style={{ backgroundColor:"#C4C4C4", padding:"1rem", borderRadius:"0.5rem" }}>
-                                <ColorDisplay colorArr={v.colorArr} insideText={""} setPickedcolorArr={addPickedColorArr}/>
-                            </div>
-                            </Grid>
-                        ))}
+                            <>
+                            {initLoading && <CircularProgress />}
+                            {colorArr.map( (v,i) => (
+                                <Grid item md={6} mt={2} key={"c" + i}>
+                                <h3 style={{ color: "#626262" }}>{v.title}</h3>
+                                <div style={{ backgroundColor:"#C4C4C4", padding:"1rem", borderRadius:"0.5rem" }}>
+                                    <ColorDisplay colorArr={v.colorArr} insideText={""} setPickedcolorArr={addPickedColorArr}/>
+                                </div>
+                                </Grid>
+                            ))}
+                            </>
                         </Grid>
                     </Grid>
 

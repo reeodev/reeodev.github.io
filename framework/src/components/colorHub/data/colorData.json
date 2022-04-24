@@ -1,5 +1,8 @@
 [
     { "title":"Blue mood", "colorArr": ["#5389C0", "#8EC0F5", "#FFFFFF", "#E0BFCC" ], "label":["game"] },
     { "title":"Genki", "colorArr": ["#FFFFFF", "#FA8072"], "label":["web"] },
-    { "title":"Nayutan Style", "colorArr": ["#FF5355", "#46CAF1", "#36C38B", "#454746"], "label":["web"] }
+    { "title":"Nayutan Style", "colorArr": ["#FF5355", "#46CAF1", "#36C38B", "#454746"], "label":["web"] },
+    { "title":"Clean video", "colorArr": ["#EBEAEB", "#191819", "#D9DCE3"], "label":["web"] },
+    { "title":"Sharp contrast", "colorArr": ["#2F4541", "#F8F49C", "#84A0A6"], "label":["web"] },
+    { "title":"Dream", "colorArr": ["#FFF6F3", "#D2F4FA", "#FFF0D2", "#68587F", "#C155D0"], "label":["web"] }
 ]
