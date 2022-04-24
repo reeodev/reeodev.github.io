@@ -1,4 +1,13 @@
 "use strict";
+var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
+    if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
+        if (ar || !(i in from)) {
+            if (!ar) ar = Array.prototype.slice.call(from, 0, i);
+            ar[i] = from[i];
+        }
+    }
+    return to.concat(ar || Array.prototype.slice.call(from));
+};
 exports.__esModule = true;
 exports.removeKey = exports.createObject = exports.setObject = exports.pushObject = exports.getStoreObject = void 0;
 function getStoreObject(key) {
@@ -86,7 +95,7 @@ function createObject(key, value) {
         throw new Error("BetterLocalStore: Key already existed.");
     }
     else {
-        var str = JSON.stringify([value]);
+        var str = Array.isArray(value) ? JSON.stringify(__spreadArray([], value, true)) : JSON.stringify([value]);
         localStorage.setItem(key, str);
         return true;
     }

@@ -101,7 +101,7 @@ function createObject(key:string, value:object | string | number | boolean){
         throw new Error("BetterLocalStore: Key already existed.");
     }
     else{
-        const str = JSON.stringify([value]);
+        const str = Array.isArray(value) ? JSON.stringify([...value]) : JSON.stringify([value]);
         localStorage.setItem(key,str);
         return true;
     }

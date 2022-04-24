@@ -30,17 +30,10 @@ function ColorHub() {
             let storeData = getStoreObject("pickedColorArr") || [];
 
             if(storeData.length >= 1){
-                setPickedcolorArr(Array.from(new Set(storeData)));
+                setPickedcolorArr(storeData);
             }
 
-            // try{
-            //     let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io@473e97826c12bc42e2133fcdaf6c4fc90af6962f/framework/src/components/colorHub/data/colorData.json")
-            //     setcolorArr(colorData.data);
-            // }
-            // catch(err){
             setcolorArr(colorArrDefault);
-            //}
-
             setInitLoading(false);
 
         })()
@@ -53,12 +46,7 @@ function ColorHub() {
             return;
         }
 
-        if(pickedcolorArr.length >= 1){
-            pushObject("pickedColorArr", pickedcolorArr[pickedcolorArr.length - 1], true);
-        }
-        else{
-            setObject("pickedColorArr", [], true);
-        }
+        setObject("pickedColorArr", pickedcolorArr, true);
             
     },[pickedcolorArr])
 
