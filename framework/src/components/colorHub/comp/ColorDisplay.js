@@ -21,7 +21,7 @@ function ColorDisplay({ colorArr, insideText, setPickedcolorArr }){
         <>
         {insideText && <h3> {insideText} </h3>}
         <CirclePicker
-            colors={colorArr} 
+            colors={colorArr ? colorArr : []} 
             circleSize={48}
             circleSpacing={16}
             width={"100%"}

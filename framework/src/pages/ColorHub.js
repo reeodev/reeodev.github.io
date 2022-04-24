@@ -2,7 +2,7 @@ import Layout from '@theme/Layout';
 import React, { useEffect, useState } from 'react';
 import { CirclePicker, SketchPicker } from 'react-color';
 
-import { getStoreObject, setObject } from "../components/colorHub/utilis/betterLocalStore"
+import { getStoreObject, setObject, pushObject } from "../components/colorHub/utilis/betterLocalStore"
 
 import ColorDisplay from '../components/colorHub/comp/ColorDisplay';
 import SearchBox from '../components/colorHub/comp/SearchBox';
@@ -23,31 +23,43 @@ function ColorHub() {
     const [ currPickcolor, setCurrPickcolor ] = useState("#000000"); // color picker top value changer
     const [ searchString, setSearchString ] = useState(""); // input box searching string
     
-
     useEffect( () => {
 
         ( async () =>{
 
-            if(initLoading){
-                let storeData = getStoreObject("pickedColorArr") || [];
-                setPickedcolorArr(storeData);
+            let storeData = getStoreObject("pickedColorArr") || [];
 
-                try{
-                    let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io/framework/src/components/colorHub/data/colorData.json")
-                    setcolorArr(colorData.data);
-                }
-                catch{
-                    setcolorArr(colorArrDefault);
-                }
-
-                setInitLoading(false);
-                return;
+            if(storeData.length >= 1){
+                setPickedcolorArr(Array.from(new Set(storeData)));
             }
-    
-            setObject("pickedColorArr", pickedcolorArr, true);
+
+            try{
+                let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io/framework/src/components/colorHub/data/colorData.json")
+                setcolorArr(colorData.data);
+            }
+            catch(err){
+                setcolorArr(colorArrDefault);
+            }
+
+            setInitLoading(false);
 
         })()
 
+    },[])
+
+    useEffect( () => {
+
+        if(initLoading){
+            return;
+        }
+
+        if(pickedcolorArr.length >= 1){
+            pushObject("pickedColorArr", pickedcolorArr[pickedcolorArr.length - 1], true);
+        }
+        else{
+            setObject("pickedColorArr", [], true);
+        }
+            
     },[pickedcolorArr])
 
     useEffect( () => {
