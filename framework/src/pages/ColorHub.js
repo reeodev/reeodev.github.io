@@ -33,13 +33,13 @@ function ColorHub() {
                 setPickedcolorArr(Array.from(new Set(storeData)));
             }
 
-            try{
-                let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io/framework/src/components/colorHub/data/colorData.json")
-                setcolorArr(colorData.data);
-            }
-            catch(err){
-                setcolorArr(colorArrDefault);
-            }
+            // try{
+            //     let colorData = await axios("https://cdn.jsdelivr.net/gh/reeodev/reeodev.github.io@473e97826c12bc42e2133fcdaf6c4fc90af6962f/framework/src/components/colorHub/data/colorData.json")
+            //     setcolorArr(colorData.data);
+            // }
+            // catch(err){
+            setcolorArr(colorArrDefault);
+            //}
 
             setInitLoading(false);
 
