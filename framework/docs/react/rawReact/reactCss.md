@@ -10,6 +10,10 @@ These websites can be references for your design ideas
 ### - MUI (Material UI)
 - The React UI library you always wanted.  
 [https://mui.com/zh/](https://mui.com/zh/)
+
+### - Mantine
+- Build fully functional accessible web applications faster than ever.  
+[https://mantine.dev/](https://mantine.dev/) 
  
 ### - React Bootstrap
 - The most popular front-end framework Rebuilt for React.  
@@ -35,14 +39,29 @@ These websites can be references for your design ideas
 - Primer React is a React implementation of GitHub's Primer Design System 🎉.  
 [https://primer.style/react/](https://primer.style/react/)  
 
-### - Mantine
-- Build fully functional accessible web applications faster than ever.  
-[https://mantine.dev/](https://mantine.dev/) 
-
 ### - React95
-- Refreshed Windows95 UI components for your modern React apps.Built with styled-components 💅    
+- Refreshed Windows95 UI components for your modern React apps.Built with styled-components 💅      
 [https://github.com/arturbien/React95](https://github.com/arturbien/React95)  
 
+### - Blueprint
+- A React-based UI toolkit for the web      
+[https://blueprintjs.com/](https://blueprintjs.com/)  
+
+### - Fluent UI
+- A collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior by Microsoft.     
+[https://developer.microsoft.com/en-us/fluentui#/](https://developer.microsoft.com/en-us/fluentui#/)  
+
+### - Evergreen
+- Evergreen is a React UI Framework for building ambitious products on the web. Brought to you by Segment.       
+[https://evergreen.segment.com/](https://evergreen.segment.com/)  
+
+### - primitives
+- An open-source UI component library for building high-quality, accessible design systems and web apps.        
+[https://github.com/radix-ui/primitives](https://github.com/radix-ui/primitives)  
+
+### - React Suite
+- A suite of React components, sensible UI design, and a friendly development experience.        
+[https://rsuitejs.com/](https://rsuitejs.com/)  
 
 
 ## Icons  
@@ -50,6 +69,9 @@ These websites can be references for your design ideas
 - Include popular icons in your React projects easily with react-icons.  
 [https://github.com/react-icons/react-icons](https://github.com/react-icons/react-icons)
 
+### - Material Icons
+- 2,000+ ready-to-use React Material Icons from the official website.  
+[https://mui.com/material-ui/material-icons/](https://mui.com/material-ui/material-icons/)
 
 
 ## Animations 
@@ -89,11 +111,15 @@ These websites can be references for your design ideas
 - Code Surfer adds code highlighting, code zooming, code scrolling, code focusing, code morphing to MDX Deck slides.  
 [https://codesurfer.pomb.us/](https://codesurfer.pomb.us/)  
 
+### - Spline
+- 🌈 Spline is a friendly 3d collaborative design tool for the web.    
+[https://github.com/splinetool/react-spline](https://github.com/splinetool/react-spline)  
+
 
 
 ## Alert pop up
 ### - sweetalert2-react-content
-- Official SweetAlert2 enhancer adding support for React elements as content.  
+- Official SweetAlert2 enhancer adding support for React elements as content.    
 [https://github.com/sweetalert2/sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content)
 
 
@@ -121,6 +147,22 @@ These websites can be references for your design ideas
 - React components for Chart.js, the most popular charting library.  
 [https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)   
 
+### - Recharts 
+- A composable charting library built on React components.  
+[https://recharts.org/en-US/](https://recharts.org/en-US/)   
+
+### - VICTORY
+- React.js components for modular charting and data visualization.   
+[https://formidable.com/open-source/victory/](https://formidable.com/open-source/victory/)   
+
+### - visx
+- visx | visualization components.  
+[https://github.com/airbnb/visx](https://github.com/airbnb/visx)  
+
+### - nivo
+- Provides a rich set of dataviz components, built on top of D3 and React.  
+[https://nivo.rocks/](https://nivo.rocks/)   
+
 ### - react-data-table-component  
 - React data table generator.  
 [https://github.com/jbetancur/react-data-table-component](https://github.com/jbetancur/react-data-table-component)  
@@ -139,6 +181,10 @@ These websites can be references for your design ideas
 ### - quilljs  
 - Your powerful rich text editor.  
 [https://quilljs.com/](https://quilljs.com/)   
+
+### - react-quill 
+- A Quill component for React.   
+[https://github.com/zenoamaro/react-quill](https://github.com/zenoamaro/react-quill)   
 
 ### - react-beautiful-dnd 
 - Beautiful and accessible drag and drop for lists with React.  
@@ -184,3 +230,13 @@ These websites can be references for your design ideas
 ### - React Leaflet
 - React components for Leaflet maps.  
 [https://react-leaflet.js.org/](https://react-leaflet.js.org/)   
+
+
+## Desktop apps development
+### - tauri
+- Build smaller, faster, and more secure desktop applications with a web frontend.  
+[https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+
+### - neutralinojs
+- Portable and lightweight cross-platform desktop application development framework.  
+[https://github.com/neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)

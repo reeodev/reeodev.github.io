@@ -8,12 +8,12 @@ These websites can be references for your design ideas
 
 ## Generative
 ### - react-swipeable-views
-- A tiny, secure, URL-friendly, unique string ID generator for JavaScript.  
+- A tiny, secure, URL-friendly, unique string ID generator for JavaScript.   
 [https://github.com/ai/nanoid/](https://github.com/ai/nanoid/)
 
 ## Documents related 
 ### - jsPDF
-- A library to generate PDFs in JavaScript.    
+- A library to generate PDFs in JavaScript.     
 [https://github.com/parallax/jsPDF](https://github.com/parallax/jsPDF)
 
 
@@ -26,14 +26,25 @@ These websites can be references for your design ideas
 - Bidirectional and low-latency communication for every platform.     
 [https://socket.io/](https://socket.io/)
 
+
 ## Mail services  
 ### - Nodemailer  
 - Send e-mails from Node.js – easy as cake!   
 [https://www.npmjs.com/package/nodemailer](https://www.npmjs.com/package/nodemailer)
 
+
 ## Tools 
 ### - JavaScript Minifier    
-- Online JavaScript Minifier/Compressor. Provides an API. Simple and Fast.  
+- Online JavaScript Minifier/Compressor. Provides an API. Simple and Fast.   
 [https://www.toptal.com/developers/javascript-minifier/](https://www.toptal.com/developers/javascript-minifier/)
+
+## Payment 
+### - stripe  
+- Build a web or mobile integration to accept payments online or in person.     
+[https://stripe.com/docs](https://stripe.com/docs)  
+
+### - paypal-js 
+- Loading wrapper and TypeScript types for the PayPal JS SDK.  
+[https://github.com/paypal/paypal-js](https://github.com/paypal/paypal-js)
 
 
