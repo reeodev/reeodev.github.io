@@ -25,3 +25,8 @@ These websites can be references for your design ideas
 -  Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.       
 [https://leafletjs.com/](https://leafletjs.com/)
 
+## Text
+### - tiptap  
+-  The headless editor framework for web artisans.       
+[https://tiptap.dev/](https://tiptap.dev/)
+

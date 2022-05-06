@@ -5,10 +5,18 @@ sidebar_position: 1
 # Animations
 These websites can be references for your design ideas 
 
-## Animations framework 
+## Animations 
 ### - anime.js
 - Lightweight JavaScript animation library with a simple, yet powerful API.  
 [https://github.com/juliangarnier/anime/](https://github.com/juliangarnier/anime/)
+
+### - Lottie
+- Lottie is a library parses After Effects animations exported as json with Bodymovin and renders them natively on mobile and web!      
+[http://airbnb.io/lottie/#/README](http://airbnb.io/lottie/#/README)
+
+### - vivus.js
+- JavaScript library to make drawing animation on SVG.       
+[https://github.com/maxwellito/vivus](https://github.com/maxwellito/vivus)
 
 
 ## Click / Hover interaction

@@ -48,3 +48,13 @@ These websites can be references for your design ideas
 [https://github.com/paypal/paypal-js](https://github.com/paypal/paypal-js)
 
 
+## Computer vision (Images processing)  
+### - Jimp 
+- An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.    s
+[https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+
+### - sharp 
+- High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.     
+[https://github.com/lovell/sharp](https://github.com/lovell/sharp)
+
+
