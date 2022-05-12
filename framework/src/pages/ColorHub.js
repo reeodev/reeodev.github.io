@@ -1,8 +1,8 @@
 import Layout from '@theme/Layout';
 import React, { useEffect, useState } from 'react';
-import { CirclePicker, SketchPicker } from 'react-color';
+import { SketchPicker } from 'react-color';
 
-import { getStoreObject, setObject, pushObject } from "../components/colorHub/utilis/betterLocalStore"
+import { getStoreObject, setObject } from "../components/colorHub/utilis/betterLocalStore"
 
 import ColorDisplay from '../components/colorHub/comp/ColorDisplay';
 import SearchBox from '../components/colorHub/comp/SearchBox';
@@ -13,7 +13,7 @@ import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import CircularProgress from '@mui/material/CircularProgress';
 
-import axios from "axios"
+//import axios from "axios"
 import colorArrDefault from "../components/colorHub/data/colorData.json"
 
 function ColorHub() {

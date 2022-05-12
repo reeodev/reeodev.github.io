@@ -173,7 +173,7 @@ These websites can be references for your design ideas
 
 
 
-## Drawing / Board / Text editor 
+## Drawing / Board / Text / Utilis editor 
 ### - tldraw  
 - You can use this package to embed the tldraw editor in any React application.  
 [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw)   
@@ -204,7 +204,11 @@ These websites can be references for your design ideas
 
 ### - React Color 
 - A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more.  
-[https://casesandberg.github.io/react-color/#usage-include](https://casesandberg.github.io/react-color/#usage-include)    
+[https://casesandberg.github.io/react-color/#usage-include](https://casesandberg.github.io/react-color/#usage-include)   
+
+### - frappe
+- A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
+[https://frappe.io/gantt](https://frappe.io/gantt)    
 
 
 

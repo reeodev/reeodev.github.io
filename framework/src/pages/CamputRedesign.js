@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from '@theme/Layout';
+// import Layout from '@theme/Layout';
 
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
