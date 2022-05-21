@@ -21,3 +21,7 @@ These websites can be references for your design ideas
 ### - magicpattern
 - A collection of tools to enhance your design and code workflow. Perfect for developers, designers and marketers.        
 [https://www.magicpattern.design/tools](https://www.magicpattern.design/tools)
+
+### - fffuel
+- fffuel is a collection of color tools and free SVG generators for gradients, patterns, backgrounds & decorative graphics.          
+[https://fffuel.co/](https://fffuel.co/)
