@@ -24,9 +24,10 @@ These websites can be references for your design ideas
 - JavaScript and TypeScript finite state machines and statecharts for the modern web.  
 [https://xstate.js.org/](https://xstate.js.org/)
 
+### zustand
+- Bear necessities for state management in React.    
+[https://github.com/pmndrs/zustand](https://github.com/pmndrs/zustand)
 
-
-# Framework
 
 ## General framework
 
