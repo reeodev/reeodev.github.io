@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# CSS framework 
+# framework 
 
 These websites can be references for your design ideas 
 
@@ -129,6 +129,10 @@ These websites can be references for your design ideas
 -  adds reveal animations using the Intersection Observer API to detect when the elements appear in the viewport (React AOS).  
 [https://github.com/morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
 
+### - InfiniteGrid
+-  A module used to arrange card elements including content infinitely on a grid layout.    
+[https://naver.github.io/egjs-infinitegrid/](https://naver.github.io/egjs-infinitegrid/)
+
 ### - react-intersection-observer
 -  React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport. 
 [https://github.com/thebuilder/react-intersection-observer#readme](https://github.com/thebuilder/react-intersection-observer#readme)
@@ -208,7 +212,13 @@ These websites can be references for your design ideas
 
 ### - frappe
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
-[https://frappe.io/gantt](https://frappe.io/gantt)    
+[https://frappe.io/gantt](https://frappe.io/gantt)   
+
+
+## Productive
+### - frappe.io gantt
+- A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.   
+[https://frappe.io/gantt](https://frappe.io/gantt)  
 
 
 
