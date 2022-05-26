@@ -74,6 +74,11 @@ These websites can be references for your design ideas
 [https://mui.com/material-ui/material-icons/](https://mui.com/material-ui/material-icons/)
 
 
+### - Phosphor Icons  
+- Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.    
+[https://phosphoricons.com/](https://phosphoricons.com/)   
+
+
 ## Animations 
 ### - react-swipeable-views  
 - A React component for swipeable views.  
@@ -114,6 +119,30 @@ These websites can be references for your design ideas
 ### - Spline
 - 🌈 Spline is a friendly 3d collaborative design tool for the web.    
 [https://github.com/splinetool/react-spline](https://github.com/splinetool/react-spline)  
+
+### - react-rewards
+- A package containing a few micro-interactions you can use to reward your users for little things and make them smile!      
+[https://github.com/thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards)
+
+### - React Custom Roulette
+- Repository for the react-custom-roulette library.        
+[https://github.com/effectussoftware/react-custom-roulette](https://github.com/effectussoftware/react-custom-roulette)
+
+### - atropos
+- Stunning touch-friendly 3D parallax hover effects.          
+[https://github.com/nolimits4web/atropos/](https://github.com/nolimits4web/atropos/)       
+ 
+### - react-page-transition  
+- A React component that makes it easy to use the page transitions from the Codedrops page transitions demo with React.            
+[https://github.com/Steveeeie/react-page-transition](https://github.com/Steveeeie/react-page-transition)    
+
+### - scrollex    
+- Build beautiful scroll experiences using minimal code.  
+[https://github.com/malerba118/scrollex](https://github.com/malerba118/scrollex)   
+
+### - img-comparison-slider     
+- Image comparison slider. Compare images before and after. Supports React, Vue, Angular.    
+[https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)         
 
 
 
@@ -212,7 +241,11 @@ These websites can be references for your design ideas
 
 ### - frappe
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
-[https://frappe.io/gantt](https://frappe.io/gantt)   
+[https://frappe.io/gantt](https://frappe.io/gantt) 
+
+### - turnstone
+- React customisable autocomplete component with typeahead and grouped results from multiple APIs.       
+[https://github.com/tomsouthall/turnstone](https://github.com/tomsouthall/turnstone)     
 
 
 ## Productive

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 These websites can be references for your design ideas 
 
-## From
+## From & input
 ### - react-hook-form
 - Performant, flexible and extensible forms with easy-to-use validation.  
 [https://github.com/react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)    
@@ -18,6 +18,14 @@ These websites can be references for your design ideas
 ### - REACT FINAL FORM
 - High performance subscription-based form state management for React.  
 [https://final-form.org/react/](https://final-form.org/react/)  
+
+### - react-jsonschema-form
+- A React component for building Web forms from JSON Schema.    
+[https://github.com/rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) 
+
+### - react-select-datepicker
+- A simple and reusable dropdown datepicker component for React.    
+[https://www.npmjs.com/package/react-select-datepicker](https://www.npmjs.com/package/react-select-datepicker)    
 
 
 ## Payment
@@ -53,6 +61,11 @@ These websites can be references for your design ideas
 - JSX-compatible renderer for the Web Audio API.  
 [https://github.com/jamesseanwright/wax](https://github.com/jamesseanwright/wax)  
 
+## Files  
+### - chonky      
+- A File Browser for React    
+[https://chonky.io/](https://chonky.io/)    
+
 ## Cameras 
 ### - react-webcam   
 - Webcam component for React.    
@@ -67,6 +80,10 @@ These websites can be references for your design ideas
 - Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.       
 [https://github.com/nhn/tui.image-editor](https://github.com/nhn/tui.image-editor)    
 
+### - react-avatar-editor  
+- Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.        
+[https://github.com/mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor)    
+
 ## Chat bot
 ### - urban-bot 
 - The universal chatbot library based on React.     
@@ -75,5 +92,10 @@ These websites can be references for your design ideas
 ## Languages
 ### - react-intl 
 - Internationalize your web apps on the client & server.  
-[https://formatjs.io/](https://formatjs.io/)    
+[https://formatjs.io/](https://formatjs.io/) 
+
+## Others Utilis
+### - click-to-component 
+- Option+Click React components in your browser to instantly open the source in VS Code.    
+[https://github.com/ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component)    
 
