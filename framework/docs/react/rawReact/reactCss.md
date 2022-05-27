@@ -7,11 +7,11 @@ sidebar_position: 1
 These websites can be references for your design ideas 
 
 ## General framework
-### - MUI (Material UI)
+### - MUI
 - The React UI library you always wanted.  
 [https://mui.com/zh/](https://mui.com/zh/)
 
-### - Mantine
+### - Mantine (Recommended)
 - Build fully functional accessible web applications faster than ever.  
 [https://mantine.dev/](https://mantine.dev/) 
  
@@ -27,7 +27,7 @@ These websites can be references for your design ideas
 - The most popular, free and open-source Tailwind CSS component library.  
 [https://daisyui.com/](https://daisyui.com/) 
 
-### - chakrauUI
+### - chakrauUI (Recommended)
 -  Create accessible React apps with speed.  
 [https://chakra-ui.com/](https://chakra-ui.com/)  
 
@@ -58,6 +58,10 @@ These websites can be references for your design ideas
 ### - primitives
 - An open-source UI component library for building high-quality, accessible design systems and web apps.        
 [https://github.com/radix-ui/primitives](https://github.com/radix-ui/primitives)  
+
+### - nextui (Recommended)
+- Make beautiful websites regardless of your design experience (Best for next.js).         
+[https://nextui.org/](https://nextui.org/)  
 
 ### - React Suite
 - A suite of React components, sensible UI design, and a friendly development experience.        
@@ -142,18 +146,25 @@ These websites can be references for your design ideas
 
 ### - img-comparison-slider     
 - Image comparison slider. Compare images before and after. Supports React, Vue, Angular.    
-[https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)         
+[https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)        
+ 
+### - react-animated-numbers     
+- Library showing animation of number changes in react.js.      
+[https://github.com/heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)      
 
+### - tsparticles     
+- Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website.       
+[https://github.com/matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)         
 
 
 ## Alert pop up
 ### - sweetalert2-react-content
-- Official SweetAlert2 enhancer adding support for React elements as content.    
-[https://github.com/sweetalert2/sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content)
+- Library showing animation of number changes in react.js.      
+[https://github.com/heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)
 
 
 
-## Scroll effect
+## Scroll & slide effect
 ### - react-awesome-reveal
 -  adds reveal animations using the Intersection Observer API to detect when the elements appear in the viewport (React AOS).  
 [https://github.com/morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
@@ -166,12 +177,28 @@ These websites can be references for your design ideas
 -  React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport. 
 [https://github.com/thebuilder/react-intersection-observer#readme](https://github.com/thebuilder/react-intersection-observer#readme)
 
+### - splide  
+-  Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. 
+[https://github.com/Splidejs/splide](https://github.com/Splidejs/splide)
+
+### - react-use-wizard  
+-  A React wizard (stepper) builder without the hassle, powered by hooks.   
+[https://github.com/devrnt/react-use-wizard](https://github.com/devrnt/react-use-wizard)
+
+### - react-headroom  
+-  Hide your header until you need it.   
+[https://github.com/KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom)
 
 
-## Calendar
+
+## Calendar & Time
 ### - fullcalendar-react
 - The Most Popular JavaScript Calendar.  
 [https://fullcalendar.io/docs/react](https://fullcalendar.io/docs/react)
+
+### - timeago-react
+- 🕗 Simple and efficient react component to format date with *** time ago statement. eg: '3 hours ago'.    
+[https://github.com/hustcc/timeago-react](https://github.com/hustcc/timeago-react)
 
 
 
@@ -179,6 +206,10 @@ These websites can be references for your design ideas
 ### - react-chartjs-2  
 - React components for Chart.js, the most popular charting library.  
 [https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)   
+
+### - react-charts  
+- Simple, immersive & interactive charts for React.  
+[https://github.com/TanStack/react-charts](https://github.com/TanStack/react-charts)   
 
 ### - Recharts 
 - A composable charting library built on React components.  
@@ -204,6 +235,9 @@ These websites can be references for your design ideas
 - React-admin offers the best developer experience, lets you focus on business needs, and build delightful user interfaces.  
 [https://marmelab.com/react-admin/](https://marmelab.com/react-admin/)  
 
+### - graphire 
+- An unopinionated react graph visualization library.    
+[https://github.com/flavioschneider/graphire](https://github.com/flavioschneider/graphire)  
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -245,7 +279,11 @@ These websites can be references for your design ideas
 
 ### - turnstone
 - React customisable autocomplete component with typeahead and grouped results from multiple APIs.       
-[https://github.com/tomsouthall/turnstone](https://github.com/tomsouthall/turnstone)     
+[https://github.com/tomsouthall/turnstone](https://github.com/tomsouthall/turnstone)
+
+### - Code Hike  
+- Not just a syntax highlighter.           
+[https://codehike.org/](https://codehike.org/)     
 
 
 ## Productive

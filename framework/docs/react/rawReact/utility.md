@@ -27,6 +27,26 @@ These websites can be references for your design ideas
 - A simple and reusable dropdown datepicker component for React.    
 [https://www.npmjs.com/package/react-select-datepicker](https://www.npmjs.com/package/react-select-datepicker)    
 
+### - react-google-autocomplete
+- React components for google places API.      
+[https://github.com/ErrorPro/react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) 
+
+### - react-flag-kit
+- FlagKit for React.  
+[https://github.com/umidbekk/react-flag-kit](https://github.com/umidbekk/react-flag-kit)   
+
+### - react-ranger
+-  Hooks for building range and multi-range sliders in React.    
+[https://github.com/tannerlinsley/react-ranger](https://github.com/tannerlinsley/react-ranger)
+
+### - react-grid-table 
+- A modular table, based on a CSS grid layout, optimized for customization.      
+[https://github.com/NadavShaar/react-grid-table](https://github.com/NadavShaar/react-grid-table)   
+
+### - react-simple-star-rating
+-  A simple react component for adding a star rating to your project.      
+[https://github.com/awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)      
+
 
 ## Payment
 ### - react-paypal-js  
@@ -97,5 +117,17 @@ These websites can be references for your design ideas
 ## Others Utilis
 ### - click-to-component 
 - Option+Click React components in your browser to instantly open the source in VS Code.    
-[https://github.com/ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component)    
+[https://github.com/ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component) 
+
+### - react-paginate  
+- A ReactJS component that creates a pagination.      
+[https://github.com/AdeleD/react-paginate](https://github.com/AdeleD/react-paginate)  
+
+### - react-virtual  
+- Hooks for virtualizing scrollable elements in React.        
+[https://github.com/TanStack/react-virtual](https://github.com/TanStack/react-virtual)  
+
+### - leva  
+- React-first components GUI.        
+[https://github.com/pmndrs/leva](https://github.com/pmndrs/leva)      
 
