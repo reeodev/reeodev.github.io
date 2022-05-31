@@ -40,7 +40,8 @@ function SingleCard({ data }){
 }
 
 const dataArr = [
-    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://reemostudio.games/#/PlayFlow"},
+    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://www.r48n34.me/tools/nextTools"},
+    { title: "React hub", subTitle: "React tools omg.", link: "https://www.r48n34.me/tools/reactTools"},
     { title: "Color hub", subTitle: "Collections color utilis.", link: "https://reeodev.github.io/ColorHub"},
 ]
 
