@@ -27,7 +27,7 @@ function SingleCard({ data }){
                 </Typography>
 
                 <Typography Typography variant="body2">
-                    {data.subTitle}
+                    { data.subTitle }
                 </Typography>
 
             </CardContent>
@@ -39,13 +39,15 @@ function SingleCard({ data }){
     )
 }
 
-const dataArr = [
-    { title: "Design hub", subTitle: "Collections tools wow.", link: "https://www.r48n34.me/tools/nextTools"},
-    { title: "React hub", subTitle: "React tools omg.", link: "https://www.r48n34.me/tools/reactTools"},
-    { title: "Color hub", subTitle: "Collections color utilis.", link: "https://reeodev.github.io/ColorHub"},
-]
+
 
 export default function ToolsInterface() {
+
+    const dataArr = [
+        { title: "Design hub", subTitle: "Collections tools wow.", link: "https://www.r48n34.me/tools/nextTools"},
+        { title: "React hub", subTitle: "React tools omg.", link: "https://www.r48n34.me/tools/reactTools"},
+        { title: "Color hub", subTitle: "Collections color utilis.", link: "https://reeodev.github.io/ColorHub"},
+    ]
 
     return (
         <Layout>
@@ -55,11 +57,11 @@ export default function ToolsInterface() {
             <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
 
-                    {dataArr.map(v =>{
+                    {dataArr.map(v => (
                         <Grid item md={6} xs={12} key={v.title}>
                             <SingleCard data={v}/>
                         </Grid>
-                    })}
+                    ))}
 
                 </Grid>
             </Box>
