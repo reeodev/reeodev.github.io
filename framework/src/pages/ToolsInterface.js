@@ -55,13 +55,11 @@ export default function ToolsInterface() {
             <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
 
-                    <Grid item md={6} xs={12}>
-                        <SingleCard data={dataArr[0]}/>
-                    </Grid>
-
-                    <Grid item md={6} xs={12}>
-                        <SingleCard data={dataArr[1]}/>
-                    </Grid>
+                    {dataArr.map(v =>{
+                        <Grid item md={6} xs={12} key={v.title}>
+                            <SingleCard data={v}/>
+                        </Grid>
+                    })}
 
                 </Grid>
             </Box>
