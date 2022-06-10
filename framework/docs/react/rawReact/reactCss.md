@@ -148,13 +148,17 @@ These websites can be references for your design ideas
 - Image comparison slider. Compare images before and after. Supports React, Vue, Angular.    
 [https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)        
  
-### - react-animated-numbers     
-- Library showing animation of number changes in react.js.      
-[https://github.com/heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)      
+### - react-countup     
+-  A configurable React component wrapper around CountUp.js.        
+[https://github.com/glennreyes/react-countup](https://github.com/glennreyes/react-countup)      
 
 ### - tsparticles     
 - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website.       
-[https://github.com/matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)         
+[https://github.com/matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)  
+
+### - react-canvas-confetti     
+- React component for canvas-confetti library.         
+[https://github.com/ulitcos/react-canvas-confetti](https://github.com/ulitcos/react-canvas-confetti)         
 
 
 ## Alert pop up
@@ -188,6 +192,14 @@ These websites can be references for your design ideas
 ### - react-headroom  
 -  Hide your header until you need it.   
 [https://github.com/KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom)
+
+### - react-parallax-tilt 
+-  Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB).     
+[https://github.com/mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+### - react-parallax
+-  A React Component for parallax effect.       
+[https://github.com/rrutsche/react-parallax](https://github.com/rrutsche/react-parallax)
 
 
 

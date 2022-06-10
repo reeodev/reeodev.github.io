@@ -46,3 +46,7 @@ These websites can be references for your design ideas
 ### Remix
 - Focused on web fundamentals and modern UX, you’re simply going to build better websites.  
 [https://remix.run/](https://remix.run/)
+
+### Astro
+- Astro is a new kind of static site builder for the modern web. Powerful developer experience meets lightweight output.  
+[https://astro.build/](https://astro.build/)
