@@ -77,7 +77,6 @@ These websites can be references for your design ideas
 - 2,000+ ready-to-use React Material Icons from the official website.  
 [https://mui.com/material-ui/material-icons/](https://mui.com/material-ui/material-icons/)
 
-
 ### - Phosphor Icons  
 - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.    
 [https://phosphoricons.com/](https://phosphoricons.com/)   
@@ -317,6 +316,10 @@ These websites can be references for your design ideas
 ### - lite-youtube-embed 
 - Provide videos with a supercharged focus on visual performance. This custom element renders just like the real thing but approximately 224× faster.  
 [https://github.com/paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed)   
+
+### - react-photo-view 
+- An exquisite React photo preview component.    
+[https://github.com/MinJieLiu/react-photo-view](https://github.com/MinJieLiu/react-photo-view)     
 
 
 ## Map
