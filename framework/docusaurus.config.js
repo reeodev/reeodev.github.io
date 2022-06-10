@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/reelogo.ico',
+  favicon: 'img/reelogo.png',
   organizationName: 'reeodev', 
   projectName: 'reeodev.github.io', // Usually your repo name.
   plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
@@ -40,8 +40,8 @@ const config = {
       navbar: {
         title: 'Reeodev',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Site Logo Yeah',
+          src: 'img/reelogo.png',
         },
         items: [
           {
@@ -88,7 +88,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Reemo Project.`,
+        copyright: `Burh.`,
       },
       prism: {
         theme: lightCodeTheme,
