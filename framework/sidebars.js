@@ -66,9 +66,16 @@ const sidebars = {
       items: [
         {
           type: 'category',
+          label: 'Recommendations',
+          items: [
+            "react/recommendations/recommendations",
+          ],
+        },
+        {
+          type: 'category',
           label: 'General Use',
           items: [
-            "react/common/stateContainer",
+            "react/common/Generalframework",
             "react/common/reading",
           ],
         },

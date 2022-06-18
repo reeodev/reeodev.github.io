@@ -68,7 +68,7 @@ These websites can be references for your design ideas
 [https://rsuitejs.com/](https://rsuitejs.com/)  
 
 
-## Icons  
+## Icons / Avatars 
 ### - react-icons
 - Include popular icons in your React projects easily with react-icons.  
 [https://github.com/react-icons/react-icons](https://github.com/react-icons/react-icons)
@@ -80,6 +80,10 @@ These websites can be references for your design ideas
 ### - Phosphor Icons  
 - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.    
 [https://phosphoricons.com/](https://phosphoricons.com/)   
+
+### - boring-avatars  
+- Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.      
+[https://github.com/boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars)   
 
 
 ## Animations 
@@ -165,6 +169,10 @@ These websites can be references for your design ideas
 - Library showing animation of number changes in react.js.      
 [https://github.com/heyman333/react-animated-numbers](https://github.com/heyman333/react-animated-numbers)
 
+### - Mantine Notifications  
+- Mantine notifications system.        
+[https://mantine.dev/others/notifications/](https://mantine.dev/others/notifications/)
+
 
 
 ## Scroll & slide effect
@@ -199,6 +207,10 @@ These websites can be references for your design ideas
 ### - react-parallax
 -  A React Component for parallax effect.       
 [https://github.com/rrutsche/react-parallax](https://github.com/rrutsche/react-parallax)
+
+### - react-scroll-parallax
+-  React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.        
+[https://github.com/jscottsmith/react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax)
 
 
 
@@ -249,6 +261,10 @@ These websites can be references for your design ideas
 ### - graphire 
 - An unopinionated react graph visualization library.    
 [https://github.com/flavioschneider/graphire](https://github.com/flavioschneider/graphire)  
+
+### - glide-data-grid 
+- 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.      
+[https://github.com/glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)  
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -330,13 +346,3 @@ These websites can be references for your design ideas
 ### - React Leaflet
 - React components for Leaflet maps.  
 [https://react-leaflet.js.org/](https://react-leaflet.js.org/)   
-
-
-## Desktop apps development
-### - tauri
-- Build smaller, faster, and more secure desktop applications with a web frontend.  
-[https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-
-### - neutralinojs
-- Portable and lightweight cross-platform desktop application development framework.  
-[https://github.com/neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)

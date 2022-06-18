@@ -11,9 +11,12 @@ These websites can be references for your design ideas
 ### - NativeBase
 - NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.  
 [https://www.nativebase.io/](https://www.nativebase.io/)
- 
 
 ### - react-native-paper
 - Material design for React Native.  
 [https://github.com/callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 
+## Animations
+### - @legendapp/motion
+- declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.  
+[https://legendapp.com/dev/motion/](https://legendapp.com/dev/motion/)

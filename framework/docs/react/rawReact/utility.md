@@ -45,7 +45,20 @@ These websites can be references for your design ideas
 
 ### - react-simple-star-rating
 -  A simple react component for adding a star rating to your project.      
-[https://github.com/awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)      
+[https://github.com/awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)    
+
+## Code related
+### - react-textarea-code-editor  
+- A simple code editor with syntax highlighting.  
+[https://github.com/uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) 
+
+### - react-monaco-editor  
+- Monaco Editor for React.       
+[https://github.com/react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) 
+
+### - react-simple-code-editor    
+- Simple no-frills code editor with syntax highlighting.         
+[https://github.com/satya164/react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) 
 
 
 ## Payment
