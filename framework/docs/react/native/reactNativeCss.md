@@ -12,6 +12,10 @@ These websites can be references for your design ideas
 - NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.  
 [https://www.nativebase.io/](https://www.nativebase.io/)
 
+### - Tamagui
+- Universal design systems for React Native & Web, faster.    
+[https://tamagui.dev/](https://tamagui.dev/)  
+
 ### - react-native-paper
 - Material design for React Native.  
 [https://github.com/callstack/react-native-paper](https://github.com/callstack/react-native-paper)

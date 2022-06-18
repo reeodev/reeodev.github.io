@@ -94,6 +94,10 @@ These websites can be references for your design ideas
 - JSX-compatible renderer for the Web Audio API.  
 [https://github.com/jamesseanwright/wax](https://github.com/jamesseanwright/wax)  
 
+### - REACTRONICA    
+- Play audio in the browser with simple declarative components. Treat music as a function of state.    
+[https://reactronica.com/](https://reactronica.com/)  
+
 ## Files  
 ### - chonky      
 - A File Browser for React    

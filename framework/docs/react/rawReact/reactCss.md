@@ -65,7 +65,11 @@ These websites can be references for your design ideas
 
 ### - React Suite
 - A suite of React components, sensible UI design, and a friendly development experience.        
-[https://rsuitejs.com/](https://rsuitejs.com/)  
+[https://rsuitejs.com/](https://rsuitejs.com/)
+
+### - Tamagui   
+- Universal design systems for React Native & Web, faster.      
+[https://tamagui.dev/](https://tamagui.dev/) 
 
 
 ## Icons / Avatars 
@@ -161,7 +165,11 @@ These websites can be references for your design ideas
 
 ### - react-canvas-confetti     
 - React component for canvas-confetti library.         
-[https://github.com/ulitcos/react-canvas-confetti](https://github.com/ulitcos/react-canvas-confetti)         
+[https://github.com/ulitcos/react-canvas-confetti](https://github.com/ulitcos/react-canvas-confetti)   
+
+### - react-hover     
+- React hover --- make hover easy.           
+[https://github.com/cht8687/react-hover](https://github.com/cht8687/react-hover)         
 
 
 ## Alert pop up
