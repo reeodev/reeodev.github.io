@@ -50,11 +50,23 @@ These websites can be references for your design ideas
 
 ## Computer vision (Images processing)  
 ### - Jimp 
-- An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.    s
+- An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.    
 [https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
 
 ### - sharp 
 - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.     
 [https://github.com/lovell/sharp](https://github.com/lovell/sharp)
 
+## - Form / Data  
+### - yup   
+- Dead simple Object schema validation.    
+[https://github.com/jquense/yup#stringmaxlimit-number--ref-message-string--function-schema](https://github.com/jquense/yup#stringmaxlimit-number--ref-message-string--function-schema)
+
+### - joi   
+- The most powerful schema description language and data validator for JavaScript.    
+[https://joi.dev/](https://joi.dev/)  
+
+### - zod  
+- TypeScript-first schema validation with static type inference.      
+[https://github.com/colinhacks/zod](https://github.com/colinhacks/zod)  
 

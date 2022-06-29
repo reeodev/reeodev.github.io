@@ -77,6 +77,10 @@ These websites can be references for your design ideas
 - 3D typography for the web. Works with every font.      
 [https://bennettfeely.com/ztext/](https://bennettfeely.com/ztext/)
 
+### - codejar
+- An embeddable code editor for the browser.     
+[https://github.com/antonmedv/codejar](https://github.com/antonmedv/codejar)  
+
 
 ## Data visualization
 ### - Chart.js

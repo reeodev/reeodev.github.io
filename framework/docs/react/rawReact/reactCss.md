@@ -71,6 +71,10 @@ These websites can be references for your design ideas
 - Universal design systems for React Native & Web, faster.      
 [https://tamagui.dev/](https://tamagui.dev/) 
 
+### - React Spectrum   
+- A React implementation of Spectrum, Adobe’s design system.        
+[https://react-spectrum.adobe.com/react-spectrum/index.html](https://react-spectrum.adobe.com/react-spectrum/index.html) 
+
 
 ## Icons / Avatars 
 ### - react-icons
@@ -169,8 +173,11 @@ These websites can be references for your design ideas
 
 ### - react-hover     
 - React hover --- make hover easy.           
-[https://github.com/cht8687/react-hover](https://github.com/cht8687/react-hover)         
+[https://github.com/cht8687/react-hover](https://github.com/cht8687/react-hover)   
 
+### - react-text-transition     
+- About Animate your text change.             
+[https://github.com/WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition)           
 
 ## Alert pop up
 ### - sweetalert2-react-content
@@ -180,7 +187,6 @@ These websites can be references for your design ideas
 ### - Mantine Notifications  
 - Mantine notifications system.        
 [https://mantine.dev/others/notifications/](https://mantine.dev/others/notifications/)
-
 
 
 ## Scroll & slide effect
@@ -221,7 +227,6 @@ These websites can be references for your design ideas
 [https://github.com/jscottsmith/react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax)
 
 
-
 ## Calendar & Time
 ### - fullcalendar-react
 - The Most Popular JavaScript Calendar.  
@@ -231,6 +236,9 @@ These websites can be references for your design ideas
 - 🕗 Simple and efficient react component to format date with *** time ago statement. eg: '3 hours ago'.    
 [https://github.com/hustcc/timeago-react](https://github.com/hustcc/timeago-react)
 
+### - planby
+- React based component for a quick implementation of Epg, schedules.      
+[https://github.com/karolkozer/planby](https://github.com/karolkozer/planby)
 
 
 ## Data visualization  
@@ -306,7 +314,11 @@ These websites can be references for your design ideas
 
 ### - React Color 
 - A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more.  
-[https://casesandberg.github.io/react-color/#usage-include](https://casesandberg.github.io/react-color/#usage-include)   
+[https://casesandberg.github.io/react-color/#usage-include](https://casesandberg.github.io/react-color/#usage-include)  
+
+### - react-colorful 
+- A tiny (2,8 KB) color picker component for React and Preact apps.    
+[https://github.com/omgovich/react-colorful](https://github.com/omgovich/react-colorful)   
 
 ### - frappe
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
@@ -318,7 +330,19 @@ These websites can be references for your design ideas
 
 ### - Code Hike  
 - Not just a syntax highlighter.           
-[https://codehike.org/](https://codehike.org/)     
+[https://codehike.org/](https://codehike.org/) 
+
+### - verbum  
+- Verbum is a fully flexible text editor based on lexical framework.             
+[https://github.com/ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) 
+
+### - react-pin-field 
+- React component for entering PIN codes.               
+[https://github.com/soywod/react-pin-field](https://github.com/soywod/react-pin-field)  
+
+### - react-live   
+- A flexible playground for live editing React components.                 
+[https://github.com/FormidableLabs/react-live](https://github.com/FormidableLabs/react-live)           
 
 
 ## Productive
@@ -354,3 +378,7 @@ These websites can be references for your design ideas
 ### - React Leaflet
 - React components for Leaflet maps.  
 [https://react-leaflet.js.org/](https://react-leaflet.js.org/)   
+
+### - Reactive Maps  
+- Build Geolocation Apps.      
+[https://opensource.appbase.io/reactivemaps/](https://opensource.appbase.io/reactivemaps/)     

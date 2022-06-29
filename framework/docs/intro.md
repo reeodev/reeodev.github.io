@@ -10,7 +10,7 @@ Those website / tools are useful to all that coding and design in a efficient wa
 
 Some section are still in process, so please be patient. Thank you!
 
-Last update: 03/05/2022  
+Last update: 29/06/2022  
 
 By Reemo    
 

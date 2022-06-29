@@ -60,6 +60,10 @@ These websites can be references for your design ideas
 - Simple no-frills code editor with syntax highlighting.         
 [https://github.com/satya164/react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) 
 
+### - Internationalized    
+- A collection of framework-agnostic internationalization libraries for the web.           
+[https://react-spectrum.adobe.com/internationalized/index.html](https://react-spectrum.adobe.com/internationalized/index.html)   
+
 
 ## Payment
 ### - react-paypal-js  
@@ -93,6 +97,10 @@ These websites can be references for your design ideas
 ### - wax    
 - JSX-compatible renderer for the Web Audio API.  
 [https://github.com/jamesseanwright/wax](https://github.com/jamesseanwright/wax)  
+
+### - useAudioPlayer    
+- Custom React hook & context for controlling browser audio.    
+[https://github.com/E-Kuerschner/useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer)  
 
 ### - REACTRONICA    
 - Play audio in the browser with simple declarative components. Treat music as a function of state.    
