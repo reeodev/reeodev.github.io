@@ -45,7 +45,17 @@ These websites can be references for your design ideas
 
 ### - react-simple-star-rating
 -  A simple react component for adding a star rating to your project.      
-[https://github.com/awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)    
+[https://github.com/awran5/react-simple-star-rating](https://github.com/awran5/react-simple-star-rating)   
+
+### - verbum
+-  Verbum is a fully flexible text editor based on lexical framework.        
+[https://github.com/ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum)    
+
+### - react-terminal-ui
+-  A terminal react component with support for light and dark modes.          
+[https://github.com/jonmbake/react-terminal-ui](https://github.com/jonmbake/react-terminal-ui)    
+
+
 
 ## Code related
 ### - react-textarea-code-editor  
@@ -63,6 +73,7 @@ These websites can be references for your design ideas
 ### - Internationalized    
 - A collection of framework-agnostic internationalization libraries for the web.           
 [https://react-spectrum.adobe.com/internationalized/index.html](https://react-spectrum.adobe.com/internationalized/index.html)   
+
 
 
 ## Payment
@@ -155,6 +166,11 @@ These websites can be references for your design ideas
 ### - leva  
 - React-first components GUI.        
 [https://github.com/pmndrs/leva](https://github.com/pmndrs/leva)     
+
+### - html-react-parser    
+- 📝 HTML to React parser.     
+[https://github.com/remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)     
+
 
 
 ## CSS utilis

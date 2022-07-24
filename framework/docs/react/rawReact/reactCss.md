@@ -75,6 +75,14 @@ These websites can be references for your design ideas
 - A React implementation of Spectrum, Adobe’s design system.        
 [https://react-spectrum.adobe.com/react-spectrum/index.html](https://react-spectrum.adobe.com/react-spectrum/index.html) 
 
+### - PrimeReact  
+- PrimeReact is a rich set of open source UI Components for React.          
+[https://www.primefaces.org/primereact/](https://www.primefaces.org/primereact/) 
+
+### - react-chat-elements   
+- Reactjs chat elements chat UI, react chat components.          
+[https://github.com/Detaysoft/react-chat-elements](https://github.com/Detaysoft/react-chat-elements) 
+
 
 ## Icons / Avatars 
 ### - react-icons
@@ -177,7 +185,17 @@ These websites can be references for your design ideas
 
 ### - react-text-transition     
 - About Animate your text change.             
-[https://github.com/WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition)           
+[https://github.com/WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition)    
+
+### - image     
+- React Image Component.               
+[https://github.com/react-component/image](https://github.com/react-component/image)    
+
+### - react-easy-infinite-scroll-hook     
+- A react hook that makes it easy to add infinite scroll to any component.                 
+[https://github.com/vdmrgv/react-easy-infinite-scroll-hook](https://github.com/vdmrgv/react-easy-infinite-scroll-hook)    
+
+
 
 ## Alert pop up
 ### - sweetalert2-react-content
@@ -187,6 +205,14 @@ These websites can be references for your design ideas
 ### - Mantine Notifications  
 - Mantine notifications system.        
 [https://mantine.dev/others/notifications/](https://mantine.dev/others/notifications/)
+
+### - React-Toastify  
+- React notification made easy.        
+[https://github.com/fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+
+### - react-hot-toast 
+- Smoking Hot React Notifications 🔥.          
+[https://github.com/timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
 
 
 ## Scroll & slide effect
@@ -240,6 +266,16 @@ These websites can be references for your design ideas
 - React based component for a quick implementation of Epg, schedules.      
 [https://github.com/karolkozer/planby](https://github.com/karolkozer/planby)
 
+### - react-timeago
+-  A simple time-ago component for ReactJs.        
+[https://github.com/nmn/react-timeago](https://github.com/nmn/react-timeago)    
+
+### - react-big-calendar
+-  gcal/outlook like calendar component.   
+[https://github.com/jquense/react-big-calendar](https://github.com/jquense/react-big-calendar)    
+
+
+
 
 ## Data visualization  
 ### - react-chartjs-2  
@@ -281,6 +317,18 @@ These websites can be references for your design ideas
 ### - glide-data-grid 
 - 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.      
 [https://github.com/glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid)  
+
+### - react-complex-tree 
+- Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.          
+[https://github.com/lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree)    
+
+### - react-open-weather 
+- React open weather is a React Component loading forecast data from Various weather providers.            
+[https://github.com/farahat80/react-open-weather](https://github.com/farahat80/react-open-weather)    
+
+### - react-calendar-heatmap 
+- An svg calendar heatmap inspired by github's contribution graph.            
+[https://github.com/kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)    
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -342,7 +390,11 @@ These websites can be references for your design ideas
 
 ### - react-live   
 - A flexible playground for live editing React components.                 
-[https://github.com/FormidableLabs/react-live](https://github.com/FormidableLabs/react-live)           
+[https://github.com/FormidableLabs/react-live](https://github.com/FormidableLabs/react-live)    
+
+### - react-sketch-canvas     
+- Freehand vector drawing component for React using SVG as canvas.                   
+[https://github.com/vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas)           
 
 
 ## Productive

@@ -91,6 +91,10 @@ These websites can be references for your design ideas
 - For manipulating documents based on data.  
 [https://d3js.org/](https://d3js.org/)
 
+### - Tabulator
+- Easy to use, simple to code, fully featured, interactive JavaScript tables.    
+[http://tabulator.info/](http://tabulator.info/)
+
 ## 3D related
 ### - Vanta.js
 - Animated website backgrounds in a few lines of code.    
