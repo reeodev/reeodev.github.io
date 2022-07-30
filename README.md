@@ -2,17 +2,15 @@
 For your design and develop references
 
 ## Content
-- General design references
-- HTML
-- CSS
-- javascript
-- React / React native
+- General design references with web development
+- Over 100 react related libraries covered 
+- frequently update
 
 ## Futurn content
 
 - [x] Site deploy
-- [ ] Content update
-- [ ] Compoments tools
+- [x] Content update
+- [x] Compoments tools
 
 
 ## website
