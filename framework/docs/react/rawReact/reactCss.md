@@ -83,6 +83,10 @@ These websites can be references for your design ideas
 - Reactjs chat elements chat UI, react chat components.          
 [https://github.com/Detaysoft/react-chat-elements](https://github.com/Detaysoft/react-chat-elements) 
 
+### - react-windows-ui   
+- Build Windows fluent UI apps using ReactJS.             
+[https://github.com/virtualvivek/react-windows-ui](https://github.com/virtualvivek/react-windows-ui) 
+
 
 ## Icons / Avatars 
 ### - react-icons
@@ -328,7 +332,11 @@ These websites can be references for your design ideas
 
 ### - react-calendar-heatmap 
 - An svg calendar heatmap inspired by github's contribution graph.            
-[https://github.com/kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)    
+[https://github.com/kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap) 
+
+### - react-simple-maps  
+- Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.              
+[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)      
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -394,7 +402,11 @@ These websites can be references for your design ideas
 
 ### - react-sketch-canvas     
 - Freehand vector drawing component for React using SVG as canvas.                   
-[https://github.com/vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas)           
+[https://github.com/vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas)    
+
+### - dark-mode-toggle     
+- 🌓 A dark mode toggle component for React.                   
+[https://github.com/anatoliygatt/dark-mode-toggle](https://github.com/anatoliygatt/dark-mode-toggle)             
 
 
 ## Productive
