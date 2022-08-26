@@ -199,6 +199,10 @@ These websites can be references for your design ideas
 - A react hook that makes it easy to add infinite scroll to any component.                 
 [https://github.com/vdmrgv/react-easy-infinite-scroll-hook](https://github.com/vdmrgv/react-easy-infinite-scroll-hook)    
 
+### - fireworks-js      
+- A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.                   
+[https://github.com/crashmax-dev/fireworks-js](https://github.com/crashmax-dev/fireworks-js)        
+
 
 
 ## Alert pop up
@@ -256,6 +260,10 @@ These websites can be references for your design ideas
 -  React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.        
 [https://github.com/jscottsmith/react-scroll-parallax](https://github.com/jscottsmith/react-scroll-parallax)
 
+### - react-joyride
+-  Create guided tours in your apps.          
+[https://github.com/gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride)
+
 
 ## Calendar & Time
 ### - fullcalendar-react
@@ -277,7 +285,6 @@ These websites can be references for your design ideas
 ### - react-big-calendar
 -  gcal/outlook like calendar component.   
 [https://github.com/jquense/react-big-calendar](https://github.com/jquense/react-big-calendar)    
-
 
 
 
@@ -336,7 +343,12 @@ These websites can be references for your design ideas
 
 ### - react-simple-maps  
 - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.              
-[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)      
+[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)
+
+### - react-circular-progressbar      
+- A circular progressbar component, built with SVG and extensively customizable.                 
+[https://github.com/kevinsqi/react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar)  
+
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -406,13 +418,21 @@ These websites can be references for your design ideas
 
 ### - dark-mode-toggle     
 - 🌓 A dark mode toggle component for React.                   
-[https://github.com/anatoliygatt/dark-mode-toggle](https://github.com/anatoliygatt/dark-mode-toggle)             
+[https://github.com/anatoliygatt/dark-mode-toggle](https://github.com/anatoliygatt/dark-mode-toggle)
+
+### - react-image-crop       
+- A responsive image cropping tool for React.     
+[https://github.com/DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop)
 
 
 ## Productive
 ### - frappe.io gantt
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.   
-[https://frappe.io/gantt](https://frappe.io/gantt)  
+[https://frappe.io/gantt](https://frappe.io/gantt)
+
+### - react-arborist
+- A sortable, virtual, customizable tree component for React.    
+[https://github.com/brimdata/react-arborist](https://github.com/brimdata/react-arborist)  
 
 
 

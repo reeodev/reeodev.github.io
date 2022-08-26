@@ -22,5 +22,9 @@ These websites can be references for your design ideas
 
 ## Animations
 ### - @legendapp/motion
-- declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.  
-[https://legendapp.com/dev/motion/](https://legendapp.com/dev/motion/)
+- declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.    
+[https://legendapp.com/dev/motion/](https://legendapp.com/dev/motion/)  
+
+### - react-native-modalize
+- A highly customizable modal/bottom sheet that loves scrolling content.   
+[https://github.com/jeremybarbet/react-native-modalize](https://github.com/jeremybarbet/react-native-modalize)  

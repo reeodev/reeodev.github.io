@@ -95,6 +95,11 @@ These websites can be references for your design ideas
 - Easy to use, simple to code, fully featured, interactive JavaScript tables.    
 [http://tabulator.info/](http://tabulator.info/)
 
+### - monaco-editor  
+- A browser based code editor.      
+[https://github.com/microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+
+
 ## 3D related
 ### - Vanta.js
 - Animated website backgrounds in a few lines of code.    

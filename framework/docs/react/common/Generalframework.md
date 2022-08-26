@@ -28,6 +28,10 @@ These websites can be references for your design ideas
 - Bear necessities for state management in React.    
 [https://github.com/pmndrs/zustand](https://github.com/pmndrs/zustand)
 
+### jotai  
+- 👻 Primitive and flexible state management for React.      
+[https://github.com/pmndrs/jotai](https://github.com/pmndrs/jotai)  
+
 
 ## General framework
 ### Next.js

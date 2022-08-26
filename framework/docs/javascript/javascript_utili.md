@@ -7,9 +7,15 @@ sidebar_position: 5
 These websites can be references for your design ideas 
 
 ## Generative
-### - react-swipeable-views
-- A tiny, secure, URL-friendly, unique string ID generator for JavaScript.   
+### - nanoid
+- A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript.   
 [https://github.com/ai/nanoid/](https://github.com/ai/nanoid/)
+
+### - @faker-js/faker
+- Generate massive amounts of fake (but realistic) data for testing and development.     
+[https://github.com/faker-js/faker](https://github.com/faker-js/faker)
+
+
 
 ## Documents related 
 ### - jsPDF
