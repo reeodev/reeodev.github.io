@@ -1,8 +1,8 @@
-# Free Deployment Tools
+# Free or cheap Deployment Tools
 
 These website contribute to eliminate network bagger **AWS**
 
-## Deployment
+## Frontend Deployment
 ### - Netlify Drop
 - Drag and drop a folder with your site’s HTML, CSS, and JS files. We’ll publish them live and give you a link to share it.       
 [https://app.netlify.com/drop](https://app.netlify.com/drop)
@@ -14,6 +14,25 @@ These website contribute to eliminate network bagger **AWS**
 ### - Azure Static Web Apps
 - Streamlined full-stack development from source code to global high availability.          
 [https://azure.microsoft.com/en-us/services/app-service/static/](https://azure.microsoft.com/en-us/services/app-service/static/)
+
+### - Firebase Hosting
+- Firebase Hosting provides fast and secure hosting for your web app, static and dynamic content, and microservices.            
+[https://firebase.google.com/docs/hosting/](https://firebase.google.com/docs/hosting)
+
+
+## Media & Data Storage
+### - Backblaze B2
+- Simple, Scalable Cloud Storage Services.         
+[https://www.backblaze.com/b2/cloud-storage.html](https://www.backblaze.com/b2/cloud-storage.html)
+
+### - bunny
+- The Global Content Delivery Platform That Truly Hops.           
+[https://bunny.net/](https://bunny.net/)
+
+## Database
+### - neon
+- Serverless Postgres.         
+[https://neon.tech/](https://neon.tech/)
 
 ## Networking
 ### - ngrok

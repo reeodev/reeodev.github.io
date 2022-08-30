@@ -16,7 +16,6 @@ These websites can be references for your design ideas
 [https://github.com/faker-js/faker](https://github.com/faker-js/faker)
 
 
-
 ## Documents related 
 ### - jsPDF
 - A library to generate PDFs in JavaScript.     
