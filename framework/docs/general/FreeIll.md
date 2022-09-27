@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Free Illustration
+# Free Elements
 
 These illustration can be use to your project for free
 
@@ -47,3 +47,32 @@ Register is needed
 [https://www.irasutoya.com/](https://www.irasutoya.com/)
 
 
+## Free Elements
+
+### - fukidesign   
+- Japanese free talking box elements sites.    
+[https://fukidesign.com/](https://fukidesign.com/)  
+
+### - mangasozai   
+- Japanese free manga elements sites.    
+[https://mangasozai.com/](https://mangasozai.com/) 
+ 
+### - calligra   
+- Japanese free wordings design elements sites.    
+[https://calligra.design/](https://calligra.design/)  
+
+### - calligra   
+- Japanese free ribbon design elements sites.    
+[http://ribbon-freaks.com/](http://ribbon-freaks.com/)  
+
+### - linustock (Recommended)
+- Japanese free stock illustration site.    
+[https://www.linustock.com/](https://www.linustock.com/)  
+
+### - ソコスト (soco-st) (Recommended)
+- Japanese free animate illustration site.    
+[https://soco-st.com/](https://soco-st.com/)  
+
+### - tyoudoii (Recommended)  
+- Japanese free animate illustration site.      
+[https://tyoudoii-illust.com/](https://tyoudoii-illust.com/)    

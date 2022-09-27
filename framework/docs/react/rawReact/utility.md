@@ -65,7 +65,15 @@ These websites can be references for your design ideas
 
 ### - emoji-mart
 -  🏪 One component to pick them all.            
-[https://github.com/missive/emoji-mart](https://github.com/missive/emoji-mart)    
+[https://github.com/missive/emoji-mart](https://github.com/missive/emoji-mart)
+
+### - ka-table
+-  Lightweight MIT React Table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more.              
+[https://github.com/komarovalexander/ka-table](https://github.com/komarovalexander/ka-table)
+
+### - mantine-datatable
+-  A table component for your Mantine data-rich applications.        
+[https://github.com/icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)    
 
 
 
