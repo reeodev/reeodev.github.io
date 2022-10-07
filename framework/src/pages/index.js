@@ -12,8 +12,10 @@ import { Fade } from "react-awesome-reveal";
 
 import LeftSvg from "../../static/img/undraw_folder_re_j0i0.svg"
 import BtttomOneSvg from "../../static/img/undraw_on_the_office_re_cxds.svg"
+// import setupLocatorUI from "@locator/runtime";
 
 import { SiJavascript, SiHtml5, SiCsswizardry, SiReact } from 'react-icons/si';
+
 
 
 function HomepageHeader() {

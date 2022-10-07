@@ -73,7 +73,15 @@ These websites can be references for your design ideas
 
 ### - mantine-datatable
 -  A table component for your Mantine data-rich applications.        
-[https://github.com/icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)    
+[https://github.com/icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)   
+ 
+### - react-search-box
+-  🎨 An autocomplete search box built with and for React.        
+[https://github.com/ghoshnirmalya/react-search-box](https://github.com/ghoshnirmalya/react-search-box)    
+
+### - fortune-sheet
+-  A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets.          
+[https://github.com/ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)    
 
 
 
@@ -166,7 +174,11 @@ These websites can be references for your design ideas
 
 ### - remotion   
 - 🎥 Create videos programmatically in React.         
-[https://github.com/remotion-dev/remotion](https://github.com/remotion-dev/remotion)    
+[https://github.com/remotion-dev/remotion](https://github.com/remotion-dev/remotion)  
+
+### - react-player   
+- A React component for playing a variety of URLs.           
+[https://github.com/cookpete/react-player](https://github.com/cookpete/react-player)    
 
 ## Chat bot
 ### - urban-bot 

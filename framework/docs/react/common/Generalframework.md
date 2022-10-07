@@ -32,6 +32,10 @@ These websites can be references for your design ideas
 - 👻 Primitive and flexible state management for React.      
 [https://github.com/pmndrs/jotai](https://github.com/pmndrs/jotai)  
 
+### little-state-machine  
+- 📠 React custom hook for persist state management.      
+[https://github.com/beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)  
+
 
 ## General framework
 ### Next.js

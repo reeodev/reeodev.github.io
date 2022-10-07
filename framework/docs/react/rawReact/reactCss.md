@@ -201,8 +201,12 @@ These websites can be references for your design ideas
 
 ### - fireworks-js      
 - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.                   
-[https://github.com/crashmax-dev/fireworks-js](https://github.com/crashmax-dev/fireworks-js)        
+[https://github.com/crashmax-dev/fireworks-js](https://github.com/crashmax-dev/fireworks-js)    
 
+### - react-tether     
+- React wrapper around Tether.                       
+[https://github.com/danreeves/react-tether](https://github.com/danreeves/react-tether)    
+       
 
 
 ## Alert pop up
