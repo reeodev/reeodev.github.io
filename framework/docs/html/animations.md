@@ -46,6 +46,11 @@ These websites can be references for your design ideas
 - Pile your sections one over another and access them scrolling or by URL!     
 [https://github.com/alvarotrigo/pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
 
+### - Embla Carousel  
+- PA lightweight carousel library with fluid motion and great swipe precision.     
+[https://www.embla-carousel.com/](https://www.embla-carousel.com/)  
+
+
 ## Swip / Drag effect
 ### - Swiper
 - The Most Modern Mobile Touch Slider.      
