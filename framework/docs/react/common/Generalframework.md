@@ -36,6 +36,10 @@ These websites can be references for your design ideas
 - 📠 React custom hook for persist state management.      
 [https://github.com/beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)  
 
+### xoid 
+- Framework-agnostic state management library designed for simplicity and scalability.          
+[https://xoid.dev/](https://xoid.dev/)    
+
 
 ## General framework
 ### Next.js

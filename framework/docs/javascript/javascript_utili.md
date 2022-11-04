@@ -6,6 +6,11 @@ sidebar_position: 5
 
 These websites can be references for your design ideas 
 
+## Utilis
+### - fast-copy
+- A blazing fast deep object copier.     
+[https://github.com/planttheidea/fast-copy](https://github.com/planttheidea/fast-copy)
+
 ## Generative
 ### - nanoid
 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript.   
@@ -20,6 +25,14 @@ These websites can be references for your design ideas
 ### - jsPDF
 - A library to generate PDFs in JavaScript.     
 [https://github.com/parallax/jsPDF](https://github.com/parallax/jsPDF)
+
+### - tesseract.js  
+- Pure Javascript OCR for more than 100 Languages 📖🎉🖥       
+[https://github.com/naptha/tesseract.js](https://github.com/naptha/tesseract.js)
+
+### - compromise  
+- modest natural-language processing        
+[https://github.com/spencermountain/compromise](https://github.com/spencermountain/compromise)      
 
 
 ## Live related  
@@ -61,6 +74,10 @@ These websites can be references for your design ideas
 ### - sharp 
 - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.     
 [https://github.com/lovell/sharp](https://github.com/lovell/sharp)
+
+### - smartcrop.js  
+- Content aware image cropping.         
+[https://github.com/jwagner/smartcrop.js/](https://github.com/jwagner/smartcrop.js/)  
 
 ## - Form / Data  
 ### - yup   

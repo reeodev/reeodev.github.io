@@ -85,7 +85,27 @@ These websites can be references for your design ideas
 
 ### - react-windows-ui   
 - Build Windows fluent UI apps using ReactJS.             
-[https://github.com/virtualvivek/react-windows-ui](https://github.com/virtualvivek/react-windows-ui) 
+[https://github.com/virtualvivek/react-windows-ui](https://github.com/virtualvivek/react-windows-ui)
+
+### - geist   
+- An open source design system for building modern websites and applications.                 
+[https://geist-ui.dev/en-us](https://geist-ui.dev/en-us) 
+
+### - gestalt   
+- Gestalt is Pinterest’s design system.                   
+[https://gestalt.pinterest.systems/home](https://gestalt.pinterest.systems/home) 
+
+### - master.co     
+- A Virtual CSS language with enhanced syntax.                     
+[https://css.master.co/#design](https://css.master.co/#design) 
+
+### - tremor    
+- The React library to build dashboards fast.                       
+[https://www.tremor.so/](https://www.tremor.so/) 
+
+### - xstyled    
+- Build your entire website using JSX and Props.                         
+[https://xstyled.dev/](https://xstyled.dev/) 
 
 
 ## Icons / Avatars 
@@ -206,6 +226,14 @@ These websites can be references for your design ideas
 ### - react-tether     
 - React wrapper around Tether.                       
 [https://github.com/danreeves/react-tether](https://github.com/danreeves/react-tether)    
+
+### - windups     
+- A unique typewriter effect library for React.                         
+[https://github.com/sgwilym/windups](https://github.com/sgwilym/windups)      
+       
+### - react-medium-image-zoom       
+- 🔎 🏞 The original medium.com-inspired image zooming library for React.                           
+[https://github.com/rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)      
        
 
 

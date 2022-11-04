@@ -20,6 +20,10 @@ These websites can be references for your design ideas
 - Material design for React Native.  
 [https://github.com/callstack/react-native-paper](https://github.com/callstack/react-native-paper)
 
+### - OsmiCSX
+- An utility style framework for React Native.    
+[https://osmicsx.dev/](https://osmicsx.dev/)  
+
 ## Animations
 ### - @legendapp/motion
 - declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.    

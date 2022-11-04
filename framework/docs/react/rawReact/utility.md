@@ -149,6 +149,10 @@ These websites can be references for your design ideas
 - Play audio in the browser with simple declarative components. Treat music as a function of state.    
 [https://reactronica.com/](https://reactronica.com/)  
 
+### - react-modern-audio-player    
+- 🔊 Simple, accessible and flexible audio player.      
+[https://github.com/slash9494/react-modern-audio-player](https://github.com/slash9494/react-modern-audio-player)    
+
 ## Files  
 ### - chonky      
 - A File Browser for React    

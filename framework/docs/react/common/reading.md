@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Reading
 
-These websites can be references for your design ideas 
-
 ## Cheatsheet / Tutorials
 ### All React + TypeScript Cheatsheets
 - Cheatsheets for experienced React developers getting started with TypeScript.    
