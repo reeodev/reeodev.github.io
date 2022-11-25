@@ -10,11 +10,7 @@
   overflow: hidden;
 }
 
-html[data-theme='dark'] .specialText {
-  color: white;
-}
-
-@media screen and (max-width: 966px) {
+@media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }

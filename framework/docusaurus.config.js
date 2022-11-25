@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+// const path = require("path")
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -15,7 +15,13 @@ const config = {
   favicon: 'img/reelogo.png',
   organizationName: 'reeodev', 
   projectName: 'reeodev.github.io', // Usually your repo name.
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+  themes: [
+    '@easyops-cn/docusaurus-search-local',
+  ],
   presets: [
     [
       'classic',
@@ -50,11 +56,11 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
-          {
-            to: '/ToolsInterface',
-            label: 'Tools',
-            position: 'left'
-          },
+          // {
+          //   to: '/ToolsInterface',
+          //   label: 'Tools',
+          //   position: 'left'
+          // },
           {
             href: 'https://github.com/reeodev',
             label: 'GitHub',
@@ -65,28 +71,28 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Resources',
-            items: [
-              { label: 'General resources', to: '/docs/general/ui' },
-              { label: 'HTML', to: '/docs/html/animations' },
-              { label: 'CSS', to: '/docs/css/fonts' },
-              { label: 'React', to: '/docs/react/rawReact/reactCss' },
-            ],
-          },
-          {
-            title: 'Tools',
-            items: [
-              { label: 'Home', to: '/' },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              { label: 'Blog',to: '/blog' },
-              { label: 'GitHub',href: 'https://github.com/reeodev', },
-            ],
-          },
+            {
+              title: 'Resources',
+              items: [
+                { label: 'General resources', to: '/docs/general/ui' },
+                { label: 'HTML', to: '/docs/html/animations' },
+                { label: 'CSS', to: '/docs/css/fonts' },
+                { label: 'React', to: '/docs/react/rawReact/reactCss' },
+              ],
+            },
+            {
+              title: 'Tools',
+              items: [
+                { label: 'Home', to: '/' },
+              ],
+            },
+            {
+              title: 'More',
+              items: [
+                { label: 'Blog',to: '/blog' },
+                { label: 'GitHub',href: 'https://github.com/reeodev', },
+              ],
+            },
         ],
         copyright: `Burh.`,
       },
