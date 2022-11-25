@@ -83,6 +83,10 @@ These websites can be references for your design ideas
 -  A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets.          
 [https://github.com/ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)    
 
+### - markdoc  
+-  A powerful, flexible, Markdown-based authoring framework.            
+[https://github.com/markdoc/markdoc](https://github.com/markdoc/markdoc)    
+
 
 
 ## Code related
@@ -218,6 +222,10 @@ These websites can be references for your design ideas
 ### - react-styleguidist      
 - Isolated React component development environment with a living style guide.       
 [https://github.com/styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist)     
+
+### - use-resize-observer        
+- A React hook that allows you to use a ResizeObserver to measure an element's size.        
+[https://github.com/ZeeCoder/use-resize-observer](https://github.com/ZeeCoder/use-resize-observer)     
 
 
 ## Mailing services

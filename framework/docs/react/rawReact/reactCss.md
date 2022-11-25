@@ -235,6 +235,10 @@ These websites can be references for your design ideas
 - 🔎 🏞 The original medium.com-inspired image zooming library for React.                           
 [https://github.com/rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)      
        
+### - watching-you       
+- watching-you is a javascript library for building animations that watch anything on DOM 👀.                             
+[https://github.com/jj811208/watching-you](https://github.com/jj811208/watching-you)      
+       
 
 
 ## Alert pop up
@@ -455,6 +459,10 @@ These websites can be references for your design ideas
 ### - react-image-crop       
 - A responsive image cropping tool for React.     
 [https://github.com/DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop)
+
+### - react-tooltip        
+- react tooltip component.       
+[https://github.com/ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip)
 
 
 ## Productive
