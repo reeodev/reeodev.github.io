@@ -6,7 +6,8 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "dev": "docusaurus start",
-    "build": "docusaurus build",
+    "buildIn": "docusaurus build",
+    "build": "docusaurus build --out-dir ../docs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -16,13 +17,18 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@cmfcmf/docusaurus-search-local": "^0.11.0",
     "@docusaurus/core": "2.2.0",
     "@docusaurus/preset-classic": "2.2.0",
+    "@emotion/react": "^11.10.5",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-awesome-reveal": "^4.1.0",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.6.0",
+    "typeit-react": "^2.6.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.2.0",
