@@ -6,11 +6,14 @@ For your design and develop references
 - Over 100 react related libraries covered 
 - frequently update
 
-## Futurn content
+## Future content
 
 - [x] Site deploy
 - [x] Content update
 - [x] Compoments tools
+
+## Road map
+- [x] Support ts
 
 
 ## website
