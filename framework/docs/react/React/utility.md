@@ -87,6 +87,10 @@ These websites can be references for your design ideas
 -  A powerful, flexible, Markdown-based authoring framework.            
 [https://github.com/markdoc/markdoc](https://github.com/markdoc/markdoc)    
 
+### - react-markdown    
+-  Markdown component for React  
+[https://github.com/remarkjs/react-markdown](https://github.com/remarkjs/react-markdown)    
+
 
 
 ## Code related
@@ -187,6 +191,12 @@ These websites can be references for your design ideas
 ### - react-player   
 - A React component for playing a variety of URLs.           
 [https://github.com/cookpete/react-player](https://github.com/cookpete/react-player)    
+
+### - satori   
+- Enlightened library to convert HTML and CSS to SVG.          
+[https://github.com/vercel/satori](https://github.com/vercel/satori)      
+
+
 
 ## Chat bot
 ### - urban-bot 

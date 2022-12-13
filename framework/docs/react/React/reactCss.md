@@ -237,7 +237,15 @@ These websites can be references for your design ideas
        
 ### - watching-you       
 - watching-you is a javascript library for building animations that watch anything on DOM 👀.                             
-[https://github.com/jj811208/watching-you](https://github.com/jj811208/watching-you)      
+[https://github.com/jj811208/watching-you](https://github.com/jj811208/watching-you)   
+
+### - react-inner-image-zoom         
+- A React component for zooming images.                               
+[https://github.com/laurenashpole/react-inner-image-zoom](https://github.com/laurenashpole/react-inner-image-zoom)      
+
+### - react-advanced-cropper          
+- To create croppers that exactly suited for your website design.                                 
+[https://github.com/advanced-cropper/react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)      
        
 
 
@@ -300,6 +308,15 @@ These websites can be references for your design ideas
 -  Create guided tours in your apps.          
 [https://github.com/gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride)
 
+### - react-cool-dimensions  
+-  😎 📏 React hook to measure an element's size and handle responsive components.            
+[https://github.com/wellyshen/react-cool-dimensions](https://github.com/wellyshen/react-cool-dimensions) 
+
+### - react-visual-grid  
+-  Image Grid / Gallery for React.            
+[https://github.com/prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)  
+
+
 
 ## Calendar & Time
 ### - fullcalendar-react
@@ -322,6 +339,13 @@ These websites can be references for your design ideas
 -  gcal/outlook like calendar component.   
 [https://github.com/jquense/react-big-calendar](https://github.com/jquense/react-big-calendar)    
 
+### - react-chrono  
+-  🕜 Modern Timeline Component for React.  
+[https://github.com/prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono)     
+
+### - relative-time-element   
+-  Web component extensions to the standard `<time>` element.   
+[https://github.com/github/relative-time-element](https://github.com/github/relative-time-element)  
 
 
 ## Data visualization  
@@ -348,6 +372,10 @@ These websites can be references for your design ideas
 ### - nivo
 - Provides a rich set of dataviz components, built on top of D3 and React.  
 [https://nivo.rocks/](https://nivo.rocks/)   
+
+### - polaris-viz
+- A collection of React and React native components that compose Shopify's data visualization system.    
+[https://github.com/Shopify/polaris-viz](https://github.com/Shopify/polaris-viz)   
 
 ### - react-data-table-component  
 - React data table generator.  
@@ -414,7 +442,11 @@ These websites can be references for your design ideas
  
 ### - React DnD
 - Drag and Drop for React.   
-[https://github.com/react-dnd/react-dnd/](https://github.com/react-dnd/react-dnd/)   
+[https://github.com/react-dnd/react-dnd/](https://github.com/react-dnd/react-dnd/) 
+
+### - dnd-kit  
+- The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.     
+[https://github.com/clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)   
 
 ### - React Color 
 - A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more.  
@@ -463,6 +495,18 @@ These websites can be references for your design ideas
 ### - react-tooltip        
 - react tooltip component.       
 [https://github.com/ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip)
+
+### - react-reader          
+- An ePub-reader for React, powered by Epub.js.         
+[https://github.com/gerhardsletten/react-reader](https://github.com/gerhardsletten/react-reader)
+
+### - splitter         
+- React component for building split views like in VS Code.           
+[https://github.com/devbookhq/splitter](https://github.com/devbookhq/splitter)
+
+### - react-cmdk           
+- 🔍 A fast, accessible, and pretty command palette for React.             
+[https://github.com/albingroen/react-cmdk](https://github.com/albingroen/react-cmdk)
 
 
 ## Productive

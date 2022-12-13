@@ -77,7 +77,7 @@ const config = {
                 { label: 'General resources', to: '/docs/general/ui' },
                 { label: 'HTML', to: '/docs/html/animations' },
                 { label: 'CSS', to: '/docs/css/fonts' },
-                { label: 'React', to: '/docs/react/rawReact/reactCss' },
+                { label: 'React', to: '/docs/react/React/reactCss' },
               ],
             },
             {
