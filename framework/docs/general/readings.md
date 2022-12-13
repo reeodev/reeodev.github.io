@@ -67,3 +67,29 @@ https://github.com/mikeroyal/Digital-Forensics-Guide
 ### - SQL Injection Payload List            
 - 🎯 SQL Injection Payload List.            
 https://github.com/payloadbox/sql-injection-payload-list  
+
+
+## News / Blog
+### - JavaScript Weekly              
+- A newsletter of JavaScript articles, news and cool projects.              
+https://javascriptweekly.com/    
+
+### - React Status               
+- A weekly roundup of the latest React and React Native links and tutorials.                
+https://react.statuscode.com/ 
+
+### - React news letter               
+- React Newsletter Archives.                 
+https://reactnewsletter.com/issues  
+
+### - Github Blog               
+- Is github blog                
+https://github.blog/  
+
+### - web.dev               
+- Is web dev                
+https://web.dev/  
+
+### - Hacker News               
+- Hacker News               
+https://news.ycombinator.com/  
