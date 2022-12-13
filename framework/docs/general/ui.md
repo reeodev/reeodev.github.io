@@ -41,14 +41,37 @@ These websites can be references for your design ideas
 [https://csslayout.io/](https://csslayout.io/)  
 
 
-## Ux Design references
-
+## UI / UX Guidelines
 ### - nickkolenda.com
 - list of best practices in UX, UI, and interaction design.  
 [https://www.nickkolenda.com/user-experience/](https://www.nickkolenda.com/user-experience/)  
- 
-### - UX Engineer
-- UI Design Course and UXE Career Information.  
-[https://uxengineer.com/](https://uxengineer.com/)  
   
+### - UI Garage
+- Daily handpicked UI inspiration & patterns.  
+[https://uigarage.net/](https://uigarage.net/)  
 
+### - Ant Design
+- A design system for enterprise-level products. Create an efficient and enjoyable work experience.  
+[https://ant.design/](https://ant.design/)   
+
+###  -Nielsen Norman Group
+- World Leaders in Research-Based User Experience.  
+[https://www.nngroup.com/articles/](https://www.nngroup.com/articles/)    
+
+###  -Google Fonts Knowledge   
+- Google Fonts Knowledge enables designers and developers of all skill sets to choose and use type with purpose.  
+[https://fonts.google.com/knowledge](https://fonts.google.com/knowledge)   
+
+###  -Learn UI Design Blog     
+- Learn UI Design.   
+[https://learnui.design/blog/](https://learnui.design/blog/)    
+
+
+## Color References
+### - Materialui.co  
+- Pre-builded color choices.   
+[https://materialui.co/colors](https://materialui.co/colors)    
+
+### - Color palettes  
+- MUI color picker.  
+[https://material.io/inline-tools/color/](https://material.io/inline-tools/color/)  
