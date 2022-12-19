@@ -26,7 +26,7 @@ function HomePage(){
             <Grid.Col md={6}>
 
                 <Grid>
-                { [1,1,1,1,1,1].map( v => <Grid.Col md={4}> <Card shadow="sm" p="lg" radius="md" withBorder>{v}</Card> </Grid.Col>)}
+                { [1,1,1,1,1,1].map( v => <Grid.Col md={4}> <Card shadow="sm" p="lg" radius="md" withBorder> {v} </Card> </Grid.Col>)}
                 </Grid>
 
             </Grid.Col>
