@@ -7,17 +7,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Install modules
-      run: yarn
-    - name: Export static files
-        run: yarn export
-    - name: Add .nojekyll file
-        run: touch ./out/.nojekyll
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        folder: out
+      - uses: actions/checkout@v2
+      - name: Install modules
+        run: yarn
+      - name: Export static files
+          run: yarn export
+      - name: Add .nojekyll file
+          run: touch ./out/.nojekyll
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: out
