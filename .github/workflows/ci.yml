@@ -1,0 +1,22 @@
+name: ci website
+
+on:
+  push:
+    branches: "main"
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install modules
+      run: yarn
+    - name: Export static files
+        run: yarn export
+    - name: Add .nojekyll file
+        run: touch ./out/.nojekyll
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: out

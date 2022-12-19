@@ -1,0 +1,25 @@
+{
+  "*": {
+    "type": "page"
+  },
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "display": "hidden"
+  },
+  "resources": {
+    "title": "Resources",
+    "type": "menu",
+    "items": {
+      "general" : { "title": "General", "href":"/resources/general/FreeIll"},
+      "css" : { "title": "CSS", "href":"/resources/css/fonts"},
+      "javascript" : { "title": "Javascript", "href":"/resources/javascript/javascript_utili"},
+      "html" : { "title": "Html", "href":"/resources/html/animations"},
+      "react" : { "title": "React", "href":"/resources/react/React/reactCss"}
+    }
+  }
+}
