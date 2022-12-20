@@ -14,13 +14,32 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/reeodev/reeodev.github.io',
   },
-  // chat: {
-  //   link: 'https://discord.com',
-  // },
   docsRepositoryBase: 'https://github.com/reeodev/reeodev.github.io',
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="Reeodev" />
+      <meta property="og:description" content="For your design and development references." />
+      <meta property="og:locale" content="en_GB"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:image" content="https://reeodev.github.io/img/reelogo.ico"/>
+      <meta property="og:image:alt" content="Studio logo"/>
+
+      <meta property="og:url" content="https://reeodev.github.io/"></meta>
+    </>
+  ),
   footer: {
     text: 'Reeodev',
   },
+  editLink: {
+    text : null
+  },
+  feedback: {
+    content: null
+  },
+  sidebar: {
+    defaultMenuCollapseLevel: 1
+  }
 }
 
 export default config

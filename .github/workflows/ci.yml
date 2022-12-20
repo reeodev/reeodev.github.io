@@ -11,13 +11,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v2
-      - name: Install modules
+      - name: Install modules with yarn
         run: yarn
-      - name: Export static files
+      - name: Build and export site
         run: yarn export
       - name: Add .nojekyll file
         run: touch ./out/.nojekyll
-      - name: Deploy
+      - name: Deploy websitr to branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: out

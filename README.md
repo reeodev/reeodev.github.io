@@ -1,10 +1,10 @@
 # Reeodev
-For your design and develop references
+For your design and development references.
 
 ## Content
-- General design references with web development
-- Over 200 related libraries / sites covered 
-- Frequently update
+- General design references with web development.  
+- Over 200 related libraries / sites covered.  
+- Frequently update.  
 
 ## Future content
 - [x] Site deploy
@@ -14,7 +14,6 @@ For your design and develop references
 ## Road map
 - [x] Support ts
 - [x] docusaurus to nextra
-
 
 ## website
 http://reeodev.github.io
