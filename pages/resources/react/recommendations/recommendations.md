@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Recommendations
 ---
 
 Here's are some of the tools that you may / should add to the project.  

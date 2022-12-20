@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: Readings
 ---
 
-# Reading
+# Readings
 
 ## Cheatsheet / Tutorials
 ### All React + TypeScript Cheatsheets

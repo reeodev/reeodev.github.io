@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
-  "version": "0.0.1",
-  "description": "Nextra docs template",
+  "name": "reemodev-website",
+  "version": "2.0.2",
+  "description": "reemodev website",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

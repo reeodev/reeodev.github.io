@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+title: Free Deployment
 ---
 
 # Free or cheap Deployment Tools
