@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 ---
+import { Callout } from 'nextra-theme-docs'
 
 # Free Elements
 
@@ -32,11 +33,9 @@ These illustration can be use to your project for free
 - Japanese free illustrations site.  
 [https://www.ac-illust.com/](https://www.ac-illust.com/)   
  
-:::tip Notices
-
+<Callout type="warning" emoji="⚠️">
 Register is needed
-
-:::
+</Callout>
 
 ### - Lorem Picsum   
 - The Lorem Ipsum for photos.   

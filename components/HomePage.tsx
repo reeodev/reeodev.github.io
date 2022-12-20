@@ -1,5 +1,5 @@
 import { Text, Space, Grid, Card, Avatar, Group, Paper } from '@mantine/core';
-import { IconBook2, IconBrandReact, IconBrandHtml5, IconBrandCss3, IconBrandJavascript, IconBook } from '@tabler/icons';
+import { IconBook2, IconBrandReact, IconBrandHtml5, IconBrandCss3, IconBrandJavascript } from '@tabler/icons';
 
 function HomePage(){
     return (
