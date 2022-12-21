@@ -69,7 +69,7 @@ function HomePage(){
         </Grid>
 
         <Space h="md" />
-        <Text color="dimmed" size={12}>Last Update {new Date().toLocaleString() || ""}</Text>
+        <Text color="dimmed" size={12}>Last Update {new Date().toLocaleString('en-GB') || ""}</Text>
 
         </>
     )

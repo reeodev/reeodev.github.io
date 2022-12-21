@@ -246,7 +246,11 @@ These websites can be references for your design ideas
 
 ### - react-advanced-cropper          
 - To create croppers that exactly suited for your website design.                                 
-[https://github.com/advanced-cropper/react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)      
+[https://github.com/advanced-cropper/react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)   
+
+### - react-flip-move          
+- Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.                                  
+[https://github.com/joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)      
        
 
 
@@ -266,6 +270,10 @@ These websites can be references for your design ideas
 ### - react-hot-toast 
 - Smoking Hot React Notifications 🔥.          
 [https://github.com/timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+
+### - reapop   
+- 📮 A simple and customizable React notifications system.            
+[https://github.com/LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop)
 
 
 ## Scroll & slide effect
@@ -316,6 +324,18 @@ These websites can be references for your design ideas
 ### - react-visual-grid  
 -  Image Grid / Gallery for React.            
 [https://github.com/prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)  
+
+### - muuri    
+-  Infinite responsive, sortable, filterable and draggable layouts.              
+[https://github.com/haltu/muuri](https://github.com/haltu/muuri) 
+
+### - react-rnd      
+-  🖱 A resizable and draggable component for React.                
+[https://github.com/bokuweb/react-rnd](https://github.com/bokuweb/react-rnd)    
+
+### - react-movable     
+-  🔀 Drag and drop for your React lists and tables. Accessible. Tiny.                
+[https://github.com/tajo/react-movable](https://github.com/tajo/react-movable)      
 
 
 

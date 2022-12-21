@@ -40,8 +40,13 @@ https://github.com/papers-we-love/papers-we-love
 
 ### - Stanford CS Curriculum : Stanford     
 - Stanford CS Curriculum.      
-https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview  
+https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview 
 
+
+## Learning
+### - Book 3D Math Primer       
+- book 3D Math Primer for Graphics and Game Development.        
+https://gamemath.com/book/  
 
 ## Security
 ### - The book of secret knowledge  

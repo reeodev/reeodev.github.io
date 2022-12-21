@@ -9,7 +9,7 @@ Shadow css to your elements
 
 ## Boxs shadow
 
-### CSS Scans
+### - CSS Scans
 [https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
 ![cssScanShadowImage](../../../public/img/cssScanShadow.jpg)
 
@@ -19,18 +19,17 @@ Shadow css to your elements
 }
 ```  
 
-## - Text shadow
-
-### Designshack
+## Text shadow
+### - Designshack
 [Designshack - 12 Fun CSS Text Shadows You Can Copy and Paste](https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/)  
 
-### Templateyou
+### - Templateyou
 [Templateyou - 17 Best Free HTML CSS Text Shadow Effects 2022](https://templateyou.com/free-html-css-text-shadow-effects/)  
 
-### Freefrontend
+### - Freefrontend
 [Freefrontend - 20 CSS Text Shadow Effects](https://freefrontend.com/css-text-shadow-effects/)  
 
-### line25
+### - line25
 [line25 - Using CSS Text-Shadow to Create Cool Text Effects](https://line25.com/articles/using-css-text-shadow-to-create-cool-text-effects)  
 
 ```css title="Basic text shadow"

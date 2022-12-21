@@ -165,7 +165,12 @@ These websites can be references for your design ideas
 ## Files  
 ### - chonky      
 - A File Browser for React    
-[https://chonky.io/](https://chonky.io/)    
+[https://chonky.io/](https://chonky.io/)   
+
+### - uppy       
+- Sleek, modular open source JavaScript file uploader.       
+[https://uppy.io/](https://uppy.io/)    
+
 
 ## Cameras 
 ### - react-webcam   

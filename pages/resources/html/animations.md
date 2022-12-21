@@ -19,6 +19,10 @@ These websites can be references for your design ideas
 - JavaScript library to make drawing animation on SVG.       
 [https://github.com/maxwellito/vivus](https://github.com/maxwellito/vivus)
 
+### - flip  
+- ⏳ The online version of the classic flip clock.         
+[https://github.com/pqina/flip/](https://github.com/pqina/flip/)
+
 
 ## Click / Hover interaction
 ### - micron.js
