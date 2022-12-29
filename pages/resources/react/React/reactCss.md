@@ -122,6 +122,10 @@ These websites can be references for your design ideas
 - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.    
 [https://phosphoricons.com/](https://phosphoricons.com/)   
 
+### - @tabler/icons  
+- A set of 3108 free MIT-licensed high-quality SVG icons for you to use in your web projects.       
+[https://www.npmjs.com/package/@tabler/icons](https://www.npmjs.com/package/@tabler/icons)   
+
 ### - boring-avatars  
 - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.      
 [https://github.com/boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars)   

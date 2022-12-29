@@ -28,7 +28,8 @@
     "nextra-theme-docs": "2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sharp": "^0.31.2"
+    "sharp": "^0.31.2",
+    "typeit-react": "^2.6.1"
   },
   "devDependencies": {
     "@types/node": "18.11.10",

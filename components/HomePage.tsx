@@ -1,7 +1,11 @@
-import { Text, Space, Grid, Card, Avatar, Group, Paper } from '@mantine/core';
+import TypeIt from "typeit-react";
+import { useRouter } from 'next/router'
+import { UnstyledButton, Text, Space, Grid, Card, Avatar, Group, Paper } from '@mantine/core';
 import { IconBook2, IconBrandReact, IconBrandHtml5, IconBrandCss3, IconBrandJavascript } from '@tabler/icons';
 
 function HomePage(){
+    const router = useRouter();
+
     return (
         <>
         <Text 
@@ -13,7 +17,17 @@ function HomePage(){
             Reeodev
         </Text>
         <Text size={28} align="center">
-            Your site design building helper :)
+            <TypeIt
+                options={{
+                    strings: ["Your site design building helper :)" , "React, HTML, CSS, JS and more"],
+                    speed: 80,
+                    loop: true,
+                    startDelay: 1250,
+                    loopDelay: 2250,
+                    nextStringDelay: 4000,
+                    waitUntilVisible: true,
+                }}
+            />
         </Text>
 
         <Space h="md" />
@@ -44,21 +58,23 @@ function HomePage(){
 
                 <Grid>
                 {   [   
-                        { icon: <IconBrandReact/>, title: "React",  color:"blue"},
-                        { icon: <IconBrandHtml5/>, title: "HTML",  color: "red"},
-                        { icon: <IconBrandCss3/>, title: "CSS",  color: "indigo"},
-                        { icon: <IconBrandJavascript/>, title: "JS",  color: "yellow"}
+                        { icon: <IconBrandReact/>, title: "React",  color:"blue", href: "/resources/react/React/reactCss" },
+                        { icon: <IconBrandHtml5/>, title: "HTML",  color: "red", href: "/resources/html/animations" },
+                        { icon: <IconBrandCss3/>, title: "CSS",  color: "indigo", href: "/resources/css/fonts" },
+                        { icon: <IconBrandJavascript/>, title: "JS",  color: "yellow", href: "/resources/javascript/javascript_utili" }
                         // <IconBook/>
                     ]   
                     .map( (v,i) => (
                     <Grid.Col span={6} key={i}>
-                        <Paper shadow="sm" p="lg" radius="md" style={{ backgroundColor: "#3b3b3b", color: "#fcf0f0" }}> 
+                        <Paper shadow="sm" p="lg" radius="md" style={{ backgroundColor: "#3b3b3b" }}>
+                            <UnstyledButton onClick={ () => router.push(v.href)}>
                             <Group position="center">
                             <Avatar variant="filled" size={36} color={v.color}> 
                                 {v.icon}
                             </Avatar>
-                            <Text size={16}> {v.title} </Text>
+                            <Text size={16} color="#fcf0f0"> {v.title} </Text>
                             </Group>
+                            </UnstyledButton>
                         </Paper> 
                     </Grid.Col>
                     ))
