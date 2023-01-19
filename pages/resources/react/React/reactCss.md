@@ -279,6 +279,10 @@ These websites can be references for your design ideas
 - 📮 A simple and customizable React notifications system.            
 [https://github.com/LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop)
 
+### - nice-modal-react  
+- A modal state manager for React.              
+[https://github.com/eBay/nice-modal-react](https://github.com/eBay/nice-modal-react)
+
 
 ## Scroll & slide effect
 ### - react-awesome-reveal
