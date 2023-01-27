@@ -11,6 +11,10 @@ These websites can be references for your design ideas
 - A blazing fast deep object copier.     
 [https://github.com/planttheidea/fast-copy](https://github.com/planttheidea/fast-copy)
 
+### - minisearch  
+- Tiny and powerful JavaScript full-text search engine for browser and Node.     
+[https://github.com/lucaong/minisearch](https://github.com/lucaong/minisearch)
+
 ## Generative
 ### - nanoid
 - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript.   
@@ -79,6 +83,7 @@ These websites can be references for your design ideas
 - Content aware image cropping.         
 [https://github.com/jwagner/smartcrop.js/](https://github.com/jwagner/smartcrop.js/)  
 
+
 ## - Form / Data  
 ### - yup   
 - Dead simple Object schema validation.    
@@ -90,5 +95,47 @@ These websites can be references for your design ideas
 
 ### - zod  
 - TypeScript-first schema validation with static type inference.      
-[https://github.com/colinhacks/zod](https://github.com/colinhacks/zod)  
+[https://github.com/colinhacks/zod](https://github.com/colinhacks/zod)
 
+### - linkifyjs  
+- Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML `<a>` tags.        
+[https://github.com/Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs)
+
+### - npm-pdfreader  
+- 🚜 Parse text and tables from PDF files.     
+[https://github.com/adrienjoly/npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader)  
+
+
+## - CLI
+### - commander.js  
+- node.js command-line interfaces made easy.      
+[https://github.com/tj/commander.js](https://github.com/tj/commander.js)    
+
+### - minimist  
+- This module is the guts of optimist's argument parser without all the fanciful decoration.        
+[https://github.com/minimistjs/minimist](https://github.com/minimistjs/minimist)    
+
+### - kolorist  
+- Tiny library to put colors into stdin/stdout 🎉.        
+[https://github.com/marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist)  
+
+### - prompts  
+- Lightweight, beautiful and user-friendly interactive prompts.        
+[https://github.com/terkelg/prompts](https://github.com/terkelg/prompts)  
+
+### - cfonts  
+- Sexy fonts for the console.        
+[https://github.com/dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts)  
+
+### - gradient-string  
+- 🌈 Beautiful color gradients in terminal output.          
+[https://github.com/bokub/gradient-string](https://github.com/bokub/gradient-string)    
+
+## - Others
+### - JS-Interpreter  
+- A sandboxed JavaScript interpreter in JavaScript.        
+[https://github.com/NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter)  
+
+### - vm2    
+- Advanced vm/sandbox for Node.js.          
+[https://github.com/patriksimek/vm2](https://github.com/patriksimek/vm2)  

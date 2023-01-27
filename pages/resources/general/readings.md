@@ -73,6 +73,14 @@ https://github.com/mikeroyal/Digital-Forensics-Guide
 - 🎯 SQL Injection Payload List.            
 https://github.com/payloadbox/sql-injection-payload-list  
 
+### - Open-Source-Security-Guide          
+- Open Source Security Guide. Learn all about Security Standards, Frameworks, Threat Models, Encryption, and Benchmarks.            
+https://github.com/mikeroyal/Open-Source-Security-Guide  
+
+### - OWASP juice-shop            
+- OWASP Juice Shop: Probably the most modern and sophisticated insecure web application.              
+https://github.com/juice-shop/juice-shop    
+
 
 ## News / Blog
 ### - JavaScript Weekly              

@@ -254,7 +254,11 @@ These websites can be references for your design ideas
 
 ### - react-flip-move          
 - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.                                  
-[https://github.com/joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)      
+[https://github.com/joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)    
+
+### - react-useanimations          
+- React-useanimations is a collection of free animated open source icons for React.js.            
+[https://github.com/useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations)      
        
 
 
@@ -540,6 +544,10 @@ These websites can be references for your design ideas
 ### - react-cmdk           
 - 🔍 A fast, accessible, and pretty command palette for React.             
 [https://github.com/albingroen/react-cmdk](https://github.com/albingroen/react-cmdk)
+
+### - react-wrap-balancer           
+- Simple React Component That Makes Titles More Readable.               
+[https://github.com/shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer)
 
 
 ## Productive
