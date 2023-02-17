@@ -87,6 +87,10 @@ https://github.com/juice-shop/juice-shop
 - A newsletter of JavaScript articles, news and cool projects.              
 https://javascriptweekly.com/    
 
+### - Node Weekly              
+- A free, once–weekly e-mail round-up of Node.js news and articles.                
+https://nodeweekly.com/    
+
 ### - React Status               
 - A weekly roundup of the latest React and React Native links and tutorials.                
 https://react.statuscode.com/ 
