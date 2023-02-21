@@ -11,6 +11,11 @@ These websites can be references for your design ideas
 - Format your ```<input/>``` content when you are typing.     
 [https://nosir.github.io/cleave.js/](https://nosir.github.io/cleave.js/)
 
+## Input Utilis
+### - feedbackplus
+- Screenshotting and screenshot editing for your feedback forms with JavaScript.       
+[https://github.com/ColonelParrot/feedbackplus](https://github.com/ColonelParrot/feedbackplus)
+
 ## QR code
 ### - QRCanvas
 -  QRCode generator written in pure javascript.     

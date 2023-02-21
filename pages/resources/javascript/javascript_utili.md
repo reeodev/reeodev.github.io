@@ -24,6 +24,10 @@ These websites can be references for your design ideas
 - Generate massive amounts of fake (but realistic) data for testing and development.     
 [https://github.com/faker-js/faker](https://github.com/faker-js/faker)
 
+### - run
+- Run user-provided code in a Web Worker.       
+[https://github.com/slashd-analytics/run](https://github.com/slashd-analytics/run)  
+
 
 ## Documents related 
 ### - jsPDF

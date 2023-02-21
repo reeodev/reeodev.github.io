@@ -361,6 +361,10 @@ https://github.com/azouaoui-med/react-pro-sidebar
 -  React components for resizable panels.                  
 https://github.com/bvaughn/react-resizable-panels      
 
+### - react-custom-scroll     
+-  Easily customize the browser scroll bar with native OS scroll behavior.                  
+[https://github.com/rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll)      
+
 
 
 ## Calendar & Time
