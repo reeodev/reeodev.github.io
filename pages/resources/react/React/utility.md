@@ -175,6 +175,10 @@ These websites can be references for your design ideas
 - Sleek, modular open source JavaScript file uploader.       
 [https://uppy.io/](https://uppy.io/)    
 
+### - filepond       
+- Upload anything, from anywhere.         
+https://pqina.nl/filepond/    
+
 
 ## Cameras 
 ### - react-webcam   

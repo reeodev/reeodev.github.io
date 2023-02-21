@@ -25,7 +25,12 @@ https://github.com/linkedin/school-of-sre
 
 ### - 90DaysOfDevOps    
 - For a complete 90-day to get a foundational knowledge across a lot of different areas that make up DevOps.    
-https://github.com/MichaelCade/90DaysOfDevOps  
+https://github.com/MichaelCade/90DaysOfDevOps
+
+### - eng-practices       
+- Google Engineering Practices Documentation.        
+https://google.github.io/eng-practices/    
+
 
 ## Projects Related
 ### - Project Based Learning  

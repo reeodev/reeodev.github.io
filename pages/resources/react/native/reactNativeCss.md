@@ -33,3 +33,7 @@ These websites can be references for your design ideas
 ### - react-native-modalize
 - A highly customizable modal/bottom sheet that loves scrolling content.   
 [https://github.com/jeremybarbet/react-native-modalize](https://github.com/jeremybarbet/react-native-modalize)  
+
+### - React Native Android Widget  
+- Build Android Widgets with React Native.      
+https://saleksovski.github.io/react-native-android-widget/

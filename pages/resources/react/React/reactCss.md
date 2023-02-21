@@ -108,6 +108,14 @@ These websites can be references for your design ideas
 - Build your entire website using JSX and Props.                         
 [https://xstyled.dev/](https://xstyled.dev/) 
 
+### - shadcn/ui      
+- Re-usable components built using Radix UI and Tailwind CSS.                           
+https://ui.shadcn.com/   
+
+### - react-pro-sidebar        
+- React Pro Sidebar provides a set of components for creating high level and customizable side navigation.                           
+https://github.com/azouaoui-med/react-pro-sidebar    
+
 
 ## Icons / Avatars 
 ### - react-icons
@@ -347,7 +355,11 @@ These websites can be references for your design ideas
 
 ### - react-movable     
 -  🔀 Drag and drop for your React lists and tables. Accessible. Tiny.                
-[https://github.com/tajo/react-movable](https://github.com/tajo/react-movable)      
+[https://github.com/tajo/react-movable](https://github.com/tajo/react-movable)   
+
+### - react-resizable-panels       
+-  React components for resizable panels.                  
+https://github.com/bvaughn/react-resizable-panels      
 
 
 
@@ -548,6 +560,10 @@ These websites can be references for your design ideas
 ### - react-wrap-balancer           
 - Simple React Component That Makes Titles More Readable.               
 [https://github.com/shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer)
+
+### - kmenu           
+- 🌈 An animated and accessible command menu.                 
+https://github.com/harshhhdev/kmenu  
 
 
 ## Productive
