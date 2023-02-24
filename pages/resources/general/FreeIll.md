@@ -75,3 +75,7 @@ Register is needed
 ### - tyoudoii (Recommended)  
 - Japanese free animate illustration site.      
 [https://tyoudoii-illust.com/](https://tyoudoii-illust.com/)    
+
+### - loosedrawing  
+- Japanese free animate illustration site.        
+https://loosedrawing.com/     
