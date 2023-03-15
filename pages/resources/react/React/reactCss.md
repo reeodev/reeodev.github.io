@@ -116,6 +116,10 @@ https://ui.shadcn.com/
 - React Pro Sidebar provides a set of components for creating high level and customizable side navigation.                           
 https://github.com/azouaoui-med/react-pro-sidebar    
 
+### - camome ui         
+- Light weight, accessibleUI framework for React and CSS.                             
+https://camome.net/       
+
 
 ## Icons / Avatars 
 ### - react-icons
@@ -287,6 +291,10 @@ https://github.com/azouaoui-med/react-pro-sidebar
 - Smoking Hot React Notifications 🔥.          
 [https://github.com/timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
 
+### - sonner  
+- An opinionated toast component for React.          
+https://sonner.emilkowal.ski/    
+
 ### - reapop   
 - 📮 A simple and customizable React notifications system.            
 [https://github.com/LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop)
@@ -363,7 +371,11 @@ https://github.com/bvaughn/react-resizable-panels
 
 ### - react-custom-scroll     
 -  Easily customize the browser scroll bar with native OS scroll behavior.                  
-[https://github.com/rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll)      
+[https://github.com/rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll)
+
+### - ScrollyVideo.js   
+-  Components for scroll-based (or other externally controlled) playback.                  
+https://github.com/dkaoster/scrolly-video       
 
 
 
@@ -556,6 +568,10 @@ https://github.com/bvaughn/react-resizable-panels
 ### - splitter         
 - React component for building split views like in VS Code.           
 [https://github.com/devbookhq/splitter](https://github.com/devbookhq/splitter)
+
+### - cmdk             
+- Fast, unstyled command menu React component.             
+https://github.com/pacocoursey/cmdk  
 
 ### - react-cmdk           
 - 🔍 A fast, accessible, and pretty command palette for React.             

@@ -98,7 +98,11 @@ These websites can be references for your design ideas
 
 ### - react-simple-keyboard    
 -  React Virtual Keyboard - Customizable, responsive and lightweight    
-[https://github.com/hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard)    
+[https://github.com/hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard)  
+
+### - react-qrcode-logo     
+-  React + Typescript component to generate a QR Code with custom colors and logo.      
+https://github.com/gcoro/react-qrcode-logo    
 
 
 
