@@ -104,7 +104,21 @@ These websites can be references for your design ideas
 -  React + Typescript component to generate a QR Code with custom colors and logo.      
 https://github.com/gcoro/react-qrcode-logo    
 
+### - react-use-exceljs     
+-  A thin wrapper around the exceljs package that uses file-saver for generating excel files.        
+https://github.com/dadamssg/react-use-exceljs  
 
+### - react-multivalue-text-input      
+-  An analog clock for your React app.          
+https://www.npmjs.com/package/react-multivalue-text-input 
+
+### - react-clock     
+-  A text input component for React which maintains and displays a collection of entered values as an array of strings.          
+https://github.com/wojtekmaj/react-clock    
+
+### - react-hcaptcha     
+-  hCaptcha Component Library for ReactJS and Preact.            
+https://github.com/hCaptcha/react-hcaptcha  
 
 ## Code related
 ### - react-textarea-code-editor  
