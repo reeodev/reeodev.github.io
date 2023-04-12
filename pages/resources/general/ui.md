@@ -116,6 +116,10 @@ These websites can be references for your design ideas
 - Good web design collections.                      
 [https://good-web-design.com/](https://good-web-design.com/)     
 
+### - designgallery  
+- Real estate website design.             
+https://re-designgallery.com/    
+
 ### - thumbnail-gallery
 - Great Japanese thumbnail design collections.             
 [https://thumbnail-gallery.net/](https://thumbnail-gallery.net/)     
@@ -160,3 +164,7 @@ These websites can be references for your design ideas
 ### - Color palettes  
 - MUI color picker.  
 [https://material.io/inline-tools/color/](https://material.io/inline-tools/color/)  
+
+### - mycolor   
+- Never waste Hours on finding the perfect Color Palette again!.    
+https://mycolor.space/    
