@@ -271,8 +271,11 @@ https://camome.net/
 ### - react-useanimations          
 - React-useanimations is a collection of free animated open source icons for React.js.            
 [https://github.com/useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations)      
-       
 
+### - yet-another-react-lightbox            
+- Modern React lightbox component.                
+https://github.com/igordanchenko/yet-another-react-lightbox   
+       
 
 ## Alert pop up
 ### - sweetalert2-react-content

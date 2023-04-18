@@ -16,6 +16,10 @@ These websites can be references for your design ideas
 - An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI.      
 [https://github.com/ammarahm-ed/react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage)   
 
+### - react-native-mmkv  
+- ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!          
+https://github.com/mrousavy/react-native-mmkv     
+
 
 ## Input
 ### - react-native-drag-text-editor
