@@ -303,7 +303,11 @@ https://pqina.nl/filepond/
 ## Mailing services
 ### - mailing    
 - Build, test, send emails with React.       
-[https://github.com/successor-software/mailing](https://github.com/successor-software/mailing)      
+[https://github.com/successor-software/mailing](https://github.com/successor-software/mailing) 
+
+### - easy-email    
+- React.js Drag-and-Drop Email Editor based on MJML.       
+https://github.com/zalify/easy-email       
 
 
 ## CSS utilis

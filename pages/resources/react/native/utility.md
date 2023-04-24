@@ -38,3 +38,7 @@ https://github.com/mrousavy/react-native-mmkv
 - The new File-based router for universal React Native apps!  
 https://github.com/expo/router  
 
+## Tools   
+### Flipper     
+- A desktop debugging platform for mobile developers.    
+https://github.com/facebook/flipper  

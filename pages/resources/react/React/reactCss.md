@@ -293,7 +293,16 @@ https://github.com/igordanchenko/yet-another-react-lightbox
 
 ### - floating-ui              
 - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more.                  
-https://github.com/floating-ui/floating-ui         
+https://github.com/floating-ui/floating-ui 
+
+### - gooey-react               
+- The gooey effect for React, used for shape blobbing / metaballs (0.5 KB) 🧽.                    
+https://github.com/luukdv/gooey-react    
+
+### - auto-animate                 
+- A zero-config, drop-in animation utility that adds smooth transitions to your web app.                      
+https://github.com/formkit/auto-animate        
+
 
 ## Alert pop up
 ### - sweetalert2-react-content
@@ -453,7 +462,11 @@ https://github.com/dkaoster/scrolly-video
 
 ### - Recharts 
 - A composable charting library built on React components.  
-[https://recharts.org/en-US/](https://recharts.org/en-US/)   
+[https://recharts.org/en-US/](https://recharts.org/en-US/)  
+
+### - react-apexcharts 
+- 📊 React Component for ApexCharts.    
+https://github.com/apexcharts/react-apexcharts   
 
 ### - VICTORY
 - React.js components for modular charting and data visualization.   

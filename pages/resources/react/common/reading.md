@@ -18,6 +18,10 @@ https://beta.reactjs.org/
 - 🏆 A ranked list of awesome React open-source libraries and tools. Updated weekly.       
 https://github.com/LukasMasuch/best-of-react#animations    
 
+### - awesome-react    
+- A collection of awesome things regarding React ecosystem.         
+https://github.com/enaqx/awesome-react   
+
 
 ## Blog
 ### - TkDodo's blog     
