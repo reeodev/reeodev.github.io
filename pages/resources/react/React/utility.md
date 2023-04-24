@@ -128,6 +128,10 @@ https://github.com/krirkrirk/react-math-keyboard
 -  DayPicker is a customizable date picker component for React, with native TypeScript support.                 
 https://github.com/gpbl/react-day-picker  
 
+### - tagify         
+-  🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue.                   
+https://github.com/yairEO/tagify    
+
 
 ## Data related
 ### - tinybas  

@@ -41,6 +41,9 @@ These websites can be references for your design ideas
 - Framework-agnostic state management library designed for simplicity and scalability.          
 [https://xoid.dev/](https://xoid.dev/)    
 
+### easy-peasy   
+- Vegetarian friendly state for React.            
+https://github.com/ctrlplusb/easy-peasy  
 
 ## General framework
 ### Next.js

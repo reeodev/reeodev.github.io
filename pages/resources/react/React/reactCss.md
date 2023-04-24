@@ -118,8 +118,23 @@ https://github.com/azouaoui-med/react-pro-sidebar
 
 ### - camome ui         
 - Light weight, accessibleUI framework for React and CSS.                             
-https://camome.net/       
+https://camome.net/    
 
+### - baseweb         
+- A React Component library implementing the Base design language.                               
+https://github.com/uber/baseweb     
+
+### - ariakit         
+- Toolkit for building accessible web apps with React.                                 
+https://github.com/ariakit/ariakit   
+
+### - grommet           
+- Provides accessibility, modularity, responsiveness, and theming in a tidy package.                                 
+https://github.com/grommet/grommet 
+
+### - eui             
+- Elastic UI Framework 🙌.                                   
+https://github.com/elastic/eui   
 
 ## Icons / Avatars 
 ### - react-icons
@@ -275,7 +290,10 @@ https://camome.net/
 ### - yet-another-react-lightbox            
 - Modern React lightbox component.                
 https://github.com/igordanchenko/yet-another-react-lightbox   
-       
+
+### - floating-ui              
+- Toolkit to create floating elements: tooltips, popovers, dropdowns, and more.                  
+https://github.com/floating-ui/floating-ui         
 
 ## Alert pop up
 ### - sweetalert2-react-content
@@ -375,6 +393,14 @@ https://github.com/bvaughn/react-resizable-panels
 ### - react-custom-scroll     
 -  Easily customize the browser scroll bar with native OS scroll behavior.                  
 [https://github.com/rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll)
+
+### - keen-slider     
+-  The HTML touch slider carousel with the most native feeling you will get.                   
+https://github.com/rcbyr/keen-slider  
+
+### - react-insta-stories      
+-  A React component for Instagram like stories.                     
+https://github.com/mohitk05/react-insta-stories    
 
 ### - ScrollyVideo.js   
 -  Components for scroll-based (or other externally controlled) playback.                  
@@ -476,6 +502,10 @@ https://github.com/dkaoster/scrolly-video
 ### - react-simple-maps  
 - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.              
 [https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)
+
+### - react-geo  
+- A set of geo related modules to use in combination with React, Ant Design and OpenLayers.                
+https://github.com/terrestris/react-geo  
 
 ### - react-circular-progressbar      
 - A circular progressbar component, built with SVG and extensively customizable.                 
