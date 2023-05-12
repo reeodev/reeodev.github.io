@@ -512,10 +512,6 @@ https://github.com/apexcharts/react-apexcharts
 - An svg calendar heatmap inspired by github's contribution graph.            
 [https://github.com/kevinsqi/react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap) 
 
-### - react-simple-maps  
-- Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.              
-[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)
-
 ### - react-geo  
 - A set of geo related modules to use in combination with React, Ant Design and OpenLayers.                
 https://github.com/terrestris/react-geo  
@@ -672,4 +668,12 @@ https://github.com/harshhhdev/kmenu
 
 ### - Reactive Maps  
 - Build Geolocation Apps.      
-[https://opensource.appbase.io/reactivemaps/](https://opensource.appbase.io/reactivemaps/)     
+[https://opensource.appbase.io/reactivemaps/](https://opensource.appbase.io/reactivemaps/)  
+
+### - react-map-gl  
+- React friendly API wrapper around MapboxGL JS.        
+https://github.com/visgl/react-map-gl      
+
+### - react-simple-maps  
+- Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.                
+[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)  
