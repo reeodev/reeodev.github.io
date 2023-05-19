@@ -301,7 +301,11 @@ https://github.com/luukdv/gooey-react
 
 ### - auto-animate                 
 - A zero-config, drop-in animation utility that adds smooth transitions to your web app.                      
-https://github.com/formkit/auto-animate        
+https://github.com/formkit/auto-animate  
+
+### - react-flip-toolkit                  
+- A lightweight magic-move library for configurable layout transitions.                        
+https://github.com/aholachek/react-flip-toolkit            
 
 
 ## Alert pop up
