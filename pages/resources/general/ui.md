@@ -20,9 +20,9 @@ These websites can be references for your design ideas
 - Discover the world’s top designers & creatives.  
 [https://dribbble.com/](https://dribbble.com/)  
 
-### - Canva
-- Design tools with design references.
-[https://www.canva.com/](https://www.canva.com/)  
+### - Canva  
+- Design tools with design references.  
+[https://www.canva.com/](https://www.canva.com/)    
 
 ### - Materia Deisgn 3
 - Introducing Material You.  
