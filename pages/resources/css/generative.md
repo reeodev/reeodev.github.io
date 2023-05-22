@@ -56,4 +56,8 @@ These websites can be references for your design ideas
 
 ### - fancy-border-radius  
 - Border patterns.                
-https://9elements.github.io/fancy-border-radius/     
+https://9elements.github.io/fancy-border-radius/    
+
+### - uigradients    
+- Gradients color generater.                  
+https://uigradients.com/  

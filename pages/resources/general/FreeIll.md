@@ -75,8 +75,48 @@ Register is needed
 
 ### - loosedrawing  
 - Japanese free animate illustration site.        
-https://loosedrawing.com/     
+https://loosedrawing.com/      
 
 ### - simpc   
 - Japanese free animate illustration site.          
-https://simpc.jp/free/    
+https://simpc.jp/free/     
+
+### - pic-aboo (Recommended)    
+- Japanese free cartoon animate illustration site.            
+http://pic-aboo.com/   
+
+### - illustrain (Recommended)    
+- Japanese free cartoon animate illustration site.            
+https://illustrain.com/  
+
+### - hankodeasobu    
+- Japanese free handwriting style illustration site.            
+http://hankodeasobu.com/  
+
+### - girlysozai (Recommended)      
+- Japanese free handwriting style illustration site.              
+http://girlysozai.com/   
+
+### - freecut    
+- Japanese free school book style illustration site.                
+https://freecut.xyz/    
+
+### - stockmaterial   
+- Japanese free cartoon animate illustration site.              
+https://stockmaterial.net/  
+
+### - sozaiyakoaki   
+- Japanese free cartoon animate illustration site.                
+https://www.sozaiyakoaki.com/ 
+
+### - pictarts   
+- Japanese free 3D animate illustration site.                  
+https://pictarts.com/  
+
+### - illustration-free (Recommended)  
+- Japanese free icon illustration site.                    
+https://illustration-free.net/   
+
+### - illustcenter (Recommended)    
+- Japanese free animate illustration site.                     
+https://illustcenter.com/     

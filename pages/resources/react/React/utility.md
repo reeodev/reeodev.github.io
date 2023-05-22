@@ -133,6 +133,24 @@ https://github.com/gpbl/react-day-picker
 https://github.com/yairEO/tagify    
 
 
+## Loading / Progress
+### - react-lazyload    
+- Lazy load your component, image or anything matters the performance.      
+https://github.com/twobin/react-lazyload  
+
+### - react-lazy-load     
+- React component that renders children elements when they enter the viewport.        
+https://github.com/loktar00/react-lazy-load  
+
+### - react-list       
+- 📜 A versatile infinite scroll React component.      
+https://github.com/caseywebdev/react-list  
+
+### - react-lazy-load-image-component        
+- React Component to lazy load images and components using a HOC to track window scroll position.        
+https://github.com/Aljullu/react-lazy-load-image-component    
+
+
 ## Data related
 ### - tinybas  
 - The reactive data store for local‑first apps.    
