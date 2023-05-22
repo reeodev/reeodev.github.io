@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Generator & Useful websites
@@ -61,3 +61,21 @@ https://9elements.github.io/fancy-border-radius/
 ### - uigradients    
 - Gradients color generater.                  
 https://uigradients.com/  
+
+
+## Free fonts site
+### - Google Fonts 
+[https://fonts.google.com/](https://fonts.google.com/)
+
+![googlefontsImage](../../../public/img/behance.jpg)
+
+```css title="Demo of import fonts to website"
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,300&family=Inter&display=swap" rel="stylesheet">
+
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+```

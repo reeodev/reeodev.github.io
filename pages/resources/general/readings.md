@@ -13,6 +13,18 @@ https://github.com/jwasham/coding-interview-university
 - An aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process.  
 https://github.com/BoltzmannEntropy/interviews.ai  
 
+### - awesome-interview-questions  
+- A curated awesome list of lists of interview questions. Feel free to contribute! 🎓      
+https://github.com/DopplerHQ/awesome-interview-questions   
+
+### - front-end-interview-handbook   
+- ⚡️ Front End interview preparation materials for busy engineers        
+https://github.com/yangshun/front-end-interview-handbook    
+
+### - reactjs-interview-questions     
+- List of top 500 ReactJS Interview Questions & Answers           
+https://github.com/sudheerj/reactjs-interview-questions      
+
 
 ## Role Base Enhancement
 ### - Open Product Management
@@ -29,7 +41,11 @@ https://github.com/MichaelCade/90DaysOfDevOps
 
 ### - eng-practices       
 - Google Engineering Practices Documentation.        
-https://google.github.io/eng-practices/    
+https://google.github.io/eng-practices/   
+
+### - Google ML       
+- The foundational courses cover machine learning fundamentals and core concepts.          
+https://developers.google.com/machine-learning    
 
 
 ## Projects Related
@@ -52,6 +68,11 @@ https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQX
 ### - Book 3D Math Primer       
 - book 3D Math Primer for Graphics and Game Development.        
 https://gamemath.com/book/  
+
+### - hands-on-ml book list    
+- A learning path of ML with books.         
+https://anvaka.github.io/greview/hands-on-ml/1/   
+
 
 ## Security
 ### - The book of secret knowledge  
@@ -84,7 +105,11 @@ https://github.com/mikeroyal/Open-Source-Security-Guide
 
 ### - OWASP juice-shop            
 - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application.              
-https://github.com/juice-shop/juice-shop    
+https://github.com/juice-shop/juice-shop  
+
+### - hacktricks        
+- Find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.           
+https://book.hacktricks.xyz/welcome/readme  
 
 
 ## News / Blog
@@ -95,6 +120,10 @@ https://javascriptweekly.com/
 ### - Node Weekly              
 - A free, once–weekly e-mail round-up of Node.js news and articles.                
 https://nodeweekly.com/    
+
+### - Postgres Weekly                
+- A weekly email roundup of Postgres news and articles.                
+https://postgresweekly.com/     
 
 ### - React Status               
 - A weekly roundup of the latest React and React Native links and tutorials.                

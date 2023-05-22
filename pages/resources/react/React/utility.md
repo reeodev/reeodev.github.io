@@ -150,6 +150,18 @@ https://github.com/caseywebdev/react-list
 - React Component to lazy load images and components using a HOC to track window scroll position.        
 https://github.com/Aljullu/react-lazy-load-image-component    
 
+### - TanStack Virtual          
+- Headless UI for Virtualizing Large Element Lists.          
+https://tanstack.com/virtual/v3    
+
+### - react-window            
+- React components for efficiently rendering large lists and tabular data.         
+https://github.com/bvaughn/react-window      
+
+### - react-virtualized            
+- React components for efficiently rendering large lists and tabular data.          
+https://github.com/bvaughn/react-virtualized     
+
 
 ## Data related
 ### - tinybas  
