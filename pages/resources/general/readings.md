@@ -144,3 +144,7 @@ https://web.dev/
 ### - Hacker News               
 - Hacker News               
 https://news.ycombinator.com/  
+
+### - workchronicles                 
+- workchronicles comics                 
+https://workchronicles.com/comics/  
