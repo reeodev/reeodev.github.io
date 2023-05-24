@@ -45,6 +45,10 @@ These websites can be references for your design ideas
 - Vegetarian friendly state for React.            
 https://github.com/ctrlplusb/easy-peasy  
 
+### @legendapp/state/react     
+- Super fast and powerful state library for JavaScript apps.              
+https://github.com/LegendApp/legend-state   
+
 ## General framework
 ### Next.js
 - The React Framework for Production.  
