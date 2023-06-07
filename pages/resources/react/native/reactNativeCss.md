@@ -25,6 +25,10 @@ These websites can be references for your design ideas
 - An utility style framework for React Native.    
 [https://osmicsx.dev/](https://osmicsx.dev/)  
 
+### - react-native-gifted-chat   
+- 💬 The most complete chat UI for React Native.        
+https://github.com/FaridSafi/react-native-gifted-chat    
+
 ## Animations
 ### - @legendapp/motion
 - declarative animations library for React Native, to make it easy to transition between styles without needing to manage animations.    

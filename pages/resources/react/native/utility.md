@@ -26,6 +26,10 @@ https://github.com/mrousavy/react-native-mmkv
 - 📝 60FPS dynamic text editor powered with Reanimated for no-code, photo editor cases.     
 [https://github.com/eneskarpuz/react-native-drag-text-editor](https://github.com/eneskarpuz/react-native-drag-text-editor/)   
 
+### - react-native-modal-datetime-picker
+- A React-Native datetime-picker for Android and iOS.       
+https://github.com/mmazzarolo/react-native-modal-datetime-picker     
+
 
 ## Communications utilis  
 ### react-native-share    
