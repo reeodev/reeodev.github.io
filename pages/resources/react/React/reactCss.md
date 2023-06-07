@@ -305,7 +305,11 @@ https://github.com/formkit/auto-animate
 
 ### - react-flip-toolkit                  
 - A lightweight magic-move library for configurable layout transitions.                        
-https://github.com/aholachek/react-flip-toolkit            
+https://github.com/aholachek/react-flip-toolkit 
+
+### - breathing-halftone                   
+- Awesome breathing halftone animation for pictures.                          
+https://github.com/ozluy/breathing-halftone              
 
 
 ## Alert pop up

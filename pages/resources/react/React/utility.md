@@ -198,6 +198,9 @@ https://github.com/tinyplex/tinybase
 - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.         
 https://github.com/codesandbox/sandpack  
 
+### - bright    
+- React Server Component for syntax highlighting.          
+https://github.com/code-hike/bright   
 
 
 ## Interactions
@@ -360,4 +363,13 @@ https://www.dripsy.xyz/
 ### - @emotion/react
 -  CSS-in-JS library designed for high performance style composition.    
 [https://github.com/emotion-js/emotion](https://github.com/emotion-js/emotion)    
+
+## Utils
+### - usehooks-ts  
+-  A React hooks library, ready to use, written in typescript.      
+https://usehooks-ts.com/  
+
+### - beautiful-react-hooks      
+-  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       
+https://github.com/antonioru/beautiful-react-hooks    
 

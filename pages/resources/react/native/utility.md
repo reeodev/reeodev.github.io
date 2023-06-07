@@ -48,6 +48,10 @@ https://github.com/osamaqarem/react-native-image-colors
 - The new File-based router for universal React Native apps!  
 https://github.com/expo/router  
 
+### solito    
+- 🧍‍♂️ React Native + Next.js, unified.      
+https://github.com/nandorojo/solito    
+
 ## Tools   
 ### Flipper     
 - A desktop debugging platform for mobile developers.    
