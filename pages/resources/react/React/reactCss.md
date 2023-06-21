@@ -89,24 +89,24 @@ These websites can be references for your design ideas
 [https://github.com/virtualvivek/react-windows-ui](https://github.com/virtualvivek/react-windows-ui)
 
 ### - geist   
-- An open source design system for building modern websites and applications.                 
-[https://geist-ui.dev/en-us](https://geist-ui.dev/en-us) 
+- An open source design system for building modern websites and applications.                   
+https://geist-ui.dev/en-us    
 
 ### - gestalt   
 - Gestalt is Pinterest’s design system.                   
-[https://gestalt.pinterest.systems/home](https://gestalt.pinterest.systems/home) 
+https://gestalt.pinterest.systems/home  
 
 ### - master.co     
 - A Virtual CSS language with enhanced syntax.                     
-[https://css.master.co/#design](https://css.master.co/#design) 
+https://css.master.co/#design  
 
-### - tremor    
+### - tremor (Recommended)    
 - The React library to build dashboards fast.                       
-[https://www.tremor.so/](https://www.tremor.so/) 
+https://www.tremor.so/  
 
 ### - xstyled    
 - Build your entire website using JSX and Props.                         
-[https://xstyled.dev/](https://xstyled.dev/) 
+https://xstyled.dev/  
 
 ### - shadcn/ui      
 - Re-usable components built using Radix UI and Tailwind CSS.                           
@@ -134,7 +134,11 @@ https://github.com/grommet/grommet
 
 ### - eui             
 - Elastic UI Framework 🙌.                                   
-https://github.com/elastic/eui   
+https://github.com/elastic/eui 
+
+### - rewind-ui             
+- A fully customizable React-TailwindCSS component library Expressive, variant driven styling and configuration.                       
+https://rewind-ui.dev/  
 
 ## Icons / Avatars 
 ### - react-icons

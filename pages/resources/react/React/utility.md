@@ -354,7 +354,7 @@ https://github.com/zalify/easy-email
 ## CSS utilis
 ### - Classnames
 - A simple JavaScript utility for conditionally joining classNames together.    
-[https://github.com/JedWatson/classnames](https://github.com/JedWatson/classnames) 
+https://github.com/JedWatson/classnames  
 
 ### - Dripsy
 - Unstyled, responsive UI primitives for React Native + Web.      
@@ -362,12 +362,20 @@ https://www.dripsy.xyz/
 
 ### - @emotion/react
 -  CSS-in-JS library designed for high performance style composition.    
-[https://github.com/emotion-js/emotion](https://github.com/emotion-js/emotion)    
+https://github.com/emotion-js/emotion      
+
+### - panda-css  
+-  CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience.      
+https://panda-css.com/        
 
 ## Utils
 ### - usehooks-ts  
 -  A React hooks library, ready to use, written in typescript.      
-https://usehooks-ts.com/  
+https://usehooks-ts.com/    
+
+### - @uidotdev/usehooks  
+-  A collection of modern, server-safe React hooks – from the ui.dev team.        
+https://usehooks.com/   
 
 ### - beautiful-react-hooks      
 -  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       

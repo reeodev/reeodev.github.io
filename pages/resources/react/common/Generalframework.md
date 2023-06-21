@@ -52,35 +52,61 @@ https://github.com/LegendApp/legend-state
 ## General framework
 ### Next.js
 - The React Framework for Production.  
-[https://nextjs.org/](https://nextjs.org/)
+https://nextjs.org/  
 
 ### Gatsby
 - Fast and flexible framework that makes building websites with any CMS, API, or database fun again.  
-[https://www.gatsbyjs.com/](https://www.gatsbyjs.com/)
+https://www.gatsbyjs.com/  
 
 ### Vite
 - Next Generation Frontend Tooling.  
-[https://vitejs.dev/](https://vitejs.dev/)
+https://vitejs.dev/    
 
 ### Remix
 - Focused on web fundamentals and modern UX, you’re simply going to build better websites.  
-[https://remix.run/](https://remix.run/)
-
-### Astro
-- Astro is a new kind of static site builder for the modern web. Powerful developer experience meets lightweight output.  
-[https://astro.build/](https://astro.build/)
+https://remix.run/    
 
 
 ## Desktop apps development
 ### - tauri
 - Build smaller, faster, and more secure desktop applications with a web frontend.  
-[https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+https://github.com/tauri-apps/tauri  
 
 ### - neutralinojs
 - Portable and lightweight cross-platform desktop application development framework.  
-[https://github.com/neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
+https://github.com/neutralinojs/neutralinojs  
 
 ## Desktop Extention
 ### - plasmo
 - The browser extension framework.     
-[https://github.com/PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo)
+https://github.com/PlasmoHQ/plasmo  
+  
+
+## Other framework 
+### - docusaurus  
+- Build optimized websites quickly, focus on your content.       
+https://docusaurus.io/    
+
+### - Nextra    
+- Next.js Static Site Generator.         
+https://nextra.site/    
+
+
+## React related framework
+### qwik  
+- Deliver instant apps at scale.      
+https://qwik.builder.io/
+
+### preactjs
+- Fast 3kB alternative to React with the same modern API.    
+https://preactjs.com/
+
+### Astro
+- Astro is a new kind of static site builder for the modern web. Powerful developer experience meets lightweight output.  
+https://astro.build/  
+
+
+## React enhancement
+### million.js  
+- Make React 70% faster.     
+https://million.dev/  
