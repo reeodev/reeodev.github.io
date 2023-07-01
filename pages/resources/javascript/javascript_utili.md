@@ -40,7 +40,15 @@ These websites can be references for your design ideas
 
 ### - compromise  
 - modest natural-language processing        
-[https://github.com/spencermountain/compromise](https://github.com/spencermountain/compromise)      
+[https://github.com/spencermountain/compromise](https://github.com/spencermountain/compromise)    
+
+### - wallpaper    
+- Manage the desktop wallpaper          
+https://github.com/sindresorhus/wallpaper     
+
+### - psd   
+- Fast zero-dependency PSD parser for the web and Node.js          
+https://github.com/webtoon/psd      
 
 
 ## Live related  
@@ -108,6 +116,10 @@ These websites can be references for your design ideas
 ### - npm-pdfreader  
 - 🚜 Parse text and tables from PDF files.     
 [https://github.com/adrienjoly/npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader)  
+
+### - aimless.js       
+- The missing JavaScript randomness library.       
+https://github.com/ChrisCavs/aimless.js     
 
 
 ## - CLI

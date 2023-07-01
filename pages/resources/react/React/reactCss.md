@@ -565,27 +565,31 @@ https://github.com/nhn/tui.chart/tree/main/apps/react-chart
 
 ### - react-draggable 
 - A simple component for making elements draggable.  
-[https://github.com/react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) 
+https://github.com/react-grid-layout/react-draggable   
 
 ### - react-flow
 - library for building node based graphs.  
-[https://github.com/wbkd/react-flow](https://github.com/wbkd/react-flow)   
+https://github.com/wbkd/react-flow   
  
 ### - React DnD
 - Drag and Drop for React.   
-[https://github.com/react-dnd/react-dnd/](https://github.com/react-dnd/react-dnd/) 
+https://github.com/react-dnd/react-dnd/  
 
 ### - dnd-kit  
 - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.     
-[https://github.com/clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)   
+https://github.com/clauderic/dnd-kit  
 
 ### - React Color 
 - A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more.  
-[https://casesandberg.github.io/react-color/#usage-include](https://casesandberg.github.io/react-color/#usage-include)  
+https://casesandberg.github.io/react-color/#usage-include  
 
 ### - react-colorful 
 - A tiny (2,8 KB) color picker component for React and Preact apps.    
-[https://github.com/omgovich/react-colorful](https://github.com/omgovich/react-colorful)   
+https://github.com/omgovich/react-colorful  
+
+### - react-color
+- 🎨 Is a tiny color picker widget component for React apps.      
+https://github.com/uiwjs/react-color   
 
 ### - frappe
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
