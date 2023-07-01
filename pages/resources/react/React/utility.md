@@ -381,3 +381,11 @@ https://usehooks.com/
 -  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       
 https://github.com/antonioru/beautiful-react-hooks    
 
+## AI / ML / DL
+### - Vercel AI SDK
+An open source library for building AI-powered user interfaces.  
+https://sdk.vercel.ai/docs  
+
+### - transformers.js    
+transformers.js react tutorial.    
+https://huggingface.co/docs/transformers.js/tutorials/react    

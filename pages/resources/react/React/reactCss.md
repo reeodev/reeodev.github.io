@@ -281,7 +281,11 @@ https://rewind-ui.dev/
 
 ### - react-advanced-cropper          
 - To create croppers that exactly suited for your website design.                                 
-[https://github.com/advanced-cropper/react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper)   
+https://github.com/advanced-cropper/react-advanced-cropper    
+
+### - react-easy-crop             
+- A React component to crop images/videos with easy interactions.                                   
+https://github.com/ValentinH/react-easy-crop       
 
 ### - react-flip-move          
 - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.                                  
@@ -544,6 +548,10 @@ https://github.com/kevinsqi/react-circular-progressbar
 - React component wrapping TOAST UI Chart.                   
 https://github.com/nhn/tui.chart/tree/main/apps/react-chart   
 
+### - react-graph-gallery          
+- Build interactive charts for the web                     
+https://www.react-graph-gallery.com/    
+
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -643,6 +651,10 @@ https://github.com/uiwjs/react-color
 - Fast, unstyled command menu React component.             
 https://github.com/pacocoursey/cmdk  
 
+### - typist                
+- Typist is the mighty Tiptap-based rich-text editor React component that powers Doist products.               
+https://typist.doist.dev/?path=/docs/readme--docs  
+
 ### - react-cmdk           
 - 🔍 A fast, accessible, and pretty command palette for React.             
 [https://github.com/albingroen/react-cmdk](https://github.com/albingroen/react-cmdk)
@@ -654,6 +666,10 @@ https://github.com/pacocoursey/cmdk
 ### - kmenu           
 - 🌈 An animated and accessible command menu.                 
 https://github.com/harshhhdev/kmenu  
+
+### - react-chessboard            
+- The React Chessboard Library used at ChessOpenings.co.uk. Inspired and adapted from the unmaintained Chessboard.jsx.                   
+https://github.com/Clariity/react-chessboard    
 
 
 ## Productive
