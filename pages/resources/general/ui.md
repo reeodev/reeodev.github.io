@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: UI References
 ---
 
 # UI / Ux Design references
@@ -120,7 +121,7 @@ These websites can be references for your design ideas
 - Real estate website design.             
 https://re-designgallery.com/    
 
-### - thumbnail-gallery
+### - thumbnail-gallery (Recommend)
 - Great Japanese thumbnail design collections.             
 [https://thumbnail-gallery.net/](https://thumbnail-gallery.net/)     
 

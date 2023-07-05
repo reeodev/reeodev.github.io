@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: Free Elements
 ---
 import { Callout } from 'nextra-theme-docs'
 
