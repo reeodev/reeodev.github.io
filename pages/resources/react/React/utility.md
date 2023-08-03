@@ -237,6 +237,7 @@ https://github.com/code-hike/bright
 - React renderer for creating PDF files on the browser and server.  
 [https://github.com/diegomura/react-pdf](https://github.com/diegomura/react-pdf)  
 
+
 ## Audio 
 ### - wax    
 - JSX-compatible renderer for the Web Audio API.  
@@ -366,7 +367,14 @@ https://github.com/emotion-js/emotion
 
 ### - panda-css  
 -  CSS-in-JS with build time generated styles, RSC compatible, multi-variant support, and best-in-class developer experience.      
-https://panda-css.com/        
+https://panda-css.com/       
+
+
+## Social networking 
+### react-tweet  
+-  Embed tweets in your React application.       
+https://github.com/vercel/react-tweet  
+
 
 ## Utils
 ### - usehooks-ts  

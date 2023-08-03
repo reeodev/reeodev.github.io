@@ -317,7 +317,11 @@ https://github.com/aholachek/react-flip-toolkit
 
 ### - breathing-halftone                   
 - Awesome breathing halftone animation for pictures.                          
-https://github.com/ozluy/breathing-halftone              
+https://github.com/ozluy/breathing-halftone          
+
+### - vaul                    
+- An unstyled drawer component for React.                            
+https://github.com/emilkowalski/vaul              
 
 
 ## Alert pop up
@@ -399,6 +403,10 @@ https://sonner.emilkowal.ski/
 -  Image Grid / Gallery for React.            
 [https://github.com/prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)  
 
+### - react-image-gallery   
+-  IReact carousel image gallery component with thumbnail support 🖼.                
+https://github.com/xiaolin/react-image-gallery  
+
 ### - muuri    
 -  Infinite responsive, sortable, filterable and draggable layouts.              
 [https://github.com/haltu/muuri](https://github.com/haltu/muuri) 
@@ -474,11 +482,15 @@ https://github.com/dkaoster/scrolly-video
 -  React component wrapping TOAST UI Calendar.       
 https://github.com/nhn/tui.calendar/tree/main/apps/react-calendar   
 
+### - react-calendar  
+-  Ultimate calendar for your React app.         
+https://github.com/wojtekmaj/react-calendar     
+
 
 ## Data visualization  
 ### - react-chartjs-2  
 - React components for Chart.js, the most popular charting library.  
-[https://github.com/reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)   
+https://github.com/reactchartjs/react-chartjs-2
 
 ### - react-charts  
 - Simple, immersive & interactive charts for React.  
@@ -499,6 +511,10 @@ https://github.com/apexcharts/react-apexcharts
 ### - visx
 - visx | visualization components.  
 [https://github.com/airbnb/visx](https://github.com/airbnb/visx)  
+
+### - reagraph
+- 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus.  
+https://github.com/reaviz/reagraph  
 
 ### - nivo
 - Provides a rich set of dataviz components, built on top of D3 and React.  
