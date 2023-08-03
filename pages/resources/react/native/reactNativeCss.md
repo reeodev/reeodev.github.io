@@ -41,3 +41,7 @@ https://github.com/FaridSafi/react-native-gifted-chat
 ### - React Native Android Widget  
 - Build Android Widgets with React Native.      
 https://saleksovski.github.io/react-native-android-widget/
+
+### - viro   
+- ViroReact is a library for developers to rapidly build augmented reality (AR) and virtual reality (VR).        
+https://github.com/ViroCommunity/viro  

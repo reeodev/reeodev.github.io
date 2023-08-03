@@ -145,7 +145,13 @@ https://github.com/ChrisCavs/aimless.js
 
 ### - gradient-string  
 - 🌈 Beautiful color gradients in terminal output.          
-[https://github.com/bokub/gradient-string](https://github.com/bokub/gradient-string)    
+[https://github.com/bokub/gradient-string](https://github.com/bokub/gradient-string)  
+
+### - chalk-animation 
+- Colorful animations in terminal output            
+https://github.com/bokub/chalk-animation     
+
+
 
 ## - Others
 ### - JS-Interpreter  

@@ -40,7 +40,13 @@ https://github.com/mmazzarolo/react-native-modal-datetime-picker
 ## Images  
 ### react-native-image-colors    
 - Fetch prominent colors from an image.          
-https://github.com/osamaqarem/react-native-image-colors      
+https://github.com/osamaqarem/react-native-image-colors  
+
+
+## Sound  
+### react-native-track-player    
+- A fully fledged audio module created for music apps.             
+https://github.com/doublesymmetry/react-native-track-player   
 
 
 ## Navigate   
