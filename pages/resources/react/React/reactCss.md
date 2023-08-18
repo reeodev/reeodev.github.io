@@ -566,7 +566,11 @@ https://github.com/nhn/tui.chart/tree/main/apps/react-chart
 
 ### - react-graph-gallery          
 - Build interactive charts for the web                     
-https://www.react-graph-gallery.com/    
+https://www.react-graph-gallery.com/  
+
+### - frolic-react         
+- React Component Library to Build Analytics Dashboard 10x Faster                      
+https://github.com/frolicorg/frolic-react     
 
 
 

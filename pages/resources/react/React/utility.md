@@ -82,7 +82,11 @@ https://github.com/ndom91/react-timezone-select
 
 ### - mantine-datatable
 -  A table component for your Mantine data-rich applications.        
-[https://github.com/icflorescu/mantine-datatable](https://github.com/icflorescu/mantine-datatable)   
+https://github.com/icflorescu/mantine-datatable    
+
+### - Fixed Data Table 2  
+- FixedDataTable is a React component for building and presenting data in a flexible, powerful way.          
+https://schrodinger.github.io/fixed-data-table-2/     
  
 ### - react-search-box
 -  🎨 An autocomplete search box built with and for React.        
@@ -384,6 +388,7 @@ https://usehooks-ts.com/
 ### - @uidotdev/usehooks  
 -  A collection of modern, server-safe React hooks – from the ui.dev team.        
 https://usehooks.com/   
+
 
 ### - beautiful-react-hooks      
 -  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       

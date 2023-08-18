@@ -30,7 +30,7 @@ const config: DocsThemeConfig = {
     </>
   ),
   footer: {
-    text: 'Reeodev',
+    text: 'Reeodev - 2023',
   },
   editLink: {
     text : null
@@ -41,7 +41,12 @@ const config: DocsThemeConfig = {
   sidebar: {
     defaultMenuCollapseLevel: 1
   },
-  primaryHue: { dark: 68, light: 200 }
+  primaryHue: { dark: 68, light: 200 },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Reeodev'
+    }
+  }
 }
 
 export default config

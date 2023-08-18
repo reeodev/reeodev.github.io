@@ -38,3 +38,16 @@ https://blog.maximeheckel.com/
 
 ### - robinwieruch     
 https://www.robinwieruch.de/blog/
+
+## Weekly
+### - React Status       
+- A weekly roundup of the latest React and React Native links and tutorials.    
+https://react.statuscode.com/    
+
+### - This Week In React         
+- The latest news directly in your inbox!      
+https://thisweekinreact.com/   
+
+### - React Newsletter         
+- React Newsletter      
+https://reactnewsletter.com/issues  

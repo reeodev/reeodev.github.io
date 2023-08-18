@@ -19,7 +19,7 @@ function HomePage(){
         <Text size={28} align="center">
             <TypeIt
                 options={{
-                    strings: ["Your site design building helper :)" , "React, HTML, CSS, JS and more"],
+                    strings: ["Your site design building helper :)" , "React, HTML, CSS, JS and more..."],
                     speed: 80,
                     loop: true,
                     startDelay: 1250,
