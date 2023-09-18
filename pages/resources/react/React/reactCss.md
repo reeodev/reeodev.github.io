@@ -363,6 +363,10 @@ https://sonner.emilkowal.ski/
 -  A module used to arrange card elements including content infinitely on a grid layout.    
 [https://naver.github.io/egjs-infinitegrid/](https://naver.github.io/egjs-infinitegrid/)
 
+### - react-grid-layout
+- A draggable and resizable grid layout with responsive breakpoints, for React.        
+https://github.com/react-grid-layout/react-grid-layout  
+
 ### - react-intersection-observer
 -  React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport. 
 [https://github.com/thebuilder/react-intersection-observer#readme](https://github.com/thebuilder/react-intersection-observer#readme)
@@ -571,6 +575,10 @@ https://www.react-graph-gallery.com/
 ### - frolic-react         
 - React Component Library to Build Analytics Dashboard 10x Faster                      
 https://github.com/frolicorg/frolic-react     
+
+### - react-plock           
+- The 1kB Masonry Grid for React.                        
+https://github.com/askides/react-plock       
 
 
 

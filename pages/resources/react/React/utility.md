@@ -144,6 +144,18 @@ https://github.com/yairEO/tagify
 -  hCaptcha Component Library for ReactJS and Preact.                     
 https://github.com/hCaptcha/react-hcaptcha       
 
+### - react-tag-autocomplete              
+-  ⚛️ A simple, accessible, tagging component ready to drop into your React projects.                       
+https://github.com/i-like-robots/react-tag-autocomplete  
+
+### - @doist/typist                
+-  The mighty Tiptap-based rich-text editor that powers Doist products.                         
+https://github.com/Doist/typist  
+
+### - plate                  
+-  The rich-text editor for React.                           
+https://github.com/udecode/plate   
+
 
 ## Loading / Progress
 ### - react-lazyload    
