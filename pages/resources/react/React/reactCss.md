@@ -15,6 +15,10 @@ These websites can be references for your design ideas
 ### - Mantine (Recommended)
 - Build fully functional accessible web applications faster than ever.  
 [https://mantine.dev/](https://mantine.dev/) 
+
+### - Prismane  
+- Build exceptional React apps with blazing speed.    
+https://www.prismane.io/    
  
 ### - React Bootstrap
 - The most popular front-end framework Rebuilt for React.  

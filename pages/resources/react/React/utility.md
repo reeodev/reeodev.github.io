@@ -218,6 +218,10 @@ https://github.com/codesandbox/sandpack
 - React Server Component for syntax highlighting.          
 https://github.com/code-hike/bright   
 
+### - sugar-high      
+- Super lightweight syntax highlighter for JSX, 1KB after minified and gizpped.            
+https://sugar-high.vercel.app/    
+
 
 ## Interactions
 ### - liveblocks  
