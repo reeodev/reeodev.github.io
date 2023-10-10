@@ -325,7 +325,15 @@ https://github.com/ozluy/breathing-halftone
 
 ### - vaul                    
 - An unstyled drawer component for React.                            
-https://github.com/emilkowalski/vaul              
+https://github.com/emilkowalski/vaul       
+
+### - react-fast-marquee                        
+- A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.                          
+https://github.com/justin-chu/react-fast-marquee       
+
+### - react-simple-marquee                          
+- Marquee build with React and CSS animation.                            
+https://github.com/masonwongcs/react-simple-marquee                  
 
 
 ## Alert pop up
@@ -567,6 +575,10 @@ https://github.com/terrestris/react-geo
 ### - react-circular-progressbar      
 - A circular progressbar component, built with SVG and extensively customizable.                 
 https://github.com/kevinsqi/react-circular-progressbar  
+
+### - react-inlinesvg     
+- AAn SVG loader component for ReactJS.                   
+https://github.com/gilbarbara/react-inlinesvg      
 
 ### - toast-ui/react-chart        
 - React component wrapping TOAST UI Chart.                   

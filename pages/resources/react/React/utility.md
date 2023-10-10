@@ -359,7 +359,11 @@ https://pqina.nl/filepond/
 
 ### - use-resize-observer        
 - A React hook that allows you to use a ResizeObserver to measure an element's size.        
-[https://github.com/ZeeCoder/use-resize-observer](https://github.com/ZeeCoder/use-resize-observer)     
+[https://github.com/ZeeCoder/use-resize-observer](https://github.com/ZeeCoder/use-resize-observer)  
+
+### - next-translate         
+- Next.js plugin + i18n API for Next.js 🌍 - Load page translations and use them in an easy way!          
+https://github.com/aralroca/next-translate   
 
 
 ## Mailing services
