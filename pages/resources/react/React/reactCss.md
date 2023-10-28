@@ -171,6 +171,14 @@ https://rewind-ui.dev/
 - A React component for swipeable views.  
 [https://github.com/oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)  
 
+### - react-magic-motion
+- react-magic-motion is a react.js library that ✨ magically animates your components.     
+https://github.com/Etesam913/react-magic-motion  
+
+### - react-glow
+- Add a mouse-tracing glow effect to React components.       
+https://github.com/codaworks/react-glow   
+
 ### - typeit-react  
 -  dynamic typewriter effects to your React applications.  
 [https://github.com/alexmacarthur/typeit/tree/master/packages/typeit-react](https://github.com/alexmacarthur/typeit/tree/master/packages/typeit-react) 
