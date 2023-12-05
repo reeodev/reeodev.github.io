@@ -7,7 +7,7 @@ title: General Framework
 
 These websites can be references for your design ideas 
 
-## General framework
+## General State framework
 
 ### Recoil
 - A state management library for React.  
@@ -40,6 +40,10 @@ These websites can be references for your design ideas
 ### xoid 
 - Framework-agnostic state management library designed for simplicity and scalability.          
 [https://xoid.dev/](https://xoid.dev/)    
+
+### valtio   
+- 💊 Valtio makes proxy-state simple for React and Vanilla.            
+https://github.com/pmndrs/valtio     
 
 ### easy-peasy   
 - Vegetarian friendly state for React.            

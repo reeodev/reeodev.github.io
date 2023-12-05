@@ -94,7 +94,11 @@ https://www.prismane.io/
 
 ### - geist   
 - An open source design system for building modern websites and applications.                   
-https://geist-ui.dev/en-us    
+https://geist-ui.dev/en-us 
+
+### - React Winplaza 98     
+- React components for creating a Win98-like web interface.                     
+https://github.com/lisandro52/react-winplaza-98      
 
 ### - gestalt   
 - Gestalt is Pinterest’s design system.                   
@@ -229,7 +233,11 @@ https://github.com/codaworks/react-glow
  
 ### - react-page-transition  
 - A React component that makes it easy to use the page transitions from the Codedrops page transitions demo with React.            
-[https://github.com/Steveeeie/react-page-transition](https://github.com/Steveeeie/react-page-transition)    
+[https://github.com/Steveeeie/react-page-transition](https://github.com/Steveeeie/react-page-transition)   
+
+### - pagination  
+- React Pagination Component.             
+https://github.com/react-component/pagination   
 
 ### - scrollex    
 - Build beautiful scroll experiences using minimal code.  
@@ -237,7 +245,11 @@ https://github.com/codaworks/react-glow
 
 ### - img-comparison-slider     
 - Image comparison slider. Compare images before and after. Supports React, Vue, Angular.    
-[https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)        
+[https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)    
+    
+### - react-quick-pinch-zoom       
+- A react component that providing multi-touch gestures for zooming and dragging on any DOM element.      
+https://github.com/retyui/react-quick-pinch-zoom          
  
 ### - react-countup     
 -  A configurable React component wrapper around CountUp.js.        
@@ -341,7 +353,11 @@ https://github.com/justin-chu/react-fast-marquee
 
 ### - react-simple-marquee                          
 - Marquee build with React and CSS animation.                            
-https://github.com/masonwongcs/react-simple-marquee                  
+https://github.com/masonwongcs/react-simple-marquee         
+
+### - @P5-wrapper                           
+- A wrapper component that allows you to utilise P5 sketches within React apps.                             
+https://github.com/P5-wrapper/react                      
 
 
 ## Alert pop up
@@ -604,6 +620,10 @@ https://github.com/frolicorg/frolic-react
 - The 1kB Masonry Grid for React.                        
 https://github.com/askides/react-plock       
 
+### - react-datasheet-grid              
+- An Airtable-like / Excel-like component to create beautiful spreadsheets.                          
+https://github.com/nick-keller/react-datasheet-grid       
+
 
 
 ## Drawing / Board / Text / Utilis editor 
@@ -772,4 +792,8 @@ https://github.com/visgl/react-map-gl
 
 ### - react-simple-maps  
 - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.                
-[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/)  
+[https://www.react-simple-maps.io/](https://www.react-simple-maps.io/) 
+
+### - react-google-maps    
+- React component and hooks library for Google Maps.                  
+https://github.com/visgl/react-google-maps    
