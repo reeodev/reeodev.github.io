@@ -3,7 +3,7 @@ For your design and development references.
 
 ## Content
 - General design references with web development.  
-- Over 475 related libraries / sites covered.  
+- Over 500 related libraries / sites covered.  
 - Frequently update.  
 
 ## Future content
@@ -14,6 +14,7 @@ For your design and development references.
 ## Road map
 - [x] Support ts
 - [x] docusaurus to nextra
+- [ ] Coming editor recommendations tag and monthly options 
 
 ## website
 http://reeodev.github.io

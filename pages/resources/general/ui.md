@@ -21,6 +21,34 @@ These websites can be references for your design ideas
 - Discover the world’s top designers & creatives.  
 [https://dribbble.com/](https://dribbble.com/)  
 
+### - awwwards (Recommended)      
+- Site of the day.    
+https://www.awwwards.com/  
+
+### - landings  
+- Discover hundreds of landing pages created by leading companies for your design inspiration.      
+https://landings.dev/    
+
+### - lovelylanding  
+- Landing Page Design Inspiration.       
+https://www.lovelylanding.net/  
+
+### - screenlane    
+- Landing Page Design Inspiration with apps and phone view.         
+https://screenlane.com/  
+
+### - scrnshts    
+- Another landing Page Design Inspiration with apps and phone view.         
+https://scrnshts.club/  
+
+### - uigarage      
+- Daily handpicked UI inspiration & patterns.         
+https://uigarage.net/   
+
+### - refero (Recommended)        
+- Explore real-world designs from the best products.           
+https://refero.design/   
+
 ### - Canva  
 - Design tools with design references.  
 [https://www.canva.com/](https://www.canva.com/)    
