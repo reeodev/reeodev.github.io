@@ -9,9 +9,9 @@ function HomePage(){
     const router = useRouter();
 
     return (
-        <MantineProvider>
+        <MantineProvider defaultColorScheme="auto">
         <Text 
-            fz={120} 
+            fz={110} 
             ta="center"
             variant="gradient"
             gradient={{ from: 'indigo', to: 'cyan', deg: 45 }}
@@ -35,7 +35,7 @@ function HomePage(){
         <Space h="md" />
 
         <Grid>
-            <Grid.Col span={6}>
+            <Grid.Col span={{ base: 12, md: 6 }}>
                 
                 <Card shadow="sm" p="lg" radius="md" style={{ backgroundColor: "#3b3b3b", color: "#fcf0f0" }}>
 
@@ -56,7 +56,7 @@ function HomePage(){
 
             </Grid.Col>
 
-            <Grid.Col span={6}>
+            <Grid.Col span={{ base: 12, md: 6 }}>
 
                 <Grid>
                 {   [   
@@ -67,7 +67,7 @@ function HomePage(){
                         // <IconBook/>
                     ]   
                     .map( (v,i) => (
-                    <Grid.Col span={6} key={i}>
+                    <Grid.Col span={{ base: 6, md: 6 }} key={i}>
                         <Paper shadow="sm" p="lg" radius="md" style={{ backgroundColor: "#3b3b3b" }}>
                             <UnstyledButton onClick={ () => router.push(v.href)}>
                             <Group p="center">
@@ -87,9 +87,28 @@ function HomePage(){
         </Grid>
 
         <Space h="md" />
-        {/* <Text c="dimmed" fz={12}>
-            Last Update {new Date().toLocaleString('en-GB') || ""}
-        </Text> */}
+        <Space h="md" />
+        <Space h="md" />
+
+        <Grid mt={128}>
+
+            <Grid.Col span={{ base: 12, md: 6 }}>
+                <Text c="dimmed">
+                    References
+                </Text>
+                <Text fz={32}>
+                    Over <Text span c="blue" inherit>500 +</Text> related libraries / sites covered
+                </Text>
+
+                <Text fz={18} c="dimmed">
+                   Links from react, vue, css, js and more!
+                </Text>
+            </Grid.Col>
+
+            <Grid.Col span={{ base: 12, md: 6 }}>
+            </Grid.Col>
+
+        </Grid>
 
         </MantineProvider>
     )

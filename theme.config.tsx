@@ -11,6 +11,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/reeodev/reeodev.github.io',
   },
+  darkMode: false,
   docsRepositoryBase: 'https://github.com/reeodev/reeodev.github.io',
   head: (
     <>
