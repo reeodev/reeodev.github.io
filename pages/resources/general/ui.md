@@ -21,7 +21,7 @@ These websites can be references for your design ideas
 - Discover the world’s top designers & creatives.  
 [https://dribbble.com/](https://dribbble.com/)  
 
-### - awwwards (Recommended)      
+### - awwwards `(Recommended)`      
 - Site of the day.    
 https://www.awwwards.com/  
 
@@ -45,7 +45,7 @@ https://scrnshts.club/
 - Daily handpicked UI inspiration & patterns.         
 https://uigarage.net/   
 
-### - refero (Recommended)        
+### - refero `(Recommended)`        
 - Explore real-world designs from the best products.           
 https://refero.design/   
 

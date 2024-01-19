@@ -12,7 +12,7 @@ These websites can be references for your design ideas
 - The React UI library you always wanted.  
 [https://mui.com/zh/](https://mui.com/zh/)
 
-### - Mantine (Recommended)
+### - Mantine `(Recommended)`
 - Build fully functional accessible web applications faster than ever.  
 [https://mantine.dev/](https://mantine.dev/) 
 
@@ -32,7 +32,7 @@ https://www.prismane.io/
 - The most popular, free and open-source Tailwind CSS component library.  
 [https://daisyui.com/](https://daisyui.com/) 
 
-### - chakrauUI (Recommended)
+### - chakrauUI `(Recommended)`
 -  Create accessible React apps with speed.  
 [https://chakra-ui.com/](https://chakra-ui.com/)  
 
@@ -64,7 +64,7 @@ https://www.prismane.io/
 - An open-source UI component library for building high-quality, accessible design systems and web apps.        
 [https://github.com/radix-ui/primitives](https://github.com/radix-ui/primitives)  
 
-### - nextui (Recommended)
+### - nextui `(Recommended)`
 - Make beautiful websites regardless of your design experience (Best for next.js).         
 [https://nextui.org/](https://nextui.org/)  
 
@@ -108,7 +108,7 @@ https://gestalt.pinterest.systems/home
 - A Virtual CSS language with enhanced syntax.                     
 https://css.master.co/#design  
 
-### - tremor (Recommended)    
+### - tremor `(Recommended)`    
 - The React library to build dashboards fast.                       
 https://www.tremor.so/  
 
