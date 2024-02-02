@@ -20,10 +20,10 @@ function HomePage() {
             >
                 Reeodev
             </Text>
-            <Text fz={28} ta="center">
+            <Text fz={24} ta="center" mt={-24}>
                 <TypeIt
                     options={{
-                        strings: ["Your site design building helper :)", "React, HTML, CSS, JS and more..."],
+                        strings: ["Your site design building helper :)"],
                         speed: 80,
                         loop: true,
                         startDelay: 1250,
@@ -48,7 +48,7 @@ function HomePage() {
                             <Text fz="lg" fw={600}>Ready to use</Text>
                         </Group>
 
-                        <Space h="lg" />
+                        
                         <Space h="lg" />
                         <Text fz={16}>
                             Up to date resources and website that may enhance your working efficiency and save your time!
@@ -90,7 +90,6 @@ function HomePage() {
 
             <Space h="md" />
             <Space h="md" />
-            <Space h="md" />
 
             <Grid mt={128}>
 
@@ -98,8 +97,9 @@ function HomePage() {
                     <Text c="dimmed">
                         References
                     </Text>
+
                     <Text fz={30}>
-                        Over <Text span c="blue" inherit fz={48}>500 +</Text> related libraries / sites covered
+                        Over <Text span c="blue" inherit fz={48}>500+</Text> related libraries / sites covered
                     </Text>
 
                     <Text fz={18} c="dimmed" mt={32}>

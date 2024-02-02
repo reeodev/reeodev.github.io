@@ -147,9 +147,21 @@ https://refero.design/
 
 ### - designgallery  
 - Real estate website design.             
-https://re-designgallery.com/    
+https://re-designgallery.com/   
 
-### - thumbnail-gallery (Recommend)
+### - altbase  
+- General japanese website design.             
+https://altbase.co.jp/stock/      
+
+### - partsdesign `(Recommended)` 
+- Japanese website components design.               
+https://partsdesign.net/       
+
+### - design-library `(Recommended)` 
+- General japanese components references design website.                
+https://design-library.jp/ui/    
+
+### - thumbnail-gallery `(Recommended)` 
 - Great Japanese thumbnail design collections.             
 [https://thumbnail-gallery.net/](https://thumbnail-gallery.net/)     
 

@@ -45,3 +45,7 @@ https://saleksovski.github.io/react-native-android-widget/
 ### - viro   
 - ViroReact is a library for developers to rapidly build augmented reality (AR) and virtual reality (VR).        
 https://github.com/ViroCommunity/viro  
+
+### - react-native-skottie     
+- ▶️ Efficient lottie animations using Skia's Skottie module.          
+https://github.com/margelo/react-native-skottie  
