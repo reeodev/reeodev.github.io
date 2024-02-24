@@ -19,6 +19,10 @@ These websites can be references for your design ideas
 ### - Prismane  
 - Build exceptional React apps with blazing speed.    
 https://www.prismane.io/    
+
+### - Ui aceternity  
+- Make your websites look 10x better.      
+https://ui.aceternity.com/  
  
 ### - React Bootstrap
 - The most popular front-end framework Rebuilt for React.  
@@ -322,6 +326,10 @@ https://github.com/ValentinH/react-easy-crop
 ### - yet-another-react-lightbox            
 - Modern React lightbox component.                
 https://github.com/igordanchenko/yet-another-react-lightbox   
+
+### - react-image-video-gallery             
+- Full featured image and video gallery lightbox component for react.                 
+https://www.lightgalleryjs.com/docs/react-image-video-gallery/   
 
 ### - floating-ui              
 - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more.                  

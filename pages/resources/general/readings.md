@@ -24,7 +24,23 @@ https://github.com/yangshun/front-end-interview-handbook
 
 ### - reactjs-interview-questions     
 - List of top 500 ReactJS Interview Questions & Answers           
-https://github.com/sudheerj/reactjs-interview-questions      
+https://github.com/sudheerj/reactjs-interview-questions   
+
+### - system-design-101 `Recommended`         
+- Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.             
+https://github.com/ByteByteGoHq/system-design-101  
+
+### - Complete-System-Design          
+- This repository contains everything you need to become proficient in System Design.               
+https://github.com/Coder-World04/Complete-System-Design 
+ 
+### - theByteBook (Chinese) `Recommended`       
+- Kubernetes、ServiceMesh system Design blog.               
+https://www.thebyte.com.cn/  
+
+### - dbx-career-framework          
+- Dropbox Engineering Career Framework.                
+https://dropbox.github.io/dbx-career-framework/   
 
 
 ## Role Base Enhancement
@@ -64,6 +80,24 @@ https://github.com/papers-we-love/papers-we-love
 - Stanford CS Curriculum.      
 https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview 
 
+### - College Compendium    
+- Audit Over 700 CS Classes - From Renowned Universities.       
+https://collegecompendium.org/  
+
+
+## UI / UX
+### - Growth design        
+- 106 Cognitive Biases & Principles That Affect Your UX.          
+https://growth.design/psychology?fbclid=IwAR2fMwZGmvSWJe16i3S48UVNUI9lInkExHzJVwOrClRvZQfXVZGkmUdn-rI  
+
+### - Checklist design          
+- A collection of the best design practices.          
+https://www.checklist.design/?fbclid=IwAR0ONv6HRh2WAO_-nBlR8bqjevawyrLV3uOuOZASkTlifOlGzc42_Tzdr7A  
+
+### - Arco design            
+- Fully open source enterprise-level product design system powered by ByteDance.            
+https://arco.design/en-US     
+
 
 ## Learning
 ### - Book 3D Math Primer       
@@ -74,6 +108,33 @@ https://gamemath.com/book/
 - A learning path of ML with books.         
 https://anvaka.github.io/greview/hands-on-ml/1/   
 
+### - The valley of code      
+-  Your web development manual.           
+https://thevalleyofcode.com/    
+
+### - Patterns dev       
+-  Improve how you architect webapps.           
+https://www.patterns.dev/   
+
+### - Type hero         
+-  Elevate your skills through interactive coding challenges, discussions, and knowledge sharing.               
+https://typehero.dev/    
+
+### - lemonade-stand        
+- A handy guide to financial support for open source.             
+https://github.com/nayafia/lemonade-stand  
+
+### - refactoring       
+- Makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles...                
+https://refactoring.guru/  
+
+### - brilliant        
+- The best way to learn math and computer science.                 
+https://brilliant.org/  
+
+### - web.dev        
+- Explore our structured learning paths to discover everything you need to know about building for the modern web.                  
+https://web.dev/explore  
 
 ## Security
 ### - The book of secret knowledge  
@@ -111,6 +172,7 @@ https://github.com/juice-shop/juice-shop
 ### - hacktricks        
 - Find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.           
 https://book.hacktricks.xyz/welcome/readme  
+
 
 
 ## News / Blog
