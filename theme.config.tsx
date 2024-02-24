@@ -11,6 +11,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/reeodev/reeodev.github.io',
   },
+  darkMode: false,
   docsRepositoryBase: 'https://github.com/reeodev/reeodev.github.io',
   head: (
     <>
@@ -30,7 +31,7 @@ const config: DocsThemeConfig = {
     </>
   ),
   footer: {
-    text: 'Reeodev - 2023',
+    text: <span>Reeodev - {new Date().getFullYear()}</span>,
   },
   editLink: {
     text : null
@@ -44,7 +45,7 @@ const config: DocsThemeConfig = {
   primaryHue: { dark: 68, light: 200 },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – Reeodev'
+      titleTemplate: '%s - Reeodev'
     }
   }
 }

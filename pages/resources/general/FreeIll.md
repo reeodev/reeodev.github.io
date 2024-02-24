@@ -60,7 +60,7 @@ https://mrmockup.com/free-mockups/
 - Beautiful, free illustrations. Updated weekly.  
 [https://drawkit.com/](https://drawkit.com/)
 
-### - opendoodles (Recommended)   
+### - opendoodles `(Recommended)`   
 - A Free Set of Open-Source Illustrations!    
 https://www.opendoodles.com/    
 
@@ -68,7 +68,7 @@ https://www.opendoodles.com/
 - 500+ Free Illustrations & Animations. Updated Weekly.  
 [https://www.pixeltrue.com/free-illustrations](https://www.pixeltrue.com/free-illustrations)
 
-### - unDraw (Recommended)
+### - unDraw `(Recommended)`
 - Open-source illustrations for any idea you can imagine and create.  
 [https://undraw.co/](https://undraw.co/)
 
@@ -92,15 +92,15 @@ Register is needed
 - Japanese free ribbon design elements sites.    
 [http://ribbon-freaks.com/](http://ribbon-freaks.com/)  
 
-### - linustock (Recommended)
+### - linustock `(Recommended)`
 - Japanese free stock illustration site.    
 [https://www.linustock.com/](https://www.linustock.com/)  
 
-### - ソコスト (soco-st) (Recommended)
+### - ソコスト (soco-st) `(Recommended)`
 - Japanese free animate illustration site.    
 [https://soco-st.com/](https://soco-st.com/)  
 
-### - tyoudoii (Recommended)  
+### - tyoudoii `(Recommended)`  
 - Japanese free animate illustration site.      
 [https://tyoudoii-illust.com/](https://tyoudoii-illust.com/)    
 
@@ -112,11 +112,11 @@ https://loosedrawing.com/
 - Japanese free animate illustration site.          
 https://simpc.jp/free/     
 
-### - pic-aboo (Recommended)    
+### - pic-aboo ``(Recommended)``    
 - Japanese free cartoon animate illustration site.            
 http://pic-aboo.com/   
 
-### - illustrain (Recommended)    
+### - illustrain `(Recommended)`    
 - Japanese free cartoon animate illustration site.            
 https://illustrain.com/  
 
@@ -124,7 +124,7 @@ https://illustrain.com/
 - Japanese free handwriting style illustration site.            
 http://hankodeasobu.com/  
 
-### - girlysozai (Recommended)      
+### - girlysozai `(Recommended)`      
 - Japanese free handwriting style illustration site.              
 http://girlysozai.com/   
 
@@ -144,22 +144,22 @@ https://www.sozaiyakoaki.com/
 - Japanese free 3D animate illustration site.                  
 https://pictarts.com/  
 
-### - 3dicons (Recommended)   
+### - 3dicons `(Recommended)`   
 - Beautifully crafted open source 3D icons.                   
 https://3dicons.co/ 
 
-### - illustration-free (Recommended)  
+### - illustration-free `(Recommended)`  
 - Japanese free icon illustration site.                    
 https://illustration-free.net/   
 
-### - illustcenter (Recommended)    
+### - illustcenter `(Recommended)`    
 - Japanese free animate illustration site.                     
 https://illustcenter.com/     
 
-### - dotown (Recommended)    
+### - dotown `(Recommended)`    
 - Japanese free pixel base illustration site.                     
 https://dotown.maeda-design-room.net/     
 
-### - iconpark (Recommended)      
+### - iconpark `(Recommended)`      
 - Abundant and colorful icon resource for free use.                      
 https://iconpark.oceanengine.com/     

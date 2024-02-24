@@ -21,7 +21,7 @@ These websites can be references for your design ideas
 - Discover the world’s top designers & creatives.  
 [https://dribbble.com/](https://dribbble.com/)  
 
-### - awwwards (Recommended)      
+### - awwwards `(Recommended)`      
 - Site of the day.    
 https://www.awwwards.com/  
 
@@ -45,7 +45,7 @@ https://scrnshts.club/
 - Daily handpicked UI inspiration & patterns.         
 https://uigarage.net/   
 
-### - refero (Recommended)        
+### - refero `(Recommended)`        
 - Explore real-world designs from the best products.           
 https://refero.design/   
 
@@ -147,9 +147,21 @@ https://refero.design/
 
 ### - designgallery  
 - Real estate website design.             
-https://re-designgallery.com/    
+https://re-designgallery.com/   
 
-### - thumbnail-gallery (Recommend)
+### - altbase  
+- General japanese website design.             
+https://altbase.co.jp/stock/      
+
+### - partsdesign `(Recommended)` 
+- Japanese website components design.               
+https://partsdesign.net/       
+
+### - design-library `(Recommended)` 
+- General japanese components references design website.                
+https://design-library.jp/ui/    
+
+### - thumbnail-gallery `(Recommended)` 
 - Great Japanese thumbnail design collections.             
 [https://thumbnail-gallery.net/](https://thumbnail-gallery.net/)     
 
