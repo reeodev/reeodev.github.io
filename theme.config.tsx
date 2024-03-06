@@ -23,6 +23,7 @@ const config: DocsThemeConfig = {
       <meta property="og:type" content="website"/>
       <meta property="og:image" content="https://reeodev.github.io/img/reelogo.ico"/>
       <meta property="og:image:alt" content="Studio logo"/>
+      <meta name="google-site-verification" content="ZjKwH4Y06oZBJxZFRbUfuSlxseG-qkijElmiTJqDXB4" />
 
       <link rel="mask-icon" href="img/reelogo.ico" color="#5bbad5"></link>
       <link rel="icon" type="image/x-icon" href="/img/reelogo.ico"></link>
