@@ -112,6 +112,10 @@ https://starlight.astro.build/
 -  Markdown component for React  
 [https://github.com/remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) 
 
+### - mdx-editor    
+-  A rich text editor React component for markdown  
+https://github.com/mdx-editor/editor  
+
 ### - react-simple-keyboard    
 -  React Virtual Keyboard - Customizable, responsive and lightweight    
 [https://github.com/hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard)  
@@ -265,6 +269,10 @@ https://sugar-high.vercel.app/
 - React renderer for creating PDF files on the browser and server.  
 [https://github.com/diegomura/react-pdf](https://github.com/diegomura/react-pdf)  
 
+### - react-print-pdf   
+- Build and generate PDF using React 📄 UI kit for PDFs and print documents.    
+https://github.com/OnedocLabs/react-print-pdf
+
 
 ## Audio 
 ### - wax    
@@ -328,6 +336,9 @@ https://pqina.nl/filepond/
 - Enlightened library to convert HTML and CSS to SVG.          
 [https://github.com/vercel/satori](https://github.com/vercel/satori)      
 
+### - react-document-picture-in-picture    
+- Feature-packed and optimised React component for Chrome's new Document Picture-in-Picture API.            
+https://github.com/martinshaw/react-document-picture-in-picture       
 
 
 ## Chat bot
@@ -424,9 +435,20 @@ https://github.com/antonioru/beautiful-react-hooks
 
 ## AI / ML / DL
 ### - Vercel AI SDK
-An open source library for building AI-powered user interfaces.  
+-  An open source library for building AI-powered user interfaces.  
 https://sdk.vercel.ai/docs  
 
 ### - transformers.js    
-transformers.js react tutorial.    
+-  transformers.js react tutorial.    
 https://huggingface.co/docs/transformers.js/tutorials/react    
+
+
+
+## Navigate
+### - react-router-dom      
+-  React Router side routing".        
+https://reactrouter.com/en/main     
+
+### - TanStack Router       
+-  Modern and scalable routing for React applications.        
+https://tanstack.com/router/latest          
