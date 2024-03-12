@@ -46,7 +46,7 @@ const config: DocsThemeConfig = {
   primaryHue: { dark: 68, light: 200 },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s - Reeodev'
+      titleTemplate: 'Reeodev | %s'
     }
   }
 }

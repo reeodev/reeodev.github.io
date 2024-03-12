@@ -15,12 +15,12 @@
     "title": "Resources",
     "type": "menu",
     "items": {
-      "general" : { "title": "General", "href":"/resources/general/FreeIll"},
-      "html" : { "title": "Html", "href":"/resources/html/animations"},
-      "css" : { "title": "CSS", "href":"/resources/css/fonts"},
-      "javascript" : { "title": "Javascript", "href":"/resources/javascript/javascript_utili"},
-      "react" : { "title": "React", "href":"/resources/react/React/reactCss"},
-      "vue" : { "title": "Vue", "href":"/resources/vue/vueUI"}
+      "General" : { "title": "General", "href":"/resources/General/FreeIll"},
+      "HTML" : { "title": "HTML", "href":"/resources/HTML/animations"},
+      "CSS" : { "title": "CSS", "href":"/resources/CSS/generative"},
+      "Javascript" : { "title": "Javascript", "href":"/resources/Javascript/javascript_utili"},
+      "React" : { "title": "React", "href":"/resources/React/React/reactCss"},
+      "Vue" : { "title": "Vue", "href":"/resources/Vue/vueUI"}
     }
   }
 }
