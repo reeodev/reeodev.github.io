@@ -4,7 +4,7 @@ title: Animations
 ---
 
 # Animations
-These websites can be references for your design ideas 
+These websites can be references for your design ideas.   
 
 ## Animations 
 ### - anime.js
