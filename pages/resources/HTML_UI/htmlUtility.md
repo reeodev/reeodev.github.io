@@ -4,7 +4,7 @@ title: HTML Utilis
 ---
 
 # Utility
-These websites can be references for your design ideas 
+These websites can be references for your design ideas.   
 
 ## Input Checking
 ### - Cleave.js

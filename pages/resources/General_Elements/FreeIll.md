@@ -4,7 +4,7 @@ title: Free Elements
 ---
 import { Callout } from 'nextra-theme-docs'
 
-# Free Elements
+# Illustration Elements
 
 These illustration can be use to your project for free
 
