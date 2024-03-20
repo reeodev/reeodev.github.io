@@ -2,13 +2,10 @@
 sidebar_position: 2
 ---
 
-
 # Shadow
-
-Shadow css to your elements
+Shadow css to your elements.  
 
 ## Boxs shadow
-
 ### - CSS Scans
 [https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
 ![cssScanShadowImage](../../../public/img/cssScanShadow.jpg)

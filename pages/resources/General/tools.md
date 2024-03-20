@@ -3,11 +3,8 @@ sidebar_position: 5
 title: Design Tools
 ---
 
-
 # Design Tools
-
-These websites can be references for your design ideas 
-
+These websites can be references for your design ideas.   
 
 ## Code Graphics
 ### - codepng  

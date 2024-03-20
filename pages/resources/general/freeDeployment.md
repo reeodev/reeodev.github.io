@@ -5,7 +5,7 @@ title: Free Deployment Tools
 
 # Free or cheap Deployment Tools
 
-These website contribute to eliminate network bagger **AWS**
+These website contribute to eliminate network bagger.    
 
 ## Frontend Deployment
 ### - Netlify Drop

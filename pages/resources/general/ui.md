@@ -5,9 +5,8 @@ title: UI References
 
 # UI / Ux Design references
 
-## UI  Design references
-
-These websites can be references for your design ideas 
+## UI Design references  
+These websites can be references for your design ideas.  
 
 ### - Behance 
 - Ideas and design references.  
