@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Generator & Useful websites
-These websites can be references for your design ideas 
+These websites can be references for your design ideas.  
 
 ## Animation & Art generate
 ### - shapedivider
