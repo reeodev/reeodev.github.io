@@ -63,9 +63,9 @@ function HomePage() {
 
                     <Grid>
                         {[
-                            { icon: <IconBrandReact />, title: "React", color: "blue", href: "/resources/react/React_Utils/reactCss" },
+                            { icon: <IconBrandReact />, title: "React", color: "blue", href: "/resources/React_Utils/React/reactCss" },
                             { icon: <IconBrandHtml5 />, title: "HTML", color: "red", href: "/resources/HTML_UI/animations" },
-                            { icon: <IconBrandCss3 />, title: "CSS", color: "indigo", href: "/resources/CSS_Tools/fonts" },
+                            { icon: <IconBrandCss3 />, title: "CSS", color: "indigo", href: "/resources/CSS_Tools/generative" },
                             { icon: <IconBrandJavascript />, title: "JS", color: "yellow", href: "/resources/Javascript_Tools/javascript_utili" }
                             // <IconBook/>
                         ]
