@@ -24,7 +24,7 @@ https://www.ray.so/
 https://carbon.now.sh/   
 
 
-## Graphics
+## Graphics / Images
 ### - Lottiefiles  
 - Lightweight, scalable animations for your docs and pitches.    
 [https://lottiefiles.com/](https://lottiefiles.com/)  
@@ -48,6 +48,10 @@ https://petalica.com/index_zh.html
 ### - tabletomarkdown   
 - Convert spreadsheet cells to Markdown.          
 https://tabletomarkdown.com/convert-spreadsheet-to-markdown/  
+
+### - rmbg     
+- RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.            
+https://github.com/zhbhun/rmbg      
 
 
 ## Performances
@@ -85,4 +89,8 @@ https://dictation.io/speech
 ## Others
 ### - 10minutemail  
 - Free Temporary Email.         
-https://10minutemail.com/  
+https://10minutemail.com/ 
+
+### - ollama    
+- Get up and running with Llama 3, Mistral, Gemma, and other large language models.          
+https://github.com/ollama/ollama    

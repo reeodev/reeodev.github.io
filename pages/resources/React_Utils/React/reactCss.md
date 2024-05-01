@@ -250,6 +250,10 @@ https://github.com/react-component/pagination
 ### - img-comparison-slider     
 - Image comparison slider. Compare images before and after. Supports React, Vue, Angular.    
 [https://github.com/sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider)    
+
+### - react-glider         
+- A ReactJS wrapper for Glider.js.      
+https://github.com/kevinfarrugia/react-glider     
     
 ### - react-quick-pinch-zoom       
 - A react component that providing multi-touch gestures for zooming and dragging on any DOM element.      
@@ -681,7 +685,11 @@ https://github.com/omgovich/react-colorful
 
 ### - react-color
 - 🎨 Is a tiny color picker widget component for React apps.      
-https://github.com/uiwjs/react-color   
+https://github.com/uiwjs/react-color 
+
+### - tscircuit    
+- ⏣ React for Circuits.        
+https://github.com/tscircuit/tscircuit     
 
 ### - frappe
 - A simple, interactive, modern gantt chart library for the web with drag, resize, dependencies and time scales.     
