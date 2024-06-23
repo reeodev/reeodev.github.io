@@ -62,6 +62,14 @@ https://9elements.github.io/fancy-border-radius/
 - Gradients color generater.                  
 https://uigradients.com/  
 
+### - css-shape      
+- The Ultimate Collection of CSS-only Shapes.                    
+https://css-shape.com/  
+
+### - lookscanned        
+- Look Scanned is a pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore - everything you need to do is just a few clicks.                     
+https://lookscanned.io/  
+
 
 ## Free fonts site
 ### - Google Fonts 
