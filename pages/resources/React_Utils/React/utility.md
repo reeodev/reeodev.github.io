@@ -128,6 +128,10 @@ https://github.com/gcoro/react-qrcode-logo
 -  A thin wrapper around the exceljs package that uses file-saver for generating excel files.        
 https://github.com/dadamssg/react-use-exceljs  
 
+### - react-signature-pad-wrapper    
+-  A React wrapper for signature pad.          
+https://github.com/michaeldzjap/react-signature-pad-wrapper  
+
 ### - react-multivalue-text-input      
 -  An analog clock for your React app.          
 https://www.npmjs.com/package/react-multivalue-text-input 

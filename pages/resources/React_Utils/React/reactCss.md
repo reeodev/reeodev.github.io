@@ -104,6 +104,10 @@ https://geist-ui.dev/en-us
 - React components for creating a Win98-like web interface.                     
 https://github.com/lisandro52/react-winplaza-98      
 
+### - react-modal-sheet    
+- Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐.                      
+https://github.com/Temzasse/react-modal-sheet   
+
 ### - gestalt   
 - Gestalt is Pinterest’s design system.                   
 https://gestalt.pinterest.systems/home  
@@ -186,6 +190,10 @@ https://github.com/Etesam913/react-magic-motion
 ### - react-glow
 - Add a mouse-tracing glow effect to React components.       
 https://github.com/codaworks/react-glow   
+
+### - simpleParallax.js
+- Easy Parallax Effect for React & JavaScript.       
+https://github.com/geosigno/simpleParallax.js    
 
 ### - typeit-react  
 -  dynamic typewriter effects to your React applications.  
@@ -817,3 +825,7 @@ https://github.com/visgl/react-map-gl
 ### - react-google-maps    
 - React component and hooks library for Google Maps.                  
 https://github.com/visgl/react-google-maps    
+ 
+### - react-geo      
+- providing a large number of components to build modern mapping applications. It is used in combination with React, OpenLayers and Ant Design.                    
+https://terrestris.github.io/react-geo/docs/latest/#/Introduction       
