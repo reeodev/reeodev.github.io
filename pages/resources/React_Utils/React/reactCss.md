@@ -88,6 +88,30 @@ https://ui.aceternity.com/
 - PrimeReact is a rich set of open source UI Components for React.          
 [https://www.primefaces.org/primereact/](https://www.primefaces.org/primereact/) 
 
+### - TDesign  
+- Enterprise Design System.            
+https://tdesign.tencent.com/  
+
+### - arco    
+- Intelligent design system Connect swift experience.  
+https://arco.design/en-US  
+
+### - titian      
+- Titian Design Kit.  
+https://titian.design.weimob.com/docs/react/components/start/quick-start
+
+### - semi design        
+- Defines a set of mid-back design and front-end basic components, helping us to more easily create a more consistent user experience.    
+https://semi.design/en-US/start/getting-started
+
+### - didi      
+- Mobile component library designed for financial scenarios，which is based on Vue.js. It has been actually applied to more than 10 products in the four major financial business segments of DiDi Chuxing.    
+https://didi.github.io/mand-mobile/#/en-US/docs/introduce  
+
+### - hiui       
+- HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend.   
+https://github.com/XiaoMi/hiui   
+
 ### - react-chat-elements   
 - Reactjs chat elements chat UI, react chat components.          
 [https://github.com/Detaysoft/react-chat-elements](https://github.com/Detaysoft/react-chat-elements) 
