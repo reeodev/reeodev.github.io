@@ -144,9 +144,53 @@ https://refero.design/
 - Good web design collections.                      
 [https://good-web-design.com/](https://good-web-design.com/)     
 
+### - curationofcurations      
+- The Ultimate Design Curations to Get Inspired.                     
+https://www.curationofcurations.com/  
+
+### - cursorup      
+- The world's best portfolio website designs.                    
+https://www.cursorup.com/sites/portfolio   
+
+### - footer design    
+- Design references.                  
+https://www.footer.design/  
+
+### - theappfuel    
+- The one-stop station for app builders.                 
+https://www.theappfuel.com/         
+
+### - landingfolio    
+- The Best Landing Page Design Inspiration, Templates and More.               
+https://www.landingfolio.com/       
+
 ### - designgallery  
 - Real estate website design.             
-https://re-designgallery.com/   
+https://re-designgallery.com/     
+
+### - fontsinuse    
+- An independent archive of typography. Made possible by sponsors like Typotheque.                
+https://fontsinuse.com/    
+
+### - logofav      
+- Get logo ideas with a collection of our favorite logo examples from real-companies.                  
+https://www.logofav.com/   
+
+### - brandguidelines        
+- Need a guideline or assistance with a visual identity/UI/UX?                     
+https://www.brandguidelines.net/   
+
+### - storefront design      
+- We curate the best digital storefronts on the internet.                    
+https://www.storefront.design/   
+
+### - trending design       
+- The best design inspiration on the web.                    
+https://trending.design/   
+
+### - bestfolios    
+- Featuring the best portfolio websites and resumes from UI/UX designers, graphic designers and motion designers.               
+https://www.bestfolios.com/featured    
 
 ### - altbase  
 - General japanese website design.             
