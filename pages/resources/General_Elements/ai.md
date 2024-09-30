@@ -7,6 +7,16 @@ import { Callout } from 'nextra-theme-docs'
 # Self host / Open Sources AI tools
 The following section will be focus on self-hosting AI tools, which aims to free forever or open to host with your own devices.
 
+## Platform 
+### - Dify.AI   
+The Innovation Engine for Generative AI Applications  
+https://dify.ai/     
+
+### - langflow   
+Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.  
+https://www.langflow.org/  
+
+
 ## Audio to Text
 ### - Whisper  
 High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model    

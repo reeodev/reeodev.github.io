@@ -273,6 +273,10 @@ https://sugar-high.vercel.app/
 - React renderer for creating PDF files on the browser and server.  
 [https://github.com/diegomura/react-pdf](https://github.com/diegomura/react-pdf)  
 
+### - pdfslick    
+- View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps.    
+https://github.com/pdfslick/pdfslick   
+
 ### - react-print-pdf   
 - Build and generate PDF using React 📄 UI kit for PDFs and print documents.    
 https://github.com/OnedocLabs/react-print-pdf
