@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: React Utility
+title: 🛠️ React Utility
 ---
 
 # Utility

@@ -44,6 +44,7 @@ const config: DocsThemeConfig = {
     defaultMenuCollapseLevel: 1
   },
   primaryHue: { dark: 68, light: 200 },
+  // gitTimestamp: true,
   useNextSeoProps() {
     return {
       titleTemplate: 'Reeodev | %s'

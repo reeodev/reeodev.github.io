@@ -1,8 +1,8 @@
 {
-    "General_Elements": "General Elements",
-    "HTML_UI": "HTML",
-    "CSS_Tools": "CSS Tools",
-    "Javascript_Tools": "Javascript",
-    "React_Utils": "React",
-    "Vue_Utils": "Vue"
+    "General_Elements": "🔍 General Elements",
+    "HTML_UI": "📄 HTML",
+    "CSS_Tools": "🎨 CSS",
+    "Javascript_Tools": "💻 Javascript",
+    "React_Utils": "⚛️ React",
+    "Vue_Utils": "🟩 Vue"
 }

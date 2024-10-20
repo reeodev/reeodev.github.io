@@ -15,7 +15,7 @@
     "title": "Resources",
     "type": "menu",
     "items": {
-      "General" : { "title": "General", "href":"/resources/General_Elements/FreeIll"},
+      "General" : { "title": "General", "href":"/resources/General_Elements/Design/FreeIll"},
       "HTML" : { "title": "HTML", "href":"/resources/HTML_UI/animations"},
       "CSS" : { "title": "CSS", "href":"/resources/CSS_Tools/generative"},
       "Javascript" : { "title": "Javascript", "href":"/resources/Javascript_Tools/javascript_utili"},

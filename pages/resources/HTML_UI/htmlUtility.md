@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: HTML Utilis
+title: 🛠️ HTML Utilis
 ---
 
 # Utility

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+title: 🔧 Javascript Tools
 ---
 
 # Javascript tools
