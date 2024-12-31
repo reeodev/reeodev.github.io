@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://github.com/reeodev/reeodev.github.io</loc><lastmod>2024-12-31T02:44:01.845Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/about/yolo</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/CSS_Tools/generative</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/CSS_Tools/shadow</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/AI_Tools/ai</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/AI_Tools/aiOnline</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/Design/FreeIll</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/Design/tools</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/freeDeployment</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/readings</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/General_Elements/ui</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/HTML_UI/animations</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/HTML_UI/htmlUtility</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/Javascript_Tools/javascript_tools</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/Javascript_Tools/javascript_utili</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/React/reactCss</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/React/utility</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/common/Generalframework</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/common/reading</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/native/reactNativeCss</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/native/utility</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/React_Utils/recommendations/recommendations</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/Vue_Utils/utilis</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://github.com/reeodev/reeodev.github.io/resources/Vue_Utils/vueUI</loc><lastmod>2024-12-31T02:44:01.846Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

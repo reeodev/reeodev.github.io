@@ -32,7 +32,7 @@ const config: DocsThemeConfig = {
     </>
   ),
   footer: {
-    text: <span>Reeodev - {new Date().getFullYear()}</span>,
+    text: <span>Copyright © Reeodev {new Date().getFullYear()} - All Rights Reserved</span>,
   },
   editLink: {
     text : null
