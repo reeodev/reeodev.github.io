@@ -401,7 +401,23 @@ https://github.com/masonwongcs/react-simple-marquee
 
 ### - @P5-wrapper                           
 - A wrapper component that allows you to utilise P5 sketches within React apps.                             
-https://github.com/P5-wrapper/react                      
+https://github.com/P5-wrapper/react     
+                 
+### - react-spinners                            
+- A collection of loading spinner components for react.                               
+https://github.com/davidhu2000/react-spinners
+
+### - spoiled                               
+- Hide precious secrets. Realistic `<Spoiler />` component for React.js.                                 
+https://github.com/molefrog/spoiled        
+
+### - viselect                                 
+- Viselect Visual Selection Library.                                   
+https://simonwep.github.io/viselect/  
+
+### - Nine Patch React                                  
+- Put any content inside a box rendered from an image using the "nine-patch" technique.                                     
+https://stur86.github.io/nine-patch-react/                     
 
 
 ## Alert pop up
@@ -650,7 +666,11 @@ https://github.com/gilbarbara/react-inlinesvg
 
 ### - toast-ui/react-chart        
 - React component wrapping TOAST UI Chart.                   
-https://github.com/nhn/tui.chart/tree/main/apps/react-chart   
+https://github.com/nhn/tui.chart/tree/main/apps/react-chart 
+
+### - react-call          
+- Call your React components.                     
+https://github.com/desko27/react-call#readme   
 
 ### - react-graph-gallery          
 - Build interactive charts for the web                     

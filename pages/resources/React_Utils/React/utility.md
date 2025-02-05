@@ -24,6 +24,14 @@ These websites can be references for your design ideas
 - Zorm - Type-safe 'form' for React using Zod.  
 [https://github.com/esamattis/react-zorm](https://github.com/esamattis/react-zorm)  
 
+### - react-querybuilder  
+- The Query Builder Component for React.    
+https://react-querybuilder.js.org/   
+
+### - @formity/react   
+- Build The Most Powerful Forms, Without The Hassle.      
+https://www.formity.app/docs    
+
 ### - REACT FINAL FORM
 - High performance subscription-based form state management for React.  
 [https://final-form.org/react/](https://final-form.org/react/)  
@@ -35,6 +43,10 @@ These websites can be references for your design ideas
 ### - react-select-datepicker
 - A simple and reusable dropdown datepicker component for React.    
 [https://www.npmjs.com/package/react-select-datepicker](https://www.npmjs.com/package/react-select-datepicker) 
+
+### - schedule-x  
+- JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.   
+https://github.com/schedule-x/schedule-x    
 
 ### - react-timezone-select  
 - 🌐 An extremely usable and dynamic React timezone selector.     
@@ -119,6 +131,10 @@ https://github.com/mdx-editor/editor
 ### - react-simple-keyboard    
 -  React Virtual Keyboard - Customizable, responsive and lightweight    
 [https://github.com/hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard)  
+
+### - virtual-keyboard     
+-  The modern virtual keyboard for React.    
+https://virtual-keyboard.js.org/react/   
 
 ### - react-qrcode-logo     
 -  React + Typescript component to generate a QR Code with custom colors and logo.      
@@ -281,6 +297,11 @@ https://github.com/pdfslick/pdfslick
 - Build and generate PDF using React 📄 UI kit for PDFs and print documents.    
 https://github.com/OnedocLabs/react-print-pdf
 
+### - jscanify      
+- jscanify is an open-source pure Javascript implemented mobile document scanner designed to run in any Javascript environment for free.      
+https://colonelparrot.github.io/jscanify/  
+
+
 
 ## Audio 
 ### - wax    
@@ -346,7 +367,11 @@ https://pqina.nl/filepond/
 
 ### - react-document-picture-in-picture    
 - Feature-packed and optimised React component for Chrome's new Document Picture-in-Picture API.            
-https://github.com/martinshaw/react-document-picture-in-picture       
+https://github.com/martinshaw/react-document-picture-in-picture   
+
+### - Unpic      
+- Set of tools for working with images on the web.              
+https://unpic.pics/img/react/      
 
 
 ## Chat bot

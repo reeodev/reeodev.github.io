@@ -49,3 +49,7 @@ https://github.com/ViroCommunity/viro
 ### - react-native-skottie     
 - ▶️ Efficient lottie animations using Skia's Skottie module.          
 https://github.com/margelo/react-native-skottie  
+
+### - react-native-reanimated    
+- Create smooth animations with an excellent developer experience.          
+https://docs.swmansion.com/react-native-reanimated/  
