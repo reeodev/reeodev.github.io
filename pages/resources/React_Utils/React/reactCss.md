@@ -205,7 +205,11 @@ https://rewind-ui.dev/
 ## Animations 
 ### - react-swipeable-views  
 - A React component for swipeable views.  
-[https://github.com/oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)  
+[https://github.com/oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) 
+
+### - cursify    
+- the only cursor animation you need.   
+https://cursify.vercel.app/get-started   
 
 ### - react-magic-motion
 - react-magic-motion is a react.js library that ✨ magically animates your components.     
@@ -313,7 +317,11 @@ https://github.com/retyui/react-quick-pinch-zoom
 
 ### - image     
 - React Image Component.               
-[https://github.com/react-component/image](https://github.com/react-component/image)    
+[https://github.com/react-component/image](https://github.com/react-component/image)   
+
+### - fancycomponents         
+- Make your website fancy  
+https://www.fancycomponents.dev/       
 
 ### - react-easy-infinite-scroll-hook     
 - A react hook that makes it easy to add infinite scroll to any component.                 

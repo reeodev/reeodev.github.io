@@ -187,6 +187,14 @@ https://github.com/Doist/typist
 ### - plate                  
 -  The rich-text editor for React.                           
 https://github.com/udecode/plate   
+ 
+### - BlockNote                    
+-  A React Rich Text Editor that's block-based (Notion style) and extensible.  
+https://github.com/TypeCellOS/BlockNote  
+
+### - react-speech-recognition                      
+-  💬Speech recognition for your React app.    
+https://github.com/JamesBrill/react-speech-recognition   
 
 
 ## Loading / Progress
@@ -461,6 +469,9 @@ https://usehooks-ts.com/
 -  A collection of modern, server-safe React hooks – from the ui.dev team.        
 https://usehooks.com/   
 
+### - react-scan  
+-  Scan for React performance issues and eliminate slow renders in your app.          
+https://github.com/aidenybai/react-scan/tree/main  
 
 ### - beautiful-react-hooks      
 -  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       
