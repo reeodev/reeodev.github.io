@@ -114,3 +114,9 @@ https://astro.build/
 ### million.js  
 - Make React 70% faster.     
 https://million.dev/  
+
+
+## Others
+### Pake      
+- 🤱🏻 Turn any webpage into a desktop app with Rust.           
+https://github.com/tw93/Pake?tab=readme-ov-file    
