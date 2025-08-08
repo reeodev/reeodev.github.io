@@ -486,6 +486,18 @@ https://sdk.vercel.ai/docs
 -  transformers.js react tutorial.    
 https://huggingface.co/docs/transformers.js/tutorials/react    
 
+## Fetch / API
+### - SWR      
+-  React Hooks for Data Fetching.         
+https://swr.vercel.app
+
+### - React Hyper Fetch      
+-  Integrate with any API. Simple, TypeSafeTypeSafe, Fast.           
+https://hyperfetch.bettertyped.com/  
+
+### - react-query        
+-  Powerful asynchronous state management for TS/JS, React, Solid, Vue, Svelte and Angular.             
+https://www.npmjs.com/package/react-query    
 
 
 ## Navigate
