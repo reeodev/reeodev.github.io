@@ -477,6 +477,10 @@ https://github.com/aidenybai/react-scan/tree/main
 -  🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥       
 https://github.com/antonioru/beautiful-react-hooks    
 
+### - pyodide       
+-  Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.          
+https://github.com/pyodide/pyodide  
+
 ## AI / ML / DL
 ### - Vercel AI SDK
 -  An open source library for building AI-powered user interfaces.  
@@ -507,4 +511,9 @@ https://reactrouter.com/en/main
 
 ### - TanStack Router       
 -  Modern and scalable routing for React applications.        
-https://tanstack.com/router/latest          
+https://tanstack.com/router/latest    
+
+## Others
+### - watermark-js-plus        
+-  watermark for the browser.          
+https://github.com/zhensherlock/watermark-js-plus          
