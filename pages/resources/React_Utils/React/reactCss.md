@@ -197,6 +197,10 @@ https://rewind-ui.dev/
 - A set of 3108 free MIT-licensed high-quality SVG icons for you to use in your web projects.       
 [https://www.npmjs.com/package/@tabler/icons](https://www.npmjs.com/package/@tabler/icons)   
 
+### - react-old-icons   
+- Icons from a variety of vintage operating systems (e.g. Windows 95) and apps.         
+https://gsnoopy.github.io/react-old-icons/     
+
 ### - boring-avatars  
 - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.      
 [https://github.com/boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars)   
